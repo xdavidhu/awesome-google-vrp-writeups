@@ -32,3 +32,5 @@ Thank you! 🎉
 - [Stored, Reflected and DOM XSS in Google for Work Connect (GWC)](http://respectxss.blogspot.com/2016/02/stored-reflected-and-dom-xss-in-google.html) by [Ashar Javed](https://twitter.com/soaj1664ashar)
 - [Billion Laugh Attack in https://sites.google.com](https://blog.intothesymmetry.com/2018/12/billion-laugh-attack-in.html) by [Antonio Sanso](https://twitter.com/asanso)
 - [Again, from Nay to Yay in Google Vulnerability Reward Program!](https://blog.yappare.com/2014/01/again-from-nay-to-yay-in-google.html) by [Ahmad Ashraff](https://twitter.com/yappare)
+- [I hate you, so I pawn your Google Open Gallery](https://blog.yappare.com/2014/08/i-hate-you-so-i-pawn-your-google-open.html) by [Ahmad Ashraff](https://twitter.com/yappare)
+- [XSRF and Cookie manipulation on google.com](https://blog.miki.it/2013/9/15/xsrf-cookie-setting-google/) by [Michele Spagnuolo](https://twitter.com/mikispag)
