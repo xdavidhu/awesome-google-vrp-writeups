@@ -1,6 +1,8 @@
 # Awesome Google VRP Writeups
 🐛 A list of writeups from the Google VRP Bug Bounty program
 
+*\*writeups: **not just** writeups*
+
 ## Contributing:
 
 If you have/know of any Google writeups not listed in this repository, feel free to open a Pull Request. If the writeup is new, add it to the top of the list, if it is not, to the end.
