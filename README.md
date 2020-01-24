@@ -47,3 +47,8 @@ Thank you! 🎉
 - [Again, from Nay to Yay in Google Vulnerability Reward Program!](https://blog.yappare.com/2014/01/again-from-nay-to-yay-in-google.html) by [Ahmad Ashraff](https://twitter.com/yappare)
 - [I hate you, so I pawn your Google Open Gallery](https://blog.yappare.com/2014/08/i-hate-you-so-i-pawn-your-google-open.html) by [Ahmad Ashraff](https://twitter.com/yappare)
 - [XSRF and Cookie manipulation on google.com](https://blog.miki.it/2013/9/15/xsrf-cookie-setting-google/) by [Michele Spagnuolo](https://twitter.com/mikispag)
+
+## Videos:
+- [Best Of Google VRP 2018](https://www.youtube.com/watch?v=mJwZfRXs83M) by [Daniel Stelter-Gliese](https://ch.linkedin.com/in/daniel-stelter-gliese-170a70a2)
+- [Great Bugs In Google VRP In 2016](https://www.youtube.com/watch?v=zs_nEJ9fh_4) by [Martin Straka and Karshan Sharma](https://nullcon.net/website/goa-2017/about-speakers.php)
+- [Google Paid Me to Talk About a Security Issue!](https://www.youtube.com/watch?v=E-P9USG6kLs) by [LiveOverflow](https://twitter.com/LiveOverflow/)
