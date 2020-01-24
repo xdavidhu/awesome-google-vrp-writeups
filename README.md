@@ -1,4 +1,4 @@
-# Awesome Google VRP writeups
+# Awesome Google VRP Writeups
 🐛 A list of writeups from the Google VRP Bug Bounty program
 
 ## Contributing:
@@ -32,6 +32,7 @@ Thank you! 🎉
 - [Google bugs stories and the shiny pixelbook](https://bughunt1307.herokuapp.com/googlebugs.html) by [Missoum Said](https://twitter.com/missoum1307)
 - [$500 getClass](https://sites.google.com/site/testsitehacking/-500-getclass) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - [Google Webmaster Markup Helper Framed Application XSS](https://jasminderpalsingh.info/google-webmaster-markup-helper-framed-application-xss/) by [Jasminder Pal Singh](https://twitter.com/Singh_Jasminder)
+- [Voice Squatting & Voice Masquerading Attack against Amazon Alexa and Google Home Actions](https://sites.google.com/site/voicevpasec/) by ???
 - [Stored XSS on biz.waze.com](https://sites.google.com/securifyinc.com/vrp-writeups/waze/waze-xss) by [Rojan Rijal](https://twitter.com/mallocsys)
 - [Writeup for the 2019 Google Cloud Platform VRP Prize!](https://medium.com/@missoum1307/writeup-for-the-2019-google-cloud-platform-vrp-prize-4e104ef9f204) by [Missoum Said](https://twitter.com/missoum1307)
 - [Blind XSS against a Googler](https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/blind-xss) by [Rojan Rijal](https://twitter.com/mallocsys)
@@ -39,6 +40,7 @@ Thank you! 🎉
 - [How I could have hijacked a victim’s YouTube notifications!](https://hackademic.co.in/youtube-bug/) by [Yash Sodha](https://twitter.com/y_sodha)
 - [Multiple XSSs on hire.withgoogle.com](https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/xsses) by [Rojan Rijal](https://twitter.com/mallocsys)
 - [Auth Issues on hire.withgoogle.com](https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/auth-issues) by [Rojan Rijal](https://twitter.com/mallocsys)
+- [Waze remote vulnerabilities](http://blog.appscan.io/index.php/2018/05/25/waze-remote-vulnerability-technical-report/) by [PanguTeam](https://twitter.com/PanguTeam)
 - [G Suite - Device Management XSS](https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management) by [Rojan Rijal](https://twitter.com/mallocsys)
 - [XSS in YouTube Gaming](http://respectxss.blogspot.com/2015/10/xss-in-youtube-gaming.html) by [Ashar Javed](https://twitter.com/soaj1664ashar)
 - [Exploiting Clickjacking Vulnerability To Steal User Cookies](https://jasminderpalsingh.info/exploiting-google-clickjacking-vulnerability-to-steal-user-cookies/) by [Jasminder Pal Singh](https://twitter.com/Singh_Jasminder)
