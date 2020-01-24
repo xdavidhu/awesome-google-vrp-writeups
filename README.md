@@ -51,4 +51,7 @@ Thank you! 🎉
 ## Videos:
 - [Best Of Google VRP 2018](https://www.youtube.com/watch?v=mJwZfRXs83M) by [Daniel Stelter-Gliese](https://ch.linkedin.com/in/daniel-stelter-gliese-170a70a2)
 - [Great Bugs In Google VRP In 2016](https://www.youtube.com/watch?v=zs_nEJ9fh_4) by [Martin Straka and Karshan Sharma](https://nullcon.net/website/goa-2017/about-speakers.php)
+- [Google Cloud Platform vulnerabilities](https://www.youtube.com/watch?v=9pviQ19njIs) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - [Google Paid Me to Talk About a Security Issue!](https://www.youtube.com/watch?v=E-P9USG6kLs) by [LiveOverflow](https://twitter.com/LiveOverflow/)
+- [War Stories from Google’s Vulnerability Reward Program](https://www.youtube.com/watch?v=QoE0M7v84ZU) by [Gábor Molnár](https://twitter.com/molnar_g)
+- [Secrets of the Google Vulnerability Reward Program](https://www.youtube.com/watch?v=ueEsOnHJZ80) by [Krzysztof Kotowicz](https://ch.linkedin.com/in/kkotowicz)
