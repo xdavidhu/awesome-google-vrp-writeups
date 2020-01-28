@@ -20,7 +20,7 @@ Thank you! 🎉
 
 ## Blog posts:
 - [$36k Google App Engine RCE](https://www.ezequiel.tech/p/36k-google-app-engine-rce.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
-- [How I hacked Google’s bug tracking system itself for $15,600 in bounties](https://www.freecodecamp.org/news/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5/) by [Alex Birsan](https://twitter.com/alxbrsn)
+- [How I hacked Google’s bug tracking system itself for $15,600 in bounties](https://medium.com/@alex.birsan/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5) by [Alex Birsan](https://twitter.com/alxbrsn)
 - [XSS in GMail’s AMP4Email via DOM Clobbering](https://research.securitum.com/xss-in-amp4email-dom-clobbering/) by [Michał Bentkowski](https://twitter.com/SecurityMB)
 - [$10k host header](https://www.ezequiel.tech/p/10k-host-header.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - [Into the Borg – SSRF inside Google production network](https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/) by [Enguerran Gillier](https://twitter.com/opnsec)
