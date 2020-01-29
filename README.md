@@ -14,7 +14,7 @@ The template to follow when adding new writeups:
 *If no Twitter account is available, try finding something similar, like other social media page or website.*
 
 ### Contributors:
-[David Schütz](https://twitter.com/xdavidhu), `YOUR_NAME_HERE`
+[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), `YOUR_NAME_HERE`
 
 Thank you! 🎉
 
