@@ -72,3 +72,4 @@ Thank you! 🎉
 - [Google Paid Me to Talk About a Security Issue!](https://www.youtube.com/watch?v=E-P9USG6kLs) by [LiveOverflow](https://twitter.com/LiveOverflow/)
 - [War Stories from Google’s Vulnerability Reward Program](https://www.youtube.com/watch?v=QoE0M7v84ZU) by [Gábor Molnár](https://twitter.com/molnar_g)
 - [Secrets of the Google Vulnerability Reward Program](https://www.youtube.com/watch?v=ueEsOnHJZ80) by [Krzysztof Kotowicz](https://ch.linkedin.com/in/kkotowicz)
+- [XSS on Google Search - Sanitizing HTML in The Client?](https://www.youtube.com/watch?v=lG7U3fuNw3A) by [LiveOverflow](https://twitter.com/LiveOverflow/)
