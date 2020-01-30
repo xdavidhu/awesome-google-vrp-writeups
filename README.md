@@ -19,6 +19,7 @@ The template to follow when adding new writeups:
 Thank you! 🎉
 
 ## Blog posts:
+- [Information Disclosure Vulnerability in the Google Cloud Speech-to-Text API](https://www.dcine.com/2020/01/12/information-disclosure-vulnerability-in-the-google-cloud-speech-to-text-api/) by [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/)
 - [$36k Google App Engine RCE](https://www.ezequiel.tech/p/36k-google-app-engine-rce.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - [How I hacked Google’s bug tracking system itself for $15,600 in bounties](https://medium.com/@alex.birsan/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5) by [Alex Birsan](https://twitter.com/alxbrsn)
 - [XSS in GMail’s AMP4Email via DOM Clobbering](https://research.securitum.com/xss-in-amp4email-dom-clobbering/) by [Michał Bentkowski](https://twitter.com/SecurityMB)
