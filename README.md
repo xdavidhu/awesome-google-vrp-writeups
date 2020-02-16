@@ -14,7 +14,7 @@ The template to follow when adding new writeups:
 *If no Twitter account is available, try finding something similar, like other social media page or website.*
 
 ### Contributors:
-[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), `YOUR_NAME_HERE`
+[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), `YOUR_NAME_HERE`
 
 Thank you! 🎉
 
@@ -67,6 +67,7 @@ Thank you! 🎉
 - [XSRF and Cookie manipulation on google.com](https://blog.miki.it/2013/9/15/xsrf-cookie-setting-google/) by [Michele Spagnuolo](https://twitter.com/mikispag)
 - [The 5000$ Google XSS](https://blog.it-securityguard.com/bugbounty-the-5000-google-xss/) by [Patrik Fehrenbach](https://twitter.com/itsecurityguard)
 - [fastboot oem sha1sum](https://securityresear.ch/2017/01/04/fastboot-oem-sha1sum/) by [Roee Hay](https://twitter.com/roeehay)
+- [How did I earn $3133.70 from Google Translator? (XSS)](https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc) by [Beri Bey](https://medium.com/@beribeys)
 
 ## Videos:
 - [Best Of Google VRP 2018](https://www.youtube.com/watch?v=mJwZfRXs83M) by [Daniel Stelter-Gliese](https://ch.linkedin.com/in/daniel-stelter-gliese-170a70a2)
