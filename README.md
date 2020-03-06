@@ -68,6 +68,7 @@ Thank you! 🎉
 - [The 5000$ Google XSS](https://blog.it-securityguard.com/bugbounty-the-5000-google-xss/) by [Patrik Fehrenbach](https://twitter.com/itsecurityguard)
 - [fastboot oem sha1sum](https://securityresear.ch/2017/01/04/fastboot-oem-sha1sum/) by [Roee Hay](https://twitter.com/roeehay)
 - [How did I earn $3133.70 from Google Translator? (XSS)](https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc) by [Beri Bey](https://medium.com/@beribeys)
+- [Hacking YouTube for #fun and #profit](https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/) by [Alexandru Coltuneac](https://twitter.com/dekeeu)
 
 ## Videos:
 - [Best Of Google VRP 2018](https://www.youtube.com/watch?v=mJwZfRXs83M) by [Daniel Stelter-Gliese](https://ch.linkedin.com/in/daniel-stelter-gliese-170a70a2)
