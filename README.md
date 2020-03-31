@@ -19,6 +19,7 @@ The template to follow when adding new writeups:
 Thank you! 🎉
 
 ## Blog posts:
+- [$3133.7 Google Bug Bounty Writeup- XSS Vulnerability!](https://pethuraj.com/blog/google-bug-bounty-writeup/) by [Pethuraj M](https://twitter.com/itsmepethu)
 - [The unexpected Google wide domain check bypass](https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/) by [David Schütz](https://twitter.com/xdavidhu)
 - [Information Disclosure Vulnerability in the Google Cloud Speech-to-Text API](https://www.dcine.com/2020/01/12/information-disclosure-vulnerability-in-the-google-cloud-speech-to-text-api/) by [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/)
 - [$36k Google App Engine RCE](https://www.ezequiel.tech/p/36k-google-app-engine-rce.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
