@@ -79,6 +79,7 @@ Thank you! 🎉
 - [Ok Google, Give Me All Your Internal DNS Information!](https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/) by [Julien Ahrens](https://twitter.com/MrTuxracer)
 
 ## Videos:
+- [Google Bug Hunters](https://www.youtube.com/watch?v=DTXUMBc1zEc) by [Eduardo Vela Nava](https://twitter.com/sirdarckcat)
 - [Best Of Google VRP 2018](https://www.youtube.com/watch?v=mJwZfRXs83M) by [Daniel Stelter-Gliese](https://ch.linkedin.com/in/daniel-stelter-gliese-170a70a2)
 - [Great Bugs In Google VRP In 2016](https://www.youtube.com/watch?v=zs_nEJ9fh_4) by [Martin Straka and Karshan Sharma](https://nullcon.net/website/goa-2017/about-speakers.php)
 - [Google Cloud Platform vulnerabilities](https://www.youtube.com/watch?v=9pviQ19njIs) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
