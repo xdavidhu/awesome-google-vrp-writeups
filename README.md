@@ -14,7 +14,7 @@ The template to follow when adding new writeups:
 *If no Twitter account is available, try finding something similar, like other social media page or website.*
 
 ### Contributors:
-[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), `YOUR_NAME_HERE`
+[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), `YOUR_NAME_HERE`
 
 Thank you! 🎉
 
