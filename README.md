@@ -19,12 +19,19 @@ The template to follow when adding new writeups:
 Thank you! 🎉
 
 ## Blog posts:
+- [Privilege Escalation in Google Cloud Platform's OS Login](https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes/-/tree/master/oslogin-privesc-june-2020) by [Chris Moberly](https://twitter.com/init_string)
+- [RCE in Google Cloud Deployment Manager](https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - [DOM-Based XSS at accounts.google.com by Google Voice Extension](http://www.missoumsai.com/google-accounts-xss.html) by [Missoum Said](https://twitter.com/missoum1307)
 - [Google Acquisition XSS (Apigee)](https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4) by [TnMch](https://twitter.com/TnMch_)
 - [DOM XSS in Gmail with a little help from Chrome](https://opnsec.com/2020/05/dom-xss-in-gmail-with-a-little-help-from-chrome/) by [Enguerran Gillier](https://twitter.com/opnsec)
 - [$3133.7 Google Bug Bounty Writeup- XSS Vulnerability!](https://pethuraj.com/blog/google-bug-bounty-writeup/) by [Pethuraj M](https://twitter.com/itsmepethu)
 - [The unexpected Google wide domain check bypass](https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/) by [David Schütz](https://twitter.com/xdavidhu)
 - [Information Disclosure Vulnerability in the Google Cloud Speech-to-Text API](https://www.dcine.com/2020/01/12/information-disclosure-vulnerability-in-the-google-cloud-speech-to-text-api/) by [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/)
+- [4 Google Cloud Shell bugs explained](https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/) by [Wouter ter Maat](https://twitter.com/wtm_offensi)
+- [CSWSH vulnerability in Google Cloud Shell’s code editor](https://ψ.fun/i/yvpMj) by [Psi](https://ψ.fun/)
+- [The File uploading CSRF in Google Cloud Shell Editor](https://obmiblog.blogspot.com/2019/12/gcp-5k-file-uploading-csrf.html) by [Obmi](https://bughunter.withgoogle.com/profile/40997bbc-945a-4eca-8408-eed302641c96)
+- [The oauth token hijacking in Google Cloud Shell Editor](https://obmiblog.blogspot.com/2019/12/gcp-5k-oauth-token-hijack.html) by [Obmi](https://bughunter.withgoogle.com/profile/40997bbc-945a-4eca-8408-eed302641c96)
+- [The XSS ( type II ) in Google Cloud Shell Editor](https://obmiblog.blogspot.com/2019/12/gcp-5k-xss-type-ii.html) by [Obmi](https://bughunter.withgoogle.com/profile/40997bbc-945a-4eca-8408-eed302641c96)
 - [$36k Google App Engine RCE](https://www.ezequiel.tech/p/36k-google-app-engine-rce.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - [How I hacked Google’s bug tracking system itself for $15,600 in bounties](https://medium.com/@alex.birsan/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5) by [Alex Birsan](https://twitter.com/alxbrsn)
 - [XSS in GMail’s AMP4Email via DOM Clobbering](https://research.securitum.com/xss-in-amp4email-dom-clobbering/) by [Michał Bentkowski](https://twitter.com/SecurityMB)
@@ -79,6 +86,7 @@ Thank you! 🎉
 - [Ok Google, Give Me All Your Internal DNS Information!](https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/) by [Julien Ahrens](https://twitter.com/MrTuxracer)
 
 ## Videos:
+- [$100k Hacking Prize - Security Bugs in Google Cloud Platform](https://www.youtube.com/watch?v=J2icGMocQds) by [LiveOverflow](https://twitter.com/LiveOverflow/)
 - [Google Bug Hunters](https://www.youtube.com/watch?v=DTXUMBc1zEc) by [Eduardo Vela Nava](https://twitter.com/sirdarckcat)
 - [Best Of Google VRP 2018](https://www.youtube.com/watch?v=mJwZfRXs83M) by [Daniel Stelter-Gliese](https://ch.linkedin.com/in/daniel-stelter-gliese-170a70a2)
 - [Great Bugs In Google VRP In 2016](https://www.youtube.com/watch?v=zs_nEJ9fh_4) by [Martin Straka and Karshan Sharma](https://nullcon.net/website/goa-2017/about-speakers.php)
