@@ -19,9 +19,9 @@ The template to follow when adding new writeups:
 Thank you! 🎉
 
 ## Blog posts:
-- [SMTP Injection in Gsuite](https://www.ehpus.com/post/smtp-injection-in-gsuite) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
-- [Privilege Escalation in Google Cloud Platform's OS Login](https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes/-/tree/master/oslogin-privesc-june-2020) by [Chris Moberly](https://twitter.com/init_string)
-- [RCE in Google Cloud Deployment Manager](https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
+- **[New! - 2020 June 15]** [SMTP Injection in Gsuite](https://www.ehpus.com/post/smtp-injection-in-gsuite) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
+- **[New! - 2020 June 4]** [Privilege Escalation in Google Cloud Platform's OS Login](https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes/-/tree/master/oslogin-privesc-june-2020) by [Chris Moberly](https://twitter.com/init_string)
+- **[New! - 2020 May 21]** [RCE in Google Cloud Deployment Manager](https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - [DOM-Based XSS at accounts.google.com by Google Voice Extension](http://www.missoumsai.com/google-accounts-xss.html) by [Missoum Said](https://twitter.com/missoum1307)
 - [Google Acquisition XSS (Apigee)](https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4) by [TnMch](https://twitter.com/TnMch_)
 - [DOM XSS in Gmail with a little help from Chrome](https://opnsec.com/2020/05/dom-xss-in-gmail-with-a-little-help-from-chrome/) by [Enguerran Gillier](https://twitter.com/opnsec)
