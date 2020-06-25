@@ -19,6 +19,7 @@ The template to follow when adding new writeups:
 Thank you! 🎉
 
 ## Blog posts:
+- [SMTP Injection in Gsuite](https://www.ehpus.com/post/smtp-injection-in-gsuite) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
 - [Privilege Escalation in Google Cloud Platform's OS Login](https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes/-/tree/master/oslogin-privesc-june-2020) by [Chris Moberly](https://twitter.com/init_string)
 - [RCE in Google Cloud Deployment Manager](https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - [DOM-Based XSS at accounts.google.com by Google Voice Extension](http://www.missoumsai.com/google-accounts-xss.html) by [Missoum Said](https://twitter.com/missoum1307)
@@ -84,7 +85,6 @@ Thank you! 🎉
 - [XS-Searching Google’s bug tracker to find out vulnerable source code](https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549) by [Luan Herrera](https://twitter.com/lbherrera_)
 - [Stored XSS, and SSRF in Google using the Dataset Publishing Language](https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html) by [Craig Arendt](https://twitter.com/signalchaos)
 - [Ok Google, Give Me All Your Internal DNS Information!](https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/) by [Julien Ahrens](https://twitter.com/MrTuxracer)
-- [SMTP Injection in Gsuite](https://www.ehpus.com/post/smtp-injection-in-gsuite) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
 
 ## Videos:
 - [$100k Hacking Prize - Security Bugs in Google Cloud Platform](https://www.youtube.com/watch?v=J2icGMocQds) by [LiveOverflow](https://twitter.com/LiveOverflow/)
