@@ -14,7 +14,7 @@ The template to follow when adding new writeups:
 *If no Twitter account is available, try finding something similar, like other social media page or website.*
 
 ### Contributors:
-[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), `YOUR_NAME_HERE`
+[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl),`YOUR_NAME_HERE`
 
 Thank you! 🎉
 
@@ -86,6 +86,7 @@ Thank you! 🎉
 - [Stored XSS, and SSRF in Google using the Dataset Publishing Language](https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html) by [Craig Arendt](https://twitter.com/signalchaos)
 - [Ok Google, Give Me All Your Internal DNS Information!](https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/) by [Julien Ahrens](https://twitter.com/MrTuxracer)
 - [How I found a $5,000 Google Maps XSS (by fiddling with Protobuf)](https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff) by [Marin Moulinier](https://github.com/marin-m)
+- [Researching Polymorphic Images for XSS on Google Scholar](https://blog.doyensec.com/2020/04/30/polymorphic-images-for-xss.html) by [Lorenzo Stella](https://twitter.com/doyensec)
 
 ## Videos:
 - [$100k Hacking Prize - Security Bugs in Google Cloud Platform](https://www.youtube.com/watch?v=J2icGMocQds) by [LiveOverflow](https://twitter.com/LiveOverflow/)
