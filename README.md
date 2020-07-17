@@ -5,12 +5,13 @@
 
 ## Contributing:
 
-If you have/know of any Google writeups not listed in this repository, feel free to open a Pull Request. If the writeup is new, add it to the top of the list, if it is not, to the end.
+If you have/know of any Google writeups not listed in this repository, feel free to open a Pull Request. Please try to sort the writeups by publication date.
 
 The template to follow when adding new writeups:
 ```
-- [TITLE](URL) by [NAME](TWITTER_URL)
+- **[MONTH DAY - $BOUNTY]** [TITLE](URL) by [NAME](TWITTER_URL)
 ```
+*If the bounty amount is not available, write `$???`.*<br>
 *If no Twitter account is available, try finding something similar, like other social media page or website.*
 
 ### Contributors:
@@ -20,17 +21,22 @@ The template to follow when adding new writeups:
 Thank you! 🎉
 
 ## Blog posts:
-- **[New! - 2020 June 17]** [Idor in google product](https://medium.com/@balook/idor-in-google-datastudio-google-com-f2fa51b763de) by [baluz](https://twitter.com/critical_b0y)
-- **[New! - 2020 June 15]** [SMTP Injection in Gsuite](https://www.ehpus.com/post/smtp-injection-in-gsuite) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
-- **[New! - 2020 June 7]** [How i earned $500 from google by change one character .](https://medium.com/@odayalhalbe1/how-i-earned-500-from-google-by-change-one-character-8350d2b618e5) by [Oday Alhalbe](https://bughunter.withgoogle.com/profile/91a2e03b-0b0d-422c-9cd6-aa2a2ae24b57)
-- **[New! - 2020 June 4]** [Privilege Escalation in Google Cloud Platform's OS Login](https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes/-/tree/master/oslogin-privesc-june-2020) by [Chris Moberly](https://twitter.com/init_string)
-- **[New! - 2020 May 21]** [RCE in Google Cloud Deployment Manager](https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
-- [DOM-Based XSS at accounts.google.com by Google Voice Extension](http://www.missoumsai.com/google-accounts-xss.html) by [Missoum Said](https://twitter.com/missoum1307)
-- [Google Acquisition XSS (Apigee)](https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4) by [TnMch](https://twitter.com/TnMch_)
-- [DOM XSS in Gmail with a little help from Chrome](https://opnsec.com/2020/05/dom-xss-in-gmail-with-a-little-help-from-chrome/) by [Enguerran Gillier](https://twitter.com/opnsec)
-- [$3133.7 Google Bug Bounty Writeup- XSS Vulnerability!](https://pethuraj.com/blog/google-bug-bounty-writeup/) by [Pethuraj M](https://twitter.com/itsmepethu)
-- [The unexpected Google wide domain check bypass](https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/) by [David Schütz](https://twitter.com/xdavidhu)
-- [Information Disclosure Vulnerability in the Google Cloud Speech-to-Text API](https://www.dcine.com/2020/01/12/information-disclosure-vulnerability-in-the-google-cloud-speech-to-text-api/) by [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/)
+
+### 2020:
+- **[July 17 - $5,000]** [Idor in google product](https://medium.com/@balook/idor-in-google-datastudio-google-com-f2fa51b763de) by [baluz](https://twitter.com/critical_b0y)
+- **[June 15 - $3,133.7]** [SMTP Injection in Gsuite](https://www.ehpus.com/post/smtp-injection-in-gsuite) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
+- **[June 7 - $500]** [How i earned $500 from google by change one character .](https://medium.com/@odayalhalbe1/how-i-earned-500-from-google-by-change-one-character-8350d2b618e5) by [Oday Alhalbe](https://bughunter.withgoogle.com/profile/91a2e03b-0b0d-422c-9cd6-aa2a2ae24b57)
+- **[June 4 - $???]** [Privilege Escalation in Google Cloud Platform's OS Login](https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes/-/tree/master/oslogin-privesc-june-2020) by [Chris Moberly](https://twitter.com/init_string)
+- **[May 21 - $31,337]** [RCE in Google Cloud Deployment Manager](https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
+- **[May 7 - $3,133.7]** [DOM-Based XSS at accounts.google.com by Google Voice Extension](http://www.missoumsai.com/google-accounts-xss.html) by [Missoum Said](https://twitter.com/missoum1307)
+- **[May 7 - $???]** [Google Acquisition XSS (Apigee)](https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4) by [TnMch](https://twitter.com/TnMch_)
+- **[May 3 - $???]** [DOM XSS in Gmail with a little help from Chrome](https://opnsec.com/2020/05/dom-xss-in-gmail-with-a-little-help-from-chrome/) by [Enguerran Gillier](https://twitter.com/opnsec)
+- **[March 27 - $3,133.7]** [$3133.7 Google Bug Bounty Writeup- XSS Vulnerability!](https://pethuraj.com/blog/google-bug-bounty-writeup/) by [Pethuraj M](https://twitter.com/itsmepethu)
+- **[March 8 - $6,000]** [The unexpected Google wide domain check bypass](https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/) by [David Schütz](https://twitter.com/xdavidhu)
+- **[Jan 12 - $???]** [Information Disclosure Vulnerability in the Google Cloud Speech-to-Text API](https://www.dcine.com/2020/01/12/information-disclosure-vulnerability-in-the-google-cloud-speech-to-text-api/) by [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/)
+
+### Older:
+
 - [4 Google Cloud Shell bugs explained](https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/) by [Wouter ter Maat](https://twitter.com/wtm_offensi)
 - [CSWSH vulnerability in Google Cloud Shell’s code editor](https://ψ.fun/i/yvpMj) by [Psi](https://ψ.fun/)
 - [The File uploading CSRF in Google Cloud Shell Editor](https://obmiblog.blogspot.com/2019/12/gcp-5k-file-uploading-csrf.html) by [Obmi](https://bughunter.withgoogle.com/profile/40997bbc-945a-4eca-8408-eed302641c96)
