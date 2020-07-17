@@ -14,11 +14,12 @@ The template to follow when adding new writeups:
 *If no Twitter account is available, try finding something similar, like other social media page or website.*
 
 ### Contributors:
-[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl),`YOUR_NAME_HERE`
+[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_)
 
 Thank you! 🎉
 
 ## Blog posts:
+- **[New! - 2020 June 17]** [Idor in google product](https://medium.com/@balook/idor-in-google-datastudio-google-com-f2fa51b763de) by [baluz](https://twitter.com/critical_b0y)
 - **[New! - 2020 June 15]** [SMTP Injection in Gsuite](https://www.ehpus.com/post/smtp-injection-in-gsuite) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
 - **[New! - 2020 June 7]** [How i earned $500 from google by change one character .](https://medium.com/@odayalhalbe1/how-i-earned-500-from-google-by-change-one-character-8350d2b618e5) by [Oday Alhalbe](https://bughunter.withgoogle.com/profile/91a2e03b-0b0d-422c-9cd6-aa2a2ae24b57)
 - **[New! - 2020 June 4]** [Privilege Escalation in Google Cloud Platform's OS Login](https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes/-/tree/master/oslogin-privesc-june-2020) by [Chris Moberly](https://twitter.com/init_string)
