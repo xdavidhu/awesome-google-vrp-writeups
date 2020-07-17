@@ -36,6 +36,7 @@ Thank you! 🎉
 - **[Jan 12 - $???]** [Information Disclosure Vulnerability in the Google Cloud Speech-to-Text API](https://www.dcine.com/2020/01/12/information-disclosure-vulnerability-in-the-google-cloud-speech-to-text-api/) by [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/)
 
 ### Older:
+*This is work in progress. If you feel like helping out, feel free to do so. I am plannig to make the whole list look like the 2020 part above. Thank you!*
 
 - [4 Google Cloud Shell bugs explained](https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/) by [Wouter ter Maat](https://twitter.com/wtm_offensi)
 - [CSWSH vulnerability in Google Cloud Shell’s code editor](https://ψ.fun/i/yvpMj) by [Psi](https://ψ.fun/)
