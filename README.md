@@ -20,6 +20,7 @@ Thank you! 🎉
 
 ## Blog posts:
 - **[New! - 2020 June 15]** [SMTP Injection in Gsuite](https://www.ehpus.com/post/smtp-injection-in-gsuite) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
+- **[New! - 2020 June 7]** [How i earned $500 from google by change one character .](https://medium.com/@odayalhalbe1/how-i-earned-500-from-google-by-change-one-character-8350d2b618e5) by [Oday Alhalbe](https://bughunter.withgoogle.com/profile/91a2e03b-0b0d-422c-9cd6-aa2a2ae24b57)
 - **[New! - 2020 June 4]** [Privilege Escalation in Google Cloud Platform's OS Login](https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes/-/tree/master/oslogin-privesc-june-2020) by [Chris Moberly](https://twitter.com/init_string)
 - **[New! - 2020 May 21]** [RCE in Google Cloud Deployment Manager](https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - [DOM-Based XSS at accounts.google.com by Google Voice Extension](http://www.missoumsai.com/google-accounts-xss.html) by [Missoum Said](https://twitter.com/missoum1307)
