@@ -33,7 +33,7 @@ Thank you! 🎉
 - **[May 7 - $3,133.7]** [DOM-Based XSS at accounts.google.com by Google Voice Extension](http://www.missoumsai.com/google-accounts-xss.html) by [Missoum Said](https://twitter.com/missoum1307)
 - **[May 7 - $???]** [Google Acquisition XSS (Apigee)](https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4) by [TnMch](https://twitter.com/TnMch_)
 - **[May 3 - $???]** [DOM XSS in Gmail with a little help from Chrome](https://opnsec.com/2020/05/dom-xss-in-gmail-with-a-little-help-from-chrome/) by [Enguerran Gillier](https://twitter.com/opnsec)
-- **[Apr 30 - $6267.40]** [Researching Polymorphic Images for XSS on Google Scholar](https://blog.doyensec.com/2020/04/30/polymorphic-images-for-xss.html) by [Lorenzo Stella](https://twitter.com/doyensec)
+- **[Apr 30 - $6,267.4]** [Researching Polymorphic Images for XSS on Google Scholar](https://blog.doyensec.com/2020/04/30/polymorphic-images-for-xss.html) by [Lorenzo Stella](https://twitter.com/doyensec)
 - **[March 27 - $3,133.7]** [$3133.7 Google Bug Bounty Writeup- XSS Vulnerability!](https://pethuraj.com/blog/google-bug-bounty-writeup/) by [Pethuraj M](https://twitter.com/itsmepethu)
 - **[March 8 - $6,000]** [The unexpected Google wide domain check bypass](https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Jan 12 - $???]** [Information Disclosure Vulnerability in the Google Cloud Speech-to-Text API](https://www.dcine.com/2020/01/12/information-disclosure-vulnerability-in-the-google-cloud-speech-to-text-api/) by [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/)
