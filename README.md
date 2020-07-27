@@ -36,28 +36,28 @@ Thank you! 🎉
 - **[Apr 30 - $6267.40]** [Researching Polymorphic Images for XSS on Google Scholar](https://blog.doyensec.com/2020/04/30/polymorphic-images-for-xss.html) by [Lorenzo Stella](https://twitter.com/doyensec)
 - **[March 27 - $3,133.7]** [$3133.7 Google Bug Bounty Writeup- XSS Vulnerability!](https://pethuraj.com/blog/google-bug-bounty-writeup/) by [Pethuraj M](https://twitter.com/itsmepethu)
 - **[March 8 - $6,000]** [The unexpected Google wide domain check bypass](https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/) by [David Schütz](https://twitter.com/xdavidhu)
-- **[Jan 30 - $NONE]** [Inserting arbitrary files into anyone’s Google Earth Projects Archive](https://websecblog.com/vulns/google-earth-studio-vulnerability/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[Jan 12 - $???]** [Information Disclosure Vulnerability in the Google Cloud Speech-to-Text API](https://www.dcine.com/2020/01/12/information-disclosure-vulnerability-in-the-google-cloud-speech-to-text-api/) by [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/)
 
 ### 2019:
 
-- **[Dec 30 - $3133.7]** [How did I earn $3133.70 from Google Translator? (XSS)](https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc) by [Beri Bey](https://medium.com/@beribeys)
+- **[Dec 30 - $3,133.7]** [How did I earn $3133.70 from Google Translator? (XSS)](https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc) by [Beri Bey](https://medium.com/@beribeys)
 - **[Dec 19 - $???]** [SSRF in Google Cloud Platform StackDriver](https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/) by [Ron Chan](https://twitter.com/ngalongc)
 - **[Dec 16 - $???]** [4 Google Cloud Shell bugs explained](https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/) by [Wouter ter Maat](https://twitter.com/wtm_offensi)
-- **[Dec 15 - $5000]** [The File uploading CSRF in Google Cloud Shell Editor](https://obmiblog.blogspot.com/2019/12/gcp-5k-file-uploading-csrf.html) by [Obmi](https://bughunter.withgoogle.com/profile/40997bbc-945a-4eca-8408-eed302641c96)
-- **[Dec 15 - $5000]** [The oauth token hijacking in Google Cloud Shell Editor](https://obmiblog.blogspot.com/2019/12/gcp-5k-oauth-token-hijack.html) by [Obmi](https://bughunter.withgoogle.com/profile/40997bbc-945a-4eca-8408-eed302641c96)
-- **[Dec 15 - $5000]** [The XSS ( type II ) in Google Cloud Shell Editor](https://obmiblog.blogspot.com/2019/12/gcp-5k-xss-type-ii.html) by [Obmi](https://bughunter.withgoogle.com/profile/40997bbc-945a-4eca-8408-eed302641c96)
-- **[Nov 29 - $1337]** [Writeup for the 2019 Google Cloud Platform VRP Prize!](https://medium.com/@missoum1307/writeup-for-the-2019-google-cloud-platform-vrp-prize-4e104ef9f204) by [Missoum Said](https://twitter.com/missoum1307)
+- **[Dec 15 - $5,000]** [The File uploading CSRF in Google Cloud Shell Editor](https://obmiblog.blogspot.com/2019/12/gcp-5k-file-uploading-csrf.html) by [Obmi](https://bughunter.withgoogle.com/profile/40997bbc-945a-4eca-8408-eed302641c96)
+- **[Dec 15 - $5,000]** [The oauth token hijacking in Google Cloud Shell Editor](https://obmiblog.blogspot.com/2019/12/gcp-5k-oauth-token-hijack.html) by [Obmi](https://bughunter.withgoogle.com/profile/40997bbc-945a-4eca-8408-eed302641c96)
+- **[Dec 15 - $5,000]** [The XSS ( type II ) in Google Cloud Shell Editor](https://obmiblog.blogspot.com/2019/12/gcp-5k-xss-type-ii.html) by [Obmi](https://bughunter.withgoogle.com/profile/40997bbc-945a-4eca-8408-eed302641c96)
+- **[Nov 29 - $1,337]** [Writeup for the 2019 Google Cloud Platform VRP Prize!](https://medium.com/@missoum1307/writeup-for-the-2019-google-cloud-platform-vrp-prize-4e104ef9f204) by [Missoum Said](https://twitter.com/missoum1307)
 - **[Nov 18 - $???]** [XSS in GMail’s AMP4Email via DOM Clobbering](https://research.securitum.com/xss-in-amp4email-dom-clobbering/) by [Michał Bentkowski](https://twitter.com/SecurityMB)
 - **[Sep 09 - $???]** [Combination of techniques lead to DOM Based XSS in Google](http://sasi2103.blogspot.com/2016/09/combination-of-techniques-lead-to-dom.html) by [Sasi Levi](https://twitter.com/sasi2103)
 - **[Aug 31 - $36,337]** [$36k Google App Engine RCE](https://www.ezequiel.tech/p/36k-google-app-engine-rce.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - **[July 20 - $13,337]** [Into the Borg – SSRF inside Google production network](https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/) by [Enguerran Gillier](https://twitter.com/opnsec)
 - **[ July 10 - $???]** [Gsuite Hangouts Chat 5k IDOR](https://secreltyhiddenwriteups.blogspot.com/2018/07/gsuite-hangouts-chat-5k-idor.html) by [Cameron Vincent](https://twitter.com/secretlyhidden1)
 - **[May 21 - $13,337]** [Google Bug Bounty: LFI on Production Servers in “springboard.google.com” – $13,337 USD](https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-redacted-google-com-13337-usd/) by [Omar Espino](https://twitter.com/omespino)
-- **[March 26 $3133.7]** [How I could have hijacked a victim’s YouTube notifications!](https://hackademic.co.in/youtube-bug/) by [Yash Sodha](https://twitter.com/y_sodha)
+- **[March 29 - $0]** [Inserting arbitrary files into anyone’s Google Earth Projects Archive](https://websecblog.com/vulns/google-earth-studio-vulnerability/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
+- **[March 26 $3,133.7]** [How I could have hijacked a victim’s YouTube notifications!](https://hackademic.co.in/youtube-bug/) by [Yash Sodha](https://twitter.com/y_sodha)
 - **[Feb 12 - $???]** [Hacking YouTube for #fun and #profit](https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/) by [Alexandru Coltuneac](https://twitter.com/dekeeu)
-- **[Jan 30 - $7500]** [$7.5k Google Cloud Platform organization issue](https://www.ezequiel.tech/2019/01/75k-google-cloud-platform-organization.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
-- **[Jan 18 - $10000]** [$10k host header](https://www.ezequiel.tech/p/10k-host-header.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
+- **[Jan 30 - $7,500]** [$7.5k Google Cloud Platform organization issue](https://www.ezequiel.tech/2019/01/75k-google-cloud-platform-organization.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
+- **[Jan 18 - $10,000]** [$10k host header](https://www.ezequiel.tech/p/10k-host-header.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 
 
 ### 2018:
@@ -69,20 +69,20 @@ Thank you! 🎉
 - **[Aug 22 - $???]** [Liking GitHub repositories on behalf of other users — Stored XSS in WebComponents.org](https://websecblog.com/vulns/stored-xss-in-webcomponents-org/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[Aug - $???]** [Unauth meetings access](https://sites.google.com/securifyinc.com/vrp-writeups/google-meet/authorization-bugs) by [Rojan Rijal](https://twitter.com/mallocsys)
 - **[May 25 - $???]** [Waze remote vulnerabilities](http://blog.appscan.io/index.php/2018/05/25/waze-remote-vulnerability-technical-report/) by [PanguTeam](https://twitter.com/PanguTeam)
-- **[March 31 - $5000]** [$5k Service dependencies](https://www.ezequiel.tech/p/5k-service-dependencies.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
+- **[March 31 - $5,000]** [$5k Service dependencies](https://www.ezequiel.tech/p/5k-service-dependencies.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - **[March 28 - $???]** [Stored XSS on biz.waze.com](https://sites.google.com/securifyinc.com/vrp-writeups/waze/waze-xss) by [Rojan Rijal](https://twitter.com/mallocsys)
-- **[Mar 07 - $13337]** [Stored XSS, and SSRF in Google using the Dataset Publishing Language](https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html) by [Craig Arendt](https://twitter.com/signalchaos)
-- **[Feb 24 - $13337]** [Bypassing Google’s authentication to access their Internal Admin panels](https://medium.com/bugbountywriteup/bypassing-googles-fix-to-access-their-internal-admin-panels-12acd3d821e3) by [Vishnu Prasad P G](https://twitter.com/vishnuprasadnta)
+- **[Mar 07 - $13,337]** [Stored XSS, and SSRF in Google using the Dataset Publishing Language](https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html) by [Craig Arendt](https://twitter.com/signalchaos)
+- **[Feb 24 - $13,337]** [Bypassing Google’s authentication to access their Internal Admin panels](https://medium.com/bugbountywriteup/bypassing-googles-fix-to-access-their-internal-admin-panels-12acd3d821e3) by [Vishnu Prasad P G](https://twitter.com/vishnuprasadnta)
 - **[Feb 19 - $???]** [Google bugs stories and the shiny pixelbook](https://bughunt1307.herokuapp.com/googlebugs.html) by [Missoum Said](https://twitter.com/missoum1307)
-- **[Feb 14- $7500]** [$7.5k Google services mix-up](https://www.ezequiel.tech/p/75k-google-services-mix-up.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
+- **[Feb 14- $7,500]** [$7.5k Google services mix-up](https://www.ezequiel.tech/p/75k-google-services-mix-up.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 
 
 ### 2017:
 
-- **[Oct 30 - $15600]** [How I hacked Google’s bug tracking system itself for $15,600 in bounties](https://medium.com/@alex.birsan/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5) by [Alex Birsan](https://twitter.com/alxbrsn)
-- **[Aug - $5000]** [Google VRP : oAuth token stealing](http://bugdisclose.blogspot.com/2017/08/google-vrp-oauth-token-stealing.html) by [Harsh Jaiswal](https://twitter.com/rootxharsh)
-- **[Mar 09 - $5000]** [How I found a $5,000 Google Maps XSS (by fiddling with Protobuf)](https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff) by [Marin Moulinier](https://github.com/marin-m)
-- **[Feb 26 - $3133.7]** [Exploiting Clickjacking Vulnerability To Steal User Cookies](https://jasminderpalsingh.info/exploiting-google-clickjacking-vulnerability-to-steal-user-cookies/) by [Jasminder Pal Singh](https://twitter.com/Singh_Jasminder)
+- **[Oct 30 - $15,600]** [How I hacked Google’s bug tracking system itself for $15,600 in bounties](https://medium.com/@alex.birsan/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5) by [Alex Birsan](https://twitter.com/alxbrsn)
+- **[Aug - $5,000]** [Google VRP : oAuth token stealing](http://bugdisclose.blogspot.com/2017/08/google-vrp-oauth-token-stealing.html) by [Harsh Jaiswal](https://twitter.com/rootxharsh)
+- **[Mar 09 - $5,000]** [How I found a $5,000 Google Maps XSS (by fiddling with Protobuf)](https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff) by [Marin Moulinier](https://github.com/marin-m)
+- **[Feb 26 - $3,133.7]** [Exploiting Clickjacking Vulnerability To Steal User Cookies](https://jasminderpalsingh.info/exploiting-google-clickjacking-vulnerability-to-steal-user-cookies/) by [Jasminder Pal Singh](https://twitter.com/Singh_Jasminder)
 - **[Jan - $???]** [Ok Google, Give Me All Your Internal DNS Information!](https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/) by [Julien Ahrens](https://twitter.com/MrTuxracer)
 - **[Jan 04 - $???]** [fastboot oem sha1sum](https://securityresear.ch/2017/01/04/fastboot-oem-sha1sum/) by [Roee Hay](https://twitter.com/roeehay)
 
@@ -95,35 +95,28 @@ Thank you! 🎉
 
 - **[Dec 8 - $???]** [Creative bug which result Stored XSS on m.youtube.com](http://sasi2103.blogspot.com/2015/12/creative-bug-which-result-stored-xss-on.html) by [Sasi Levi](https://twitter.com/sasi2103)
 - **[Oct 29 - $???]** [XSS in YouTube Gaming](http://respectxss.blogspot.com/2015/10/xss-in-youtube-gaming.html) by [Ashar Javed](https://twitter.com/soaj1664ashar)
-- **[June 26- $3137]** [Youtube Editor XSS Vulnerability](https://jasminderpalsingh.info/youtube-editor-stored-dom-based-and-self-executed-xss-vulnerability/) by [Jasminder Pal Singh](https://twitter.com/Singh_Jasminder)
+- **[June 26- $3,133.7]** [Youtube Editor XSS Vulnerability](https://jasminderpalsingh.info/youtube-editor-stored-dom-based-and-self-executed-xss-vulnerability/) by [Jasminder Pal Singh](https://twitter.com/Singh_Jasminder)
 
 ### 2014:
 
-- **[Oct 31 - $500]** [The 5000$ Google XSS](https://blog.it-securityguard.com/bugbounty-the-5000-google-xss/) by [Patrik Fehrenbach](https://twitter.com/itsecurityguard)
-- **[Oct 26 - $3137]** [Youtube XSS Vulnerability [Stored -> Self Executed]](https://jasminderpalsingh.info/youtube-xss-vulnerability-stored-self-executed/) by [Jasminder Pal Singh](https://twitter.com/Singh_Jasminder)
+- **[Oct 31 - $5,000]** [The 5000$ Google XSS](https://blog.it-securityguard.com/bugbounty-the-5000-google-xss/) by [Patrik Fehrenbach](https://twitter.com/itsecurityguard)
+- **[Oct 26 - $1,337]** [Youtube XSS Vulnerability [Stored -> Self Executed]](https://jasminderpalsingh.info/youtube-xss-vulnerability-stored-self-executed/) by [Jasminder Pal Singh](https://twitter.com/Singh_Jasminder)
 - **[Jan 10 - $???]** [Again, from Nay to Yay in Google Vulnerability Reward Program!](https://blog.yappare.com/2014/01/again-from-nay-to-yay-in-google.html) by [Ahmad Ashraff](https://twitter.com/yappare)
 - **[Aug 13 - $???]** [I hate you, so I pawn your Google Open Gallery](https://blog.yappare.com/2014/08/i-hate-you-so-i-pawn-your-google-open.html) by [Ahmad Ashraff](https://twitter.com/yappare)
 
 ### 2013:
 
-- **[Sep 15 - $3133.7]** [XSRF and Cookie manipulation on google.com](https://blog.miki.it/2013/9/15/xsrf-cookie-setting-google/) by [Michele Spagnuolo](https://twitter.com/mikispag)
+- **[Sep 15 - $3,133.7]** [XSRF and Cookie manipulation on google.com](https://blog.miki.it/2013/9/15/xsrf-cookie-setting-google/) by [Michele Spagnuolo](https://twitter.com/mikispag)
 - **[July 08 - $???]** [Stored XSS in GMail](https://blog.miki.it/2013/7/8/stored-xss-in-gmail/)
 
 ### Unknown Dates:
 - **[??? - $???]** [CSWSH vulnerability in Google Cloud Shell’s code editor](https://ψ.fun/i/yvpMj) by [Psi](https://ψ.fun/)
-- **[??? - $$3,133.70]** [Open redirects that matter](https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter) by [Tomasz Bojarski](https://bughunter.withgoogle.com/profile/c25fa487-a4df-4e2e-b877-4d31d8964b82)
+- **[??? - $3,133.7]** [Open redirects that matter](https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter) by [Tomasz Bojarski](https://bughunter.withgoogle.com/profile/c25fa487-a4df-4e2e-b877-4d31d8964b82)
 - **[???- $???]** [Voice Squatting & Voice Masquerading Attack against Amazon Alexa and Google Home Actions](https://sites.google.com/site/voicevpasec/) by ???
 - **[??? - $???]** [Blind XSS against a Googler](https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/blind-xss) by [Rojan Rijal](https://twitter.com/mallocsys)
 - **[??? - $???]** [Multiple XSSs on hire.withgoogle.com](https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/xsses) by [Rojan Rijal](https://twitter.com/mallocsys)
 - **[??? - $???]** [Auth Issues on hire.withgoogle.com](https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/auth-issues) by [Rojan Rijal](https://twitter.com/mallocsys)
 - **[??? - $???]** [G Suite - Device Management XSS](https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management) by [Rojan Rijal](https://twitter.com/mallocsys)
-
-
-### Older:
-*This is work in progress. If you feel like helping out, feel free to do so. I am plannig to make the whole list look like the 2020 part above. Thank you!*
-
-
-
 
 ## Videos:
 - [$100k Hacking Prize - Security Bugs in Google Cloud Platform](https://www.youtube.com/watch?v=J2icGMocQds) by [LiveOverflow](https://twitter.com/LiveOverflow/)
