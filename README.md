@@ -15,8 +15,8 @@ The template to follow when adding new writeups:
 *If no Twitter account is available, try finding something similar, like other social media page or website.*
 
 ### Contributors:
-[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_)
 
+[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_)
 
 Thank you! 🎉
 
@@ -59,8 +59,8 @@ Thank you! 🎉
 - **[Jan 30 - $7,500]** [$7.5k Google Cloud Platform organization issue](https://www.ezequiel.tech/2019/01/75k-google-cloud-platform-organization.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - **[Jan 18 - $10,000]** [$10k host header](https://www.ezequiel.tech/p/10k-host-header.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 
-
 ### 2018:
+
 - **[Dec 12 - $???]** [XSSing Google Code-in thanks to improperly escaped JSON data](https://websecblog.com/vulns/google-code-in-xss/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[Dec 11 - $???]** [Clickjacking DOM XSS on Google.org](https://websecblog.com/vulns/clickjacking-xss-on-google-org/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[Dec 05 - $500]** [Billion Laugh Attack in https://sites.google.com](https://blog.intothesymmetry.com/2018/12/billion-laugh-attack-in.html) by [Antonio Sanso](https://twitter.com/asanso)
@@ -76,7 +76,6 @@ Thank you! 🎉
 - **[Feb 19 - $???]** [Google bugs stories and the shiny pixelbook](https://bughunt1307.herokuapp.com/googlebugs.html) by [Missoum Said](https://twitter.com/missoum1307)
 - **[Feb 14- $7,500]** [$7.5k Google services mix-up](https://www.ezequiel.tech/p/75k-google-services-mix-up.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 
-
 ### 2017:
 
 - **[Oct 30 - $15,600]** [How I hacked Google’s bug tracking system itself for $15,600 in bounties](https://medium.com/@alex.birsan/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5) by [Alex Birsan](https://twitter.com/alxbrsn)
@@ -87,9 +86,9 @@ Thank you! 🎉
 - **[Jan 04 - $???]** [fastboot oem sha1sum](https://securityresear.ch/2017/01/04/fastboot-oem-sha1sum/) by [Roee Hay](https://twitter.com/roeehay)
 
 ### 2016:
+
 - **[Aug 26- $500]** [$500 getClass](https://www.ezequiel.tech/p/500-getclass.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - **[Feb 28 - $???]** [Stored, Reflected and DOM XSS in Google for Work Connect (GWC)](http://respectxss.blogspot.com/2016/02/stored-reflected-and-dom-xss-in-google.html) by [Ashar Javed](https://twitter.com/soaj1664ashar)
-
 
 ### 2015:
 
@@ -109,7 +108,8 @@ Thank you! 🎉
 - **[Sep 15 - $3,133.7]** [XSRF and Cookie manipulation on google.com](https://blog.miki.it/2013/9/15/xsrf-cookie-setting-google/) by [Michele Spagnuolo](https://twitter.com/mikispag)
 - **[July 08 - $???]** [Stored XSS in GMail](https://blog.miki.it/2013/7/8/stored-xss-in-gmail/)
 
-### Unknown Dates:
+### Unknown Date:
+
 - **[??? - $???]** [CSWSH vulnerability in Google Cloud Shell’s code editor](https://ψ.fun/i/yvpMj) by [Psi](https://ψ.fun/)
 - **[??? - $3,133.7]** [Open redirects that matter](https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter) by [Tomasz Bojarski](https://bughunter.withgoogle.com/profile/c25fa487-a4df-4e2e-b877-4d31d8964b82)
 - **[???- $???]** [Voice Squatting & Voice Masquerading Attack against Amazon Alexa and Google Home Actions](https://sites.google.com/site/voicevpasec/) by ???
@@ -119,6 +119,7 @@ Thank you! 🎉
 - **[??? - $???]** [G Suite - Device Management XSS](https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management) by [Rojan Rijal](https://twitter.com/mallocsys)
 
 ## Videos:
+
 - [$100k Hacking Prize - Security Bugs in Google Cloud Platform](https://www.youtube.com/watch?v=J2icGMocQds) by [LiveOverflow](https://twitter.com/LiveOverflow/)
 - [Google Bug Hunters](https://www.youtube.com/watch?v=DTXUMBc1zEc) by [Eduardo Vela Nava](https://twitter.com/sirdarckcat)
 - [Best Of Google VRP 2018](https://www.youtube.com/watch?v=mJwZfRXs83M) by [Daniel Stelter-Gliese](https://ch.linkedin.com/in/daniel-stelter-gliese-170a70a2)
