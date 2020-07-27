@@ -80,7 +80,7 @@ Thank you! 🎉
 ### 2017:
 
 - **[Oct 30 - $15600]** [How I hacked Google’s bug tracking system itself for $15,600 in bounties](https://medium.com/@alex.birsan/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5) by [Alex Birsan](https://twitter.com/alxbrsn)
-- - **[Aug - $5000]** [Google VRP : oAuth token stealing](http://bugdisclose.blogspot.com/2017/08/google-vrp-oauth-token-stealing.html) by [Harsh Jaiswal](https://twitter.com/rootxharsh)
+- **[Aug - $5000]** [Google VRP : oAuth token stealing](http://bugdisclose.blogspot.com/2017/08/google-vrp-oauth-token-stealing.html) by [Harsh Jaiswal](https://twitter.com/rootxharsh)
 - **[Mar 09 - $5000]** [How I found a $5,000 Google Maps XSS (by fiddling with Protobuf)](https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff) by [Marin Moulinier](https://github.com/marin-m)
 - **[Feb 26 - $3133.7]** [Exploiting Clickjacking Vulnerability To Steal User Cookies](https://jasminderpalsingh.info/exploiting-google-clickjacking-vulnerability-to-steal-user-cookies/) by [Jasminder Pal Singh](https://twitter.com/Singh_Jasminder)
 - **[Jan - $???]** [Ok Google, Give Me All Your Internal DNS Information!](https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/) by [Julien Ahrens](https://twitter.com/MrTuxracer)
