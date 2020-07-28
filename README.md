@@ -24,6 +24,7 @@ Thank you! 🎉
 
 ### 2020:
 
+- **[July 28 - $1,337]** [Authorization bypass in Google’s ticketing system (Google-GUTS)](https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
 - **[July 17 - $5,000]** [Idor in google product](https://medium.com/@balook/idor-in-google-datastudio-google-com-f2fa51b763de) by [baluz](https://twitter.com/critical_b0y)
 - **[June 15 - $3,133.7]** [SMTP Injection in Gsuite](https://www.ehpus.com/post/smtp-injection-in-gsuite) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
 - **[June 6 - $500]** [How i earned $500 from google by change one character .](https://medium.com/@odayalhalbe1/how-i-earned-500-from-google-by-change-one-character-8350d2b618e5) by [Oday Alhalbe](https://bughunter.withgoogle.com/profile/91a2e03b-0b0d-422c-9cd6-aa2a2ae24b57)
