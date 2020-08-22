@@ -24,7 +24,7 @@ Thank you! 🎉
 
 ### 2020:
 
-- **[August 18 -$???]** [How to contact Google SRE: Dropping a shell in Cloud SQL](https://www.ezequiel.tech/2020/08/dropping-shell-in.html) by [Ezequiel Pereira](https://www.ezequiel.tech/)
+- **[August 18 - $???]** [How to contact Google SRE: Dropping a shell in Cloud SQL](https://www.ezequiel.tech/2020/08/dropping-shell-in.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - **[July 28 - $1,337]** [Authorization bypass in Google’s ticketing system (Google-GUTS)](https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
 - **[July 17 - $5,000]** [Idor in google product](https://medium.com/@balook/idor-in-google-datastudio-google-com-f2fa51b763de) by [baluz](https://twitter.com/critical_b0y)
 - **[June 15 - $3,133.7]** [SMTP Injection in Gsuite](https://www.ehpus.com/post/smtp-injection-in-gsuite) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
