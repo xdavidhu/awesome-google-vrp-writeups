@@ -24,6 +24,7 @@ Thank you! 🎉
 
 ### 2020:
 
+- **[Aug 19 - $???]** [The Confused Mailman: Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/) by [Allison Husain](https://twitter.com/ezhes_)
 - **[Aug 18 - $???]** [How to contact Google SRE: Dropping a shell in Cloud SQL](https://www.ezequiel.tech/2020/08/dropping-shell-in.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - **[Aug 15 - $???]** [How I was able to send Authentic Emails as others - Google VRP [Resolved]](https://medium.com/@sriram_offcl/how-i-was-able-to-send-authentic-emails-as-others-google-vrp-resolved-2af94295f326) by [Sriram](https://www.twitter.com/sriramoffcl/)
 - **[July 28 - $1,337]** [Authorization bypass in Google’s ticketing system (Google-GUTS)](https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
