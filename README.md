@@ -24,6 +24,7 @@ Thank you! 🎉
 
 ### 2020:
 
+- **[Aug 26 - $???]** [Auth bypass: Leaking Google Cloud service accounts and projects](https://www.ezequiel.tech/2020/08/leaking-google-cloud-projects.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - **[Aug 22 - $???]** [The Short tale of two bugs on Google Cloud Product— Google VRP [Resolved]](https://medium.com/bugbountywriteup/the-short-tale-of-two-bugs-on-google-cloud-product-google-vrp-resolved-47c913dca8fc) by [Sriram](https://twitter.com/sriramoffcl)
 - **[Aug 19 - $???]** [The Confused Mailman: Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/) by [Allison Husain](https://twitter.com/ezhes_)
 - **[Aug 18 - $???]** [How to contact Google SRE: Dropping a shell in Cloud SQL](https://www.ezequiel.tech/2020/08/dropping-shell-in.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
