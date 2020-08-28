@@ -126,6 +126,7 @@ Thank you! 🎉
 
 ## Videos:
 
+- **[2020 Jul 31]** [Script Gadgets! Google Docs XSS Vulnerability Walkthrough](https://www.youtube.com/watch?v=aCexqB9qi70) by [LiveOverflow](https://twitter.com/LiveOverflow/)
 - [$100k Hacking Prize - Security Bugs in Google Cloud Platform](https://www.youtube.com/watch?v=J2icGMocQds) by [LiveOverflow](https://twitter.com/LiveOverflow/)
 - [Google Bug Hunters](https://www.youtube.com/watch?v=DTXUMBc1zEc) by [Eduardo Vela Nava](https://twitter.com/sirdarckcat)
 - [Best Of Google VRP 2018](https://www.youtube.com/watch?v=mJwZfRXs83M) by [Daniel Stelter-Gliese](https://ch.linkedin.com/in/daniel-stelter-gliese-170a70a2)
