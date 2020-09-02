@@ -71,6 +71,7 @@ Thank you! 🎉
 - **[Dec 11 - $???]** [Clickjacking DOM XSS on Google.org](https://websecblog.com/vulns/clickjacking-xss-on-google-org/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[Dec 05 - $500]** [Billion Laugh Attack in https://sites.google.com](https://blog.intothesymmetry.com/2018/12/billion-laugh-attack-in.html) by [Antonio Sanso](https://twitter.com/asanso)
 - **[Nov 19 - $???]** [XS-Searching Google’s bug tracker to find out vulnerable source code](https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549) by [Luan Herrera](https://twitter.com/lbherrera_)
+- **[Oct 04 - $???]** [GoogleMeetRoulette: Joining random meetings](https://www.martinvigo.com/googlemeetroulette/) by [Martin Vigo](https://twitter.com/martin_vigo)
 - **[Sep 05 - $???]** [Reflected XSS in Google Code Jam](https://websecblog.com/vulns/reflected-xss-in-google-code-jam/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[Aug 22 - $???]** [Liking GitHub repositories on behalf of other users — Stored XSS in WebComponents.org](https://websecblog.com/vulns/stored-xss-in-webcomponents-org/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[Aug - $???]** [Unauth meetings access](https://sites.google.com/securifyinc.com/vrp-writeups/google-meet/authorization-bugs) by [Rojan Rijal](https://twitter.com/mallocsys)
