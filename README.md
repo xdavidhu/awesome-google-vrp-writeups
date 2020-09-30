@@ -24,6 +24,7 @@ Thank you! 🎉
 
 ### 2020:
 
+- **[Sept 29 - $???]** [Public Bucket Allowed Access to Images on Upcoming Google Cloud Blog Posts](https://websecblog.com/vulns/public-google-cloud-blog-bucket/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[Sept 08 - $10,000]** [XSS->Fix->Bypass: 10000$ bounty in Google Maps](https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
 - **[Aug 26 - $???]** [Auth bypass: Leaking Google Cloud service accounts and projects](https://www.ezequiel.tech/2020/08/leaking-google-cloud-projects.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - **[Aug 22 - $???]** [The Short tale of two bugs on Google Cloud Product— Google VRP [Resolved]](https://medium.com/bugbountywriteup/the-short-tale-of-two-bugs-on-google-cloud-product-google-vrp-resolved-47c913dca8fc) by [Sriram](https://twitter.com/sriramoffcl)
