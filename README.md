@@ -24,6 +24,7 @@ Thank you! 🎉
 
 ### 2020:
 
+- **[Oct 08 - $30,000]** [The mass CSRFing of \*.google.com/\* products.](http://www.missoumsai.com/google-csrfs.html) by [Missoum Said](https://twitter.com/missoum1307)
 - **[Oct 01 - $5,000]** [Google bug bounty: XSS to Cloud Shell instance takeover (RCE as root) - $5,000 USD](https://omespino.com/write-up-google-bug-bounty-xss-to-cloud-shell-instance-takeover-rce-as-root-5000-usd/) by [Omar Espino](https://twitter.com/omespino)
 - **[Sept 29 - $???]** [Public Bucket Allowed Access to Images on Upcoming Google Cloud Blog Posts](https://websecblog.com/vulns/public-google-cloud-blog-bucket/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[Sept 20 - $500]** [How I earned $500 from Google - Flaw in Authentication](https://medium.com/bugbountywriteup/how-i-earned-500-from-google-flaw-in-authentication-a40018c05616/) by [Hemant Patidar](https://twitter.com/HemantSolo)
