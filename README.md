@@ -16,7 +16,7 @@ The template to follow when adding new writeups:
 
 ### Contributors:
 
-[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_), [Sriram](https://www.twitter.com/sriramoffcl/), [Nosa Shandy](https://apapedulimu.click)
+[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_), [Sriram](https://www.twitter.com/sriramoffcl/), [Nosa Shandy](https://apapedulimu.click), [Peter Gasper](https://twitter.com/viralpoetry)
 
 Thank you! 🎉
 
@@ -24,11 +24,13 @@ Thank you! 🎉
 
 ### 2020:
 
+- **[Oct 08 - $30,000]** [The mass CSRFing of \*.google.com/\* products.](http://www.missoumsai.com/google-csrfs.html) by [Missoum Said](https://twitter.com/missoum1307)
 - **[Oct 01 - $5,000]** [Google bug bounty: XSS to Cloud Shell instance takeover (RCE as root) - $5,000 USD](https://omespino.com/write-up-google-bug-bounty-xss-to-cloud-shell-instance-takeover-rce-as-root-5000-usd/) by [Omar Espino](https://twitter.com/omespino)
 - **[Sept 29 - $???]** [Public Bucket Allowed Access to Images on Upcoming Google Cloud Blog Posts](https://websecblog.com/vulns/public-google-cloud-blog-bucket/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[Sept 20 - $500]** [How I earned $500 from Google - Flaw in Authentication](https://medium.com/bugbountywriteup/how-i-earned-500-from-google-flaw-in-authentication-a40018c05616/) by [Hemant Patidar](https://twitter.com/HemantSolo)
 - **[Sept 08 - $10,000]** [XSS->Fix->Bypass: 10000$ bounty in Google Maps](https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
 - **[Aug 26 - $???]** [Auth bypass: Leaking Google Cloud service accounts and projects](https://www.ezequiel.tech/2020/08/leaking-google-cloud-projects.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
+- **[Aug 25 - $1,337]** [How I Tracked Your Mother: Tracking Waze drivers using UI elements](https://www.malgregator.com/post/waze-how-i-tracked-your-mother/) by [Peter Gasper](https://github.com/viralpoetry)
 - **[Aug 22 - $???]** [The Short tale of two bugs on Google Cloud Product— Google VRP [Resolved]](https://medium.com/bugbountywriteup/the-short-tale-of-two-bugs-on-google-cloud-product-google-vrp-resolved-47c913dca8fc) by [Sriram](https://twitter.com/sriramoffcl)
 - **[Aug 19 - $???]** [The Confused Mailman: Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/) by [Allison Husain](https://twitter.com/ezhes_)
 - **[Aug 18 - $???]** [How to contact Google SRE: Dropping a shell in Cloud SQL](https://www.ezequiel.tech/2020/08/dropping-shell-in.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
