@@ -16,7 +16,7 @@ The template to follow when adding new writeups:
 
 ### Contributors:
 
-[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_), [Sriram](https://www.twitter.com/sriramoffcl/), [Nosa Shandy](https://apapedulimu.click), [Peter Gasper](https://twitter.com/viralpoetry)
+[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_), [Sriram](https://www.twitter.com/sriramoffcl/), [Nosa Shandy](https://apapedulimu.click), [Peter Gasper](https://twitter.com/viralpoetry), [Abartan Dhakal](https://twitter.com/imhaxormad)
 
 Thank you! 🎉
 
@@ -77,7 +77,7 @@ Thank you! 🎉
 - **[Dec 11 - $???]** [Clickjacking DOM XSS on Google.org](https://websecblog.com/vulns/clickjacking-xss-on-google-org/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[Dec 05 - $500]** [Billion Laugh Attack in https://sites.google.com](https://blog.intothesymmetry.com/2018/12/billion-laugh-attack-in.html) by [Antonio Sanso](https://twitter.com/asanso)
 - **[Nov 19 - $???]** [XS-Searching Google’s bug tracker to find out vulnerable source code](https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549) by [Luan Herrera](https://twitter.com/lbherrera_)
-- **[Nov 14 - $???]** [XSS in Google's Acquisition](https://www.secjuice.com/google-hall-of-fame/) by [Abartan Dhakal](https://twitter.com/imhaxormad)
+- **[Nov 25 - $???]** [XSS in Google's Acquisition](https://www.secjuice.com/google-hall-of-fame/) by [Abartan Dhakal](https://twitter.com/imhaxormad)
 - **[Nov 11 - $7,500]** [Clickjacking on Google MyAccount Worth 7,500$](https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/) by [Apapedulimu](https://twitter.com/LocalHost31337)
 - **[Oct 04 - $???]** [GoogleMeetRoulette: Joining random meetings](https://www.martinvigo.com/googlemeetroulette/) by [Martin Vigo](https://twitter.com/martin_vigo)
 - **[Sep 05 - $???]** [Reflected XSS in Google Code Jam](https://websecblog.com/vulns/reflected-xss-in-google-code-jam/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
