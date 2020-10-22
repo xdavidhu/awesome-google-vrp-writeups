@@ -16,7 +16,7 @@ The template to follow when adding new writeups:
 
 ### Contributors:
 
-[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_), [Sriram](https://www.twitter.com/sriramoffcl/), [Nosa Shandy](https://apapedulimu.click), [Peter Gasper](https://twitter.com/viralpoetry), [Abartan Dhakal](https://twitter.com/imhaxormad)
+[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_), [Sriram](https://www.twitter.com/sriramoffcl/), [Nosa Shandy](https://apapedulimu.click), [Peter Gasper](https://twitter.com/viralpoetry), [Abartan Dhakal](https://twitter.com/imhaxormad), [Syahri Ramadan](https://twitter.com/LocalHost31337)
 
 Thank you! 🎉
 
