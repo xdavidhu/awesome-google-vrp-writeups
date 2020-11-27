@@ -71,6 +71,7 @@ Thank you! 🎉
 - **[March 29 - $0]** [Inserting arbitrary files into anyone’s Google Earth Projects Archive](https://websecblog.com/vulns/google-earth-studio-vulnerability/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[March 26 $3,133.7]** [How I could have hijacked a victim’s YouTube notifications!](https://hackademic.co.in/youtube-bug/) by [Yash Sodha](https://twitter.com/y_sodha)
 - **[Feb 12 - $???]** [Hacking YouTube for #fun and #profit](https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/) by [Alexandru Coltuneac](https://twitter.com/dekeeu)
+- **[Jan 31 - $???]** [LFI in Apigee portals](https://offensi.com/2019/01/31/lfi-in-apigee-portals/) by [Wouter ter Maat](https://twitter.com/wtm_offensi)
 - **[Jan 30 - $7,500]** [$7.5k Google Cloud Platform organization issue](https://www.ezequiel.tech/2019/01/75k-google-cloud-platform-organization.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - **[Jan 18 - $10,000]** [$10k host header](https://www.ezequiel.tech/p/10k-host-header.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 
