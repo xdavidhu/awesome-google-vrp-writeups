@@ -129,6 +129,9 @@ Thank you! 🎉
 
 ### Unknown Date:
 
+- **[??? - $???]** [XSS vulnerability in Google Cloud Shell’s code editor through mini-browser endpoint](https://ψ.fun/i/ZK9Kv) by [Psi](https://ψ.fun/)
+- **[??? - $???]** [Information leakage vulnerability in Google Cloud Shell’s proxy service](https://ψ.fun/i/KPMGz) by [Psi](https://ψ.fun/)
+- **[??? - $???]** [XSS vulnerability in Google Cloud Shell’s code editor through SVG files](https://ψ.fun/i/92uQC) by [Psi](https://ψ.fun/)
 - **[??? - $???]** [CSWSH vulnerability in Google Cloud Shell’s code editor](https://ψ.fun/i/yvpMj) by [Psi](https://ψ.fun/)
 - **[??? - $3,133.7]** [Open redirects that matter](https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter) by [Tomasz Bojarski](https://bughunter.withgoogle.com/profile/c25fa487-a4df-4e2e-b877-4d31d8964b82)
 - **[???- $???]** [Voice Squatting & Voice Masquerading Attack against Amazon Alexa and Google Home Actions](https://sites.google.com/site/voicevpasec/) by ???
