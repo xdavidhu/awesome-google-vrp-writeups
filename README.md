@@ -25,6 +25,7 @@ Thank you! 🎉
 ### 2020:
 
 - **[Dec 22 - $0]** [SSTI in Google Maps](https://www.ehpus.com/post/ssti-in-google-maps) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
+- **[Dec 19 - $0]** [Google VRP N/A – Sandboxed RCE as root on Apigee API proxies] (https://omespino.com/write-up-google-vrp-n-a-sandboxed-rce-as-root-on-apigee-api-proxies/) by [Omar Espino](https://twitter.com/omespino) 
 - **[Nov 12 - $31,337]** [31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html) by [David Nechuta](https://twitter.com/david_nechuta)
 - **[Oct 08 - $30,000]** [The mass CSRFing of \*.google.com/\* products.](http://www.missoumsai.com/google-csrfs.html) by [Missoum Said](https://twitter.com/missoum1307)
 - **[Oct 01 - $5,000]** [Google bug bounty: XSS to Cloud Shell instance takeover (RCE as root) - $5,000 USD](https://omespino.com/write-up-google-bug-bounty-xss-to-cloud-shell-instance-takeover-rce-as-root-5000-usd/) by [Omar Espino](https://twitter.com/omespino)
