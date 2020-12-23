@@ -16,7 +16,7 @@ The template to follow when adding new writeups:
 
 ### Contributors:
 
-[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_), [Sriram](https://www.twitter.com/sriramoffcl/), [Nosa Shandy](https://apapedulimu.click), [Peter Gasper](https://twitter.com/viralpoetry), [Abartan Dhakal](https://twitter.com/imhaxormad), [Syahri Ramadan](https://twitter.com/LocalHost31337)
+[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_), [Sriram](https://www.twitter.com/sriramoffcl/), [Nosa Shandy](https://apapedulimu.click), [Peter Gasper](https://twitter.com/viralpoetry), [Abartan Dhakal](https://twitter.com/imhaxormad), [Syahri Ramadan](https://twitter.com/LocalHost31337), [Omar Espino](https://twitter.com/omespino)
 
 Thank you! 🎉
 
@@ -24,6 +24,8 @@ Thank you! 🎉
 
 ### 2020:
 
+- **[Dec 22 - $0]** [SSTI in Google Maps](https://www.ehpus.com/post/ssti-in-google-maps) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
+- **[Nov 12 - $31,337]** [31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html) by [David Nechuta](https://twitter.com/david_nechuta)
 - **[Oct 08 - $30,000]** [The mass CSRFing of \*.google.com/\* products.](http://www.missoumsai.com/google-csrfs.html) by [Missoum Said](https://twitter.com/missoum1307)
 - **[Oct 01 - $5,000]** [Google bug bounty: XSS to Cloud Shell instance takeover (RCE as root) - $5,000 USD](https://omespino.com/write-up-google-bug-bounty-xss-to-cloud-shell-instance-takeover-rce-as-root-5000-usd/) by [Omar Espino](https://twitter.com/omespino)
 - **[Sept 29 - $???]** [Public Bucket Allowed Access to Images on Upcoming Google Cloud Blog Posts](https://websecblog.com/vulns/public-google-cloud-blog-bucket/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
@@ -70,6 +72,7 @@ Thank you! 🎉
 - **[March 29 - $0]** [Inserting arbitrary files into anyone’s Google Earth Projects Archive](https://websecblog.com/vulns/google-earth-studio-vulnerability/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[March 26 $3,133.7]** [How I could have hijacked a victim’s YouTube notifications!](https://hackademic.co.in/youtube-bug/) by [Yash Sodha](https://twitter.com/y_sodha)
 - **[Feb 12 - $???]** [Hacking YouTube for #fun and #profit](https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/) by [Alexandru Coltuneac](https://twitter.com/dekeeu)
+- **[Jan 31 - $???]** [LFI in Apigee portals](https://offensi.com/2019/01/31/lfi-in-apigee-portals/) by [Wouter ter Maat](https://twitter.com/wtm_offensi)
 - **[Jan 30 - $7,500]** [$7.5k Google Cloud Platform organization issue](https://www.ezequiel.tech/2019/01/75k-google-cloud-platform-organization.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - **[Jan 18 - $10,000]** [$10k host header](https://www.ezequiel.tech/p/10k-host-header.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 
@@ -127,6 +130,9 @@ Thank you! 🎉
 
 ### Unknown Date:
 
+- **[??? - $???]** [XSS vulnerability in Google Cloud Shell’s code editor through mini-browser endpoint](https://ψ.fun/i/ZK9Kv) by [Psi](https://ψ.fun/)
+- **[??? - $???]** [Information leakage vulnerability in Google Cloud Shell’s proxy service](https://ψ.fun/i/KPMGz) by [Psi](https://ψ.fun/)
+- **[??? - $???]** [XSS vulnerability in Google Cloud Shell’s code editor through SVG files](https://ψ.fun/i/92uQC) by [Psi](https://ψ.fun/)
 - **[??? - $???]** [CSWSH vulnerability in Google Cloud Shell’s code editor](https://ψ.fun/i/yvpMj) by [Psi](https://ψ.fun/)
 - **[??? - $3,133.7]** [Open redirects that matter](https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter) by [Tomasz Bojarski](https://bughunter.withgoogle.com/profile/c25fa487-a4df-4e2e-b877-4d31d8964b82)
 - **[???- $???]** [Voice Squatting & Voice Masquerading Attack against Amazon Alexa and Google Home Actions](https://sites.google.com/site/voicevpasec/) by ???
