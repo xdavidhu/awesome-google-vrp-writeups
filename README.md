@@ -25,6 +25,7 @@ Thank you! 🎉
 ### 2020:
 
 - **[Dec 22 - $0]** [SSTI in Google Maps](https://www.ehpus.com/post/ssti-in-google-maps) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
+- **[Dec 19 - $0]** [Google VRP – Sandboxed RCE as root on Apigee API proxies](https://omespino.com/write-up-google-vrp-n-a-sandboxed-rce-as-root-on-apigee-api-proxies/) by [Omar Espino](https://twitter.com/omespino) 
 - **[Nov 12 - $31,337]** [31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html) by [David Nechuta](https://twitter.com/david_nechuta)
 - **[Oct 08 - $30,000]** [The mass CSRFing of \*.google.com/\* products.](http://www.missoumsai.com/google-csrfs.html) by [Missoum Said](https://twitter.com/missoum1307)
 - **[Oct 01 - $5,000]** [Google bug bounty: XSS to Cloud Shell instance takeover (RCE as root) - $5,000 USD](https://omespino.com/write-up-google-bug-bounty-xss-to-cloud-shell-instance-takeover-rce-as-root-5000-usd/) by [Omar Espino](https://twitter.com/omespino)
@@ -36,6 +37,7 @@ Thank you! 🎉
 - **[Aug 22 - $???]** [The Short tale of two bugs on Google Cloud Product— Google VRP [Resolved]](https://medium.com/bugbountywriteup/the-short-tale-of-two-bugs-on-google-cloud-product-google-vrp-resolved-47c913dca8fc) by [Sriram](https://twitter.com/sriramoffcl)
 - **[Aug 19 - $???]** [The Confused Mailman: Sending SPF and DMARC passing mail as any Gmail or G Suite customer](https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/) by [Allison Husain](https://twitter.com/ezhes_)
 - **[Aug 18 - $???]** [How to contact Google SRE: Dropping a shell in Cloud SQL](https://www.ezequiel.tech/2020/08/dropping-shell-in.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
+- **[Aug 18 - $???]** [Three More Google Cloud Shell Bugs Explained](https://blog.daviddworken.com/posts/cloud-shell-bugs-explained/) by [David Dworken](https://twitter.com/ddworken)
 - **[Aug 15 - $???]** [How I was able to send Authentic Emails as others - Google VRP [Resolved]](https://medium.com/@sriram_offcl/how-i-was-able-to-send-authentic-emails-as-others-google-vrp-resolved-2af94295f326) by [Sriram](https://www.twitter.com/sriramoffcl/)
 - **[July 28 - $1,337]** [Authorization bypass in Google’s ticketing system (Google-GUTS)](https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
 - **[July 17 - $5,000]** [Idor in google product](https://medium.com/@balook/idor-in-google-datastudio-google-com-f2fa51b763de) by [baluz](https://twitter.com/critical_b0y)
