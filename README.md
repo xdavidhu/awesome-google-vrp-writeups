@@ -22,6 +22,10 @@ Thank you! 🎉
 
 ## Blog posts:
 
+### 2021:
+
+- **[Jan 08 - $3,133.7]** [Blind XSS in Google Analytics Admin Panel — $3133.70](https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a) by [Ashish Dhone](https://www.linkedin.com/in/ashish-dhone-640489135/)
+
 ### 2020:
 
 - **[Dec 30 - $???]** [Getting my first Google VRP trophies](https://irsl.medium.com/getting-my-first-google-vrp-trophies-b56d700face) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
