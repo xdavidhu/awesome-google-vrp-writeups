@@ -24,6 +24,7 @@ Thank you! 🎉
 
 ### 2021:
 
+- **[Jan 11 - $5,000]** [Stealing Your Private YouTube Videos, One Frame at a Time](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Jan 08 - $3,133.7]** [Blind XSS in Google Analytics Admin Panel — $3133.70](https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a) by [Ashish Dhone](https://www.linkedin.com/in/ashish-dhone-640489135/)
 
 ### 2020:
