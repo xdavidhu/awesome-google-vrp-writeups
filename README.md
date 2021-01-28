@@ -16,7 +16,7 @@ The template to follow when adding new writeups:
 
 ### Contributors:
 
-[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_), [Sriram](https://www.twitter.com/sriramoffcl/), [Nosa Shandy](https://apapedulimu.click), [Peter Gasper](https://twitter.com/viralpoetry), [Abartan Dhakal](https://twitter.com/imhaxormad), [Syahri Ramadan](https://twitter.com/LocalHost31337), [Omar Espino](https://twitter.com/omespino), [irsl](https://github.com/irsl)
+[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_), [Sriram](https://www.twitter.com/sriramoffcl/), [Nosa Shandy](https://apapedulimu.click), [Peter Gasper](https://twitter.com/viralpoetry), [Abartan Dhakal](https://twitter.com/imhaxormad), [Syahri Ramadan](https://twitter.com/LocalHost31337), [Omar Espino](https://twitter.com/omespino), [irsl](https://github.com/irsl), [santuySec](https://twitter.com/santuySec)
 
 Thank you! 🎉
 
@@ -24,6 +24,7 @@ Thank you! 🎉
 
 ### 2021:
 
+- **[Jan 27 - $???]** [Hijacking Google Drive Files (documents, photo & video) through Google Docs Sharing](https://santuysec.com/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/) by [santuySec](https://twitter.com/santuySec)
 - **[Jan 18 - $1,337]** [The Embedded YouTube Player Told Me What You Were Watching (and more)](https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Jan 11 - $5,000]** [Stealing Your Private YouTube Videos, One Frame at a Time](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Jan 08 - $3,133.7]** [Blind XSS in Google Analytics Admin Panel — $3133.70](https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a) by [Ashish Dhone](https://www.linkedin.com/in/ashish-dhone-640489135/)
