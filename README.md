@@ -24,6 +24,7 @@ Thank you! 🎉
 
 ### 2021:
 
+- **[Feb 16 - $0]** [Dropping a shell in Google’s Cloud SQL (the speckle-umbrella story)](https://irsl.medium.com/dropping-a-shell-in-googles-cloud-sql-the-speckle-umbrella-story-f9375bd4960d) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Jan 27 - $???]** [Hijacking Google Drive Files (documents, photo & video) through Google Docs Sharing](https://santuysec.com/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/) by [santuySec](https://twitter.com/santuySec)
 - **[Jan 18 - $1,337]** [The Embedded YouTube Player Told Me What You Were Watching (and more)](https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Jan 11 - $5,000]** [Stealing Your Private YouTube Videos, One Frame at a Time](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/) by [David Schütz](https://twitter.com/xdavidhu)
