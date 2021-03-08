@@ -24,6 +24,7 @@ Thank you! 🎉
 
 ### 2021:
 
+- **[Mar 08 - $0]** [Google VRP N/A: SSRF Bypass with Quadzero in Google Cloud Monitoring](https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/) by [Omar Espino](https://twitter.com/omespino) 
 - **[Feb 16 - $0]** [Dropping a shell in Google’s Cloud SQL (the speckle-umbrella story)](https://irsl.medium.com/dropping-a-shell-in-googles-cloud-sql-the-speckle-umbrella-story-f9375bd4960d) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Jan 27 - $???]** [Hijacking Google Drive Files (documents, photo & video) through Google Docs Sharing](https://santuysec.com/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/) by [santuySec](https://twitter.com/santuySec)
 - **[Jan 18 - $1,337]** [The Embedded YouTube Player Told Me What You Were Watching (and more)](https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/) by [David Schütz](https://twitter.com/xdavidhu)
@@ -35,7 +36,8 @@ Thank you! 🎉
 - **[Dec 30 - $???]** [Getting my first Google VRP trophies](https://irsl.medium.com/getting-my-first-google-vrp-trophies-b56d700face) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Dec 27 - $???]** [Google VRP Hijacking Google Docs Screenshots](https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/) by [Sreeram KL](https://blog.geekycat.in/author/sreeram/)
 - **[Dec 22 - $0]** [SSTI in Google Maps](https://www.ehpus.com/post/ssti-in-google-maps) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
-- **[Dec 19 - $0]** [Google VRP – Sandboxed RCE as root on Apigee API proxies](https://omespino.com/write-up-google-vrp-n-a-sandboxed-rce-as-root-on-apigee-api-proxies/) by [Omar Espino](https://twitter.com/omespino) 
+- **[Dec 19 - $0]** [Google VRP – Sandboxed RCE as root on Apigee API proxies](https://
+pino.com/write-up-google-vrp-n-a-sandboxed-rce-as-root-on-apigee-api-proxies/) by [Omar Espino](https://twitter.com/omespino) 
 - **[Nov 12 - $31,337]** [31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html) by [David Nechuta](https://twitter.com/david_nechuta)
 - **[Oct 08 - $30,000]** [The mass CSRFing of \*.google.com/\* products.](http://www.missoumsai.com/google-csrfs.html) by [Missoum Said](https://twitter.com/missoum1307)
 - **[Oct 01 - $5,000]** [Google bug bounty: XSS to Cloud Shell instance takeover (RCE as root) - $5,000 USD](https://omespino.com/write-up-google-bug-bounty-xss-to-cloud-shell-instance-takeover-rce-as-root-5000-usd/) by [Omar Espino](https://twitter.com/omespino)
