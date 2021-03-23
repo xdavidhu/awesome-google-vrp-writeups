@@ -24,6 +24,8 @@ Thank you! 🎉
 
 ### 2021:
 
+- **[Mar 08 - $0]** [Google VRP N/A: SSRF Bypass with Quadzero in Google Cloud Monitoring](https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/) by [Omar Espino](https://twitter.com/omespino) 
+- **[Feb 16 - $0]** [Dropping a shell in Google’s Cloud SQL (the speckle-umbrella story)](https://irsl.medium.com/dropping-a-shell-in-googles-cloud-sql-the-speckle-umbrella-story-f9375bd4960d) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Jan 27 - $???]** [Hijacking Google Drive Files (documents, photo & video) through Google Docs Sharing](https://santuysec.com/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/) by [santuySec](https://twitter.com/santuySec)
 - **[Jan 18 - $1,337]** [The Embedded YouTube Player Told Me What You Were Watching (and more)](https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Jan 11 - $5,000]** [Stealing Your Private YouTube Videos, One Frame at a Time](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/) by [David Schütz](https://twitter.com/xdavidhu)
@@ -41,6 +43,7 @@ Thank you! 🎉
 - **[Sept 29 - $???]** [Public Bucket Allowed Access to Images on Upcoming Google Cloud Blog Posts](https://websecblog.com/vulns/public-google-cloud-blog-bucket/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[Sept 20 - $500]** [How I earned $500 from Google - Flaw in Authentication](https://medium.com/bugbountywriteup/how-i-earned-500-from-google-flaw-in-authentication-a40018c05616/) by [Hemant Patidar](https://twitter.com/HemantSolo)
 - **[Sept 08 - $10,000]** [XSS->Fix->Bypass: 10000$ bounty in Google Maps](https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
+- **[Sept 07 - $1,337]** [My first bug in google and how i got CSRF token for victim account rather than bypass it](https://medium.com/@odayalhalbe1/my-first-bug-in-google-and-how-i-got-csrf-token-for-victim-account-rather-than-bypass-it-1337-bf01261feb47) by [Oday Alhalbe](https://bughunter.withgoogle.com/profile/91a2e03b-0b0d-422c-9cd6-aa2a2ae24b57)
 - **[Aug 26 - $???]** [Auth bypass: Leaking Google Cloud service accounts and projects](https://www.ezequiel.tech/2020/08/leaking-google-cloud-projects.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - **[Aug 25 - $1,337]** [How I Tracked Your Mother: Tracking Waze drivers using UI elements](https://www.malgregator.com/post/waze-how-i-tracked-your-mother/) by [Peter Gasper](https://github.com/viralpoetry)
 - **[Aug 22 - $???]** [The Short tale of two bugs on Google Cloud Product— Google VRP [Resolved]](https://medium.com/bugbountywriteup/the-short-tale-of-two-bugs-on-google-cloud-product-google-vrp-resolved-47c913dca8fc) by [Sriram](https://twitter.com/sriramoffcl)
