@@ -24,6 +24,9 @@ Thank you! 🎉
 
 ### 2021:
 
+- **[Apr 05 - $6,000]** [I Built a TV That Plays All of Your Private YouTube Videos](https://bugs.xdavidhu.me/google/2021/04/05/i-built-a-tv-that-plays-all-of-your-private-youtube-videos/) by [David Schütz](https://twitter.com/xdavidhu)
+- **[Mar 21 - $???]** [How I made it to Google HOF?](https://infosecwriteups.com/how-i-made-it-to-google-hof-f1cec85fdb1b) by [Sudhanshu Rajbhar](https://twitter.com/sudhanshur705)
+- **[Mar 11 - $3,133.7]** [How I Get Blind XSS At Google With Dork (First Bounty and HOF )](https://apapedulimu.click/google-vrp-how-i-get-blind-xss-at-google-with-dork-first-bounty-and-hof/) by [Rio Mulyadi Pulungan](https://twitter.com/riomulyadi_)
 - **[Mar 08 - $0]** [Google VRP N/A: SSRF Bypass with Quadzero in Google Cloud Monitoring](https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/) by [Omar Espino](https://twitter.com/omespino) 
 - **[Feb 16 - $0]** [Dropping a shell in Google’s Cloud SQL (the speckle-umbrella story)](https://irsl.medium.com/dropping-a-shell-in-googles-cloud-sql-the-speckle-umbrella-story-f9375bd4960d) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Jan 27 - $???]** [Hijacking Google Drive Files (documents, photo & video) through Google Docs Sharing](https://santuysec.id/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/) by [santuySec](https://twitter.com/santuySec)
