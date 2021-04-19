@@ -24,6 +24,7 @@ Thank you! 🎉
 
 ### 2021:
 
+- **[Apr 13 - $1,337]** [Google Photos : Theft of Database & Arbitrary Files Android Vulnerability](https://servicenger.com/blog/mobile/google-photos-theft-of-database-arbitrary-files-android-vulnerability/) by [Rahul Kankrale](https://twitter.com/RahulKankrale)
 - **[Apr 05 - $6,000]** [I Built a TV That Plays All of Your Private YouTube Videos](https://bugs.xdavidhu.me/google/2021/04/05/i-built-a-tv-that-plays-all-of-your-private-youtube-videos/) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Mar 21 - $???]** [How I made it to Google HOF?](https://infosecwriteups.com/how-i-made-it-to-google-hof-f1cec85fdb1b) by [Sudhanshu Rajbhar](https://twitter.com/sudhanshur705)
 - **[Mar 11 - $3,133.7]** [How I Get Blind XSS At Google With Dork (First Bounty and HOF )](https://apapedulimu.click/google-vrp-how-i-get-blind-xss-at-google-with-dork-first-bounty-and-hof/) by [Rio Mulyadi Pulungan](https://twitter.com/riomulyadi_)
@@ -41,6 +42,8 @@ Thank you! 🎉
 - **[Dec 22 - $0]** [SSTI in Google Maps](https://www.ehpus.com/post/ssti-in-google-maps) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
 - **[Dec 19 - $0]** [Google VRP – Sandboxed RCE as root on Apigee API proxies](https://omespino.com/write-up-google-vrp-n-a-sandboxed-rce-as-root-on-apigee-api-proxies/) by [Omar Espino](https://twitter.com/omespino) 
 - **[Nov 12 - $31,337]** [31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html) by [David Nechuta](https://twitter.com/david_nechuta)
+- **[Oct 27 - $6,337]** [The YouTube bug that allowed unlisted uploads to any channel](https://infosecwriteups.com/the-youtube-bug-that-allowed-uploads-to-any-channel-3b41c7b7902a) by [Ryan Kovatch](https://kovatch.medium.com/)
+- **[Oct 26 - $0]** [Deciphering Google’s mysterious ‘batchexecute’ system](https://kovatch.medium.com/deciphering-google-batchexecute-74991e4e446c) by [Ryan Kovatch](https://kovatch.medium.com/)
 - **[Oct 08 - $30,000]** [The mass CSRFing of \*.google.com/\* products.](http://www.missoumsai.com/google-csrfs.html) by [Missoum Said](https://twitter.com/missoum1307)
 - **[Oct 01 - $5,000]** [Google bug bounty: XSS to Cloud Shell instance takeover (RCE as root) - $5,000 USD](https://omespino.com/write-up-google-bug-bounty-xss-to-cloud-shell-instance-takeover-rce-as-root-5000-usd/) by [Omar Espino](https://twitter.com/omespino)
 - **[Sept 29 - $???]** [Public Bucket Allowed Access to Images on Upcoming Google Cloud Blog Posts](https://websecblog.com/vulns/public-google-cloud-blog-bucket/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
