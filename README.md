@@ -155,7 +155,7 @@ Thank you! 🎉
 - **[??? - $???]** [XSS vulnerability in Google Cloud Shell’s code editor through SVG files](https://ψ.fun/i/92uQC) by [Psi](https://ψ.fun/)
 - **[??? - $???]** [CSWSH vulnerability in Google Cloud Shell’s code editor](https://ψ.fun/i/yvpMj) by [Psi](https://ψ.fun/)
 - **[??? - $3,133.7]** [Open redirects that matter](https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter) by [Tomasz Bojarski](https://bughunter.withgoogle.com/profile/c25fa487-a4df-4e2e-b877-4d31d8964b82)
-- **[??? - $???]** [Voice Squatting & Voice Masquerading Attack against Amazon Alexa and Google Home Actions](https://sites.google.com/site/voicevpasec/) by [???](???)
+- **[??? - $???]** [Voice Squatting & Voice Masquerading Attack against Amazon Alexa and Google Home Actions](https://sites.google.com/site/voicevpasec/) by [???](#)
 - **[??? - $???]** [Blind XSS against a Googler](https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/blind-xss) by [Rojan Rijal](https://twitter.com/mallocsys)
 - **[??? - $???]** [Multiple XSSs on hire.withgoogle.com](https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/xsses) by [Rojan Rijal](https://twitter.com/mallocsys)
 - **[??? - $???]** [Auth Issues on hire.withgoogle.com](https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/auth-issues) by [Rojan Rijal](https://twitter.com/mallocsys)
