@@ -40,6 +40,7 @@ Thank you! 🎉
 - **[Dec 30 - $???]** [Getting my first Google VRP trophies](https://irsl.medium.com/getting-my-first-google-vrp-trophies-b56d700face) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Dec 27 - $???]** [Google VRP Hijacking Google Docs Screenshots](https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/) by [Sreeram KL](https://blog.geekycat.in/author/sreeram/)
 - **[Dec 22 - $0]** [SSTI in Google Maps](https://www.ehpus.com/post/ssti-in-google-maps) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
+- **[Dec 21 - $0]** [remote code execution when open a project in android studio that google refused to fix](https://seclists.org/fulldisclosure/2020/Dec/43) by [houjingyi](#)
 - **[Dec 19 - $0]** [Google VRP – Sandboxed RCE as root on Apigee API proxies](https://omespino.com/write-up-google-vrp-n-a-sandboxed-rce-as-root-on-apigee-api-proxies/) by [Omar Espino](https://twitter.com/omespino) 
 - **[Nov 12 - $31,337]** [31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html) by [David Nechuta](https://twitter.com/david_nechuta)
 - **[Oct 27 - $6,337]** [The YouTube bug that allowed unlisted uploads to any channel](https://infosecwriteups.com/the-youtube-bug-that-allowed-uploads-to-any-channel-3b41c7b7902a) by [Ryan Kovatch](https://kovatch.medium.com/)
