@@ -163,13 +163,36 @@ Thank you! 🎉
 
 ## Videos:
 
-- **[2020 Jul 31]** [Script Gadgets! Google Docs XSS Vulnerability Walkthrough](https://www.youtube.com/watch?v=aCexqB9qi70) by [LiveOverflow](https://twitter.com/LiveOverflow/)
-- [$100k Hacking Prize - Security Bugs in Google Cloud Platform](https://www.youtube.com/watch?v=J2icGMocQds) by [LiveOverflow](https://twitter.com/LiveOverflow/)
-- [Google Bug Hunters](https://www.youtube.com/watch?v=DTXUMBc1zEc) by [Eduardo Vela Nava](https://twitter.com/sirdarckcat)
-- [Best Of Google VRP 2018](https://www.youtube.com/watch?v=mJwZfRXs83M) by [Daniel Stelter-Gliese](https://ch.linkedin.com/in/daniel-stelter-gliese-170a70a2)
-- [Great Bugs In Google VRP In 2016](https://www.youtube.com/watch?v=zs_nEJ9fh_4) by [Martin Straka and Karshan Sharma](https://nullcon.net/website/goa-2017/about-speakers.php)
-- [Google Cloud Platform vulnerabilities](https://www.youtube.com/watch?v=9pviQ19njIs) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
-- [Google Paid Me to Talk About a Security Issue!](https://www.youtube.com/watch?v=E-P9USG6kLs) by [LiveOverflow](https://twitter.com/LiveOverflow/)
-- [War Stories from Google’s Vulnerability Reward Program](https://www.youtube.com/watch?v=QoE0M7v84ZU) by [Gábor Molnár](https://twitter.com/molnar_g)
-- [Secrets of the Google Vulnerability Reward Program](https://www.youtube.com/watch?v=ueEsOnHJZ80) by [Krzysztof Kotowicz](https://ch.linkedin.com/in/kkotowicz)
-- [XSS on Google Search - Sanitizing HTML in The Client?](https://www.youtube.com/watch?v=lG7U3fuNw3A) by [LiveOverflow](https://twitter.com/LiveOverflow/)
+### 2021:
+
+- **[Apr 09 - $31,337]** [Explaining the exploit to $31,337 Google Cloud blind SSRF](https://www.youtube.com/watch?v=q0YgfwOndOw) by [Bug Bounty Reports Explained](https://www.youtube.com/channel/UCZDyl7G-Lq-EMVO8PfDFp9g)
+- **[Apr 06 - $31,337]** [$31,337 Google Cloud blind SSRF + HANDS-ON labs](https://www.youtube.com/watch?v=ashSoc59z1Y) by [Bug Bounty Reports Explained](https://www.youtube.com/channel/UCZDyl7G-Lq-EMVO8PfDFp9g)
+- **[Mar 17 - $165,174]** [Hacking into Google's Network for $133,337](https://www.youtube.com/watch?v=g-JgA1hvJzA) by [LiveOverflow](https://twitter.com/LiveOverflow/)
+- **[Mar 08 - $5,000]** [$5,000 YouTube IDOR](https://www.youtube.com/watch?v=FzT3Z7tgDSQ) by [Bug Bounty Reports Explained](https://www.youtube.com/channel/UCZDyl7G-Lq-EMVO8PfDFp9g)
+- **[Jan 31 - $5,000]** [Hacking YouTube to watch private videos?](https://www.youtube.com/watch?v=hV9CWw0yDA8) by [Tech Raj](https://www.youtube.com/channel/UCY7t-zBYtdj6ZgiRpi3WIYg)
+- **[Jan 25 - $5,000]** [This YouTube Backend API Leaks Private Videos](https://www.youtube.com/watch?v=rGx8DB2HsuI) by [Hussein Nasser](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
+
+### 2020:
+
+- **[Jul 31 - $4,133.7]** [Script Gadgets! Google Docs XSS Vulnerability Walkthrough](https://www.youtube.com/watch?v=aCexqB9qi70) by [LiveOverflow](https://twitter.com/LiveOverflow/)
+- **[Mar 11 - $100,000]** [$100k Hacking Prize - Security Bugs in Google Cloud Platform](https://www.youtube.com/watch?v=J2icGMocQds) by [LiveOverflow](https://twitter.com/LiveOverflow/)
+
+### 2019:
+
+- **[Dec 09 - $???]** [BlackAlps 2019: Google Bug Hunters](https://www.youtube.com/watch?v=DTXUMBc1zEc) by [Eduardo Vela Nava](https://twitter.com/sirdarckcat)
+- **[Oct 01 - $5,000]** [Google Paid Me to Talk About a Security Issue!](https://www.youtube.com/watch?v=E-P9USG6kLs) by [LiveOverflow](https://twitter.com/LiveOverflow/)
+- **[Apr 23 - $???]** [Best Of Google VRP 2018 | nullcon Goa 2019](https://www.youtube.com/watch?v=mJwZfRXs83M) by [Daniel Stelter-Gliese](https://ch.linkedin.com/in/daniel-stelter-gliese-170a70a2)
+- **[Mar 31 - $???]** [XSS on Google Search - Sanitizing HTML in The Client?](https://www.youtube.com/watch?v=lG7U3fuNw3A) by [LiveOverflow](https://twitter.com/LiveOverflow/)
+
+### 2018:
+
+- **[Nov 14 - $58,837]** [Google Cloud Platform vulnerabilities - BugSWAT](https://www.youtube.com/watch?v=9pviQ19njIs) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
+
+### 2017:
+
+- **[Jun 21 - $???]** [nullcon Goa 2017 - Great Bugs In Google VRP In 2016](https://www.youtube.com/watch?v=zs_nEJ9fh_4) by [Martin Straka and Karshan Sharma](https://nullcon.net/website/goa-2017/about-speakers.php)
+- **[Jun 08 - $???]** [RuhrSec 2017: Secrets of the Google Vulnerability Reward Program](https://www.youtube.com/watch?v=ueEsOnHJZ80) by [Krzysztof Kotowicz](https://ch.linkedin.com/in/kkotowicz)
+
+### 2016:
+
+- **[Nov 29 - $???]** [War Stories from Google’s Vulnerability Reward Program](https://www.youtube.com/watch?v=QoE0M7v84ZU) by [Gábor Molnár](https://twitter.com/molnar_g)
