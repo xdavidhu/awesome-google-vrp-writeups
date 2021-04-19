@@ -58,10 +58,11 @@ for line in file:
             'title': match.group(5),
             'url': match.group(6),
             'author': match.group(7) if not match.group(7)=="???" else "?",
-            'author-url': match.group(8) if not match.group(8)=="???" else "?",
+            'author-url': match.group(8) if not match.group(8)=="#" else "?",
             'type': type
         }
         data.append(row)
+file.close()
 
 # prepare the csv headers
 headers = []
