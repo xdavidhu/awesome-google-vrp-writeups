@@ -193,6 +193,6 @@ Thank you! 🎉
 - **[Jun 21 - $???]** [nullcon Goa 2017 - Great Bugs In Google VRP In 2016](https://www.youtube.com/watch?v=zs_nEJ9fh_4) by [Martin Straka and Karshan Sharma](https://nullcon.net/website/goa-2017/about-speakers.php)
 - **[Jun 08 - $???]** [RuhrSec 2017: Secrets of the Google Vulnerability Reward Program](https://www.youtube.com/watch?v=ueEsOnHJZ80) by [Krzysztof Kotowicz](https://ch.linkedin.com/in/kkotowicz)
 
-### 2016:
+### 2016:
 
 - **[Nov 29 - $???]** [War Stories from Google’s Vulnerability Reward Program](https://www.youtube.com/watch?v=QoE0M7v84ZU) by [Gábor Molnár](https://twitter.com/molnar_g)
