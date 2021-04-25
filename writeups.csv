@@ -1,0 +1,127 @@
+date,bounty,title,url,author,author-url,type,tweeted,archive-url
+2021-04-13,1337,Google Photos : Theft of Database & Arbitrary Files Android Vulnerability,https://servicenger.com/blog/mobile/google-photos-theft-of-database-arbitrary-files-android-vulnerability/,Rahul Kankrale,https://twitter.com/RahulKankrale,blog,true,?
+2021-04-05,6000,I Built a TV That Plays All of Your Private YouTube Videos,https://bugs.xdavidhu.me/google/2021/04/05/i-built-a-tv-that-plays-all-of-your-private-youtube-videos/,David Schütz,https://twitter.com/xdavidhu,blog,true,?
+2021-03-21,?,How I made it to Google HOF?,https://infosecwriteups.com/how-i-made-it-to-google-hof-f1cec85fdb1b,Sudhanshu Rajbhar,https://twitter.com/sudhanshur705,blog,true,?
+2021-03-11,3133.7,How I Get Blind XSS At Google With Dork (First Bounty and HOF ),https://apapedulimu.click/google-vrp-how-i-get-blind-xss-at-google-with-dork-first-bounty-and-hof/,Rio Mulyadi Pulungan,https://twitter.com/riomulyadi_,blog,true,?
+2021-03-08,0,Google VRP N/A: SSRF Bypass with Quadzero in Google Cloud Monitoring,https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/,Omar Espino,https://twitter.com/omespino,blog,true,?
+2021-02-16,0,Dropping a shell in Google’s Cloud SQL (the speckle-umbrella story),https://irsl.medium.com/dropping-a-shell-in-googles-cloud-sql-the-speckle-umbrella-story-f9375bd4960d,Imre Rad,https://www.linkedin.com/in/imre-rad-2358749b/,blog,true,?
+2021-01-27,?,"Hijacking Google Drive Files (documents, photo & video) through Google Docs Sharing",https://santuysec.id/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/,santuySec,https://twitter.com/santuySec,blog,true,?
+2021-01-18,1337,The Embedded YouTube Player Told Me What You Were Watching (and more),https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/,David Schütz,https://twitter.com/xdavidhu,blog,true,?
+2021-01-11,5000,"Stealing Your Private YouTube Videos, One Frame at a Time",https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/,David Schütz,https://twitter.com/xdavidhu,blog,true,?
+2021-01-08,3133.7,Blind XSS in Google Analytics Admin Panel — $3133.70,https://ashketchum.medium.com/blind-xss-in-google-analytics-admin-panel-3133-70-2185d1cce82a,Ashish Dhone,https://www.linkedin.com/in/ashish-dhone-640489135/,blog,true,?
+2020-12-30,?,Getting my first Google VRP trophies,https://irsl.medium.com/getting-my-first-google-vrp-trophies-b56d700face,Imre Rad,https://www.linkedin.com/in/imre-rad-2358749b/,blog,true,?
+2020-12-27,?,Google VRP Hijacking Google Docs Screenshots,https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/,Sreeram KL,https://blog.geekycat.in/author/sreeram/,blog,true,?
+2020-12-22,0,SSTI in Google Maps,https://www.ehpus.com/post/ssti-in-google-maps,Zohar Shacha,https://www.linkedin.com/in/zohar-shachar/,blog,true,?
+2020-12-21,0,remote code execution when open a project in android studio that google refused to fix,https://seclists.org/fulldisclosure/2020/Dec/43,houjingyi,?,blog,true,?
+2020-12-19,0,Google VRP – Sandboxed RCE as root on Apigee API proxies,https://omespino.com/write-up-google-vrp-n-a-sandboxed-rce-as-root-on-apigee-api-proxies/,Omar Espino,https://twitter.com/omespino,blog,true,?
+2020-11-12,31337,31k$ SSRF in Google Cloud Monitoring led to metadata exposure,https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html,David Nechuta,https://twitter.com/david_nechuta,blog,true,?
+2020-10-27,6337,The YouTube bug that allowed unlisted uploads to any channel,https://infosecwriteups.com/the-youtube-bug-that-allowed-uploads-to-any-channel-3b41c7b7902a,Ryan Kovatch,https://kovatch.medium.com/,blog,true,?
+2020-10-26,0,Deciphering Google’s mysterious ‘batchexecute’ system,https://kovatch.medium.com/deciphering-google-batchexecute-74991e4e446c,Ryan Kovatch,https://kovatch.medium.com/,blog,true,?
+2020-10-08,30000,The mass CSRFing of \*.google.com/\* products.,http://www.missoumsai.com/google-csrfs.html,Missoum Said,https://twitter.com/missoum1307,blog,true,?
+2020-10-01,5000,"Google bug bounty: XSS to Cloud Shell instance takeover (RCE as root) - $5,000 USD",https://omespino.com/write-up-google-bug-bounty-xss-to-cloud-shell-instance-takeover-rce-as-root-5000-usd/,Omar Espino,https://twitter.com/omespino,blog,true,?
+2020-09-29,?,Public Bucket Allowed Access to Images on Upcoming Google Cloud Blog Posts,https://websecblog.com/vulns/public-google-cloud-blog-bucket/,Thomas Orlita,https://twitter.com/ThomasOrlita,blog,true,?
+2020-09-20,500,How I earned $500 from Google - Flaw in Authentication,https://medium.com/bugbountywriteup/how-i-earned-500-from-google-flaw-in-authentication-a40018c05616/,Hemant Patidar,https://twitter.com/HemantSolo,blog,true,?
+2020-09-08,10000,XSS->Fix->Bypass: 10000$ bounty in Google Maps,https://www.ehpus.com/post/xss-fix-bypass-10000-bounty-in-google-maps,Zohar Shacha,https://www.linkedin.com/in/zohar-shachar/,blog,true,?
+2020-09-07,1337,My first bug in google and how i got CSRF token for victim account rather than bypass it,https://medium.com/@odayalhalbe1/my-first-bug-in-google-and-how-i-got-csrf-token-for-victim-account-rather-than-bypass-it-1337-bf01261feb47,Oday Alhalbe,https://bughunter.withgoogle.com/profile/91a2e03b-0b0d-422c-9cd6-aa2a2ae24b57,blog,true,?
+2020-08-26,?,Auth bypass: Leaking Google Cloud service accounts and projects,https://www.ezequiel.tech/2020/08/leaking-google-cloud-projects.html,Ezequiel Pereira,https://twitter.com/epereiralopez,blog,true,?
+2020-08-25,1337,How I Tracked Your Mother: Tracking Waze drivers using UI elements,https://www.malgregator.com/post/waze-how-i-tracked-your-mother/,Peter Gasper,https://github.com/viralpoetry,blog,true,?
+2020-08-22,?,The Short tale of two bugs on Google Cloud Product— Google VRP (Resolved),https://medium.com/bugbountywriteup/the-short-tale-of-two-bugs-on-google-cloud-product-google-vrp-resolved-47c913dca8fc,Sriram,https://twitter.com/sriramoffcl,blog,true,?
+2020-08-19,?,The Confused Mailman: Sending SPF and DMARC passing mail as any Gmail or G Suite customer,https://ezh.es/blog/2020/08/the-confused-mailman-sending-spf-and-dmarc-passing-mail-as-any-gmail-or-g-suite-customer/,Allison Husain,https://twitter.com/ezhes_,blog,true,?
+2020-08-18,?,How to contact Google SRE: Dropping a shell in Cloud SQL,https://www.ezequiel.tech/2020/08/dropping-shell-in.html,Ezequiel Pereira,https://twitter.com/epereiralopez,blog,true,?
+2020-08-18,?,Three More Google Cloud Shell Bugs Explained,https://blog.daviddworken.com/posts/cloud-shell-bugs-explained/,David Dworken,https://twitter.com/ddworken,blog,true,?
+2020-08-15,?,How I was able to send Authentic Emails as others - Google VRP (Resolved),https://medium.com/@sriram_offcl/how-i-was-able-to-send-authentic-emails-as-others-google-vrp-resolved-2af94295f326,Sriram,https://www.twitter.com/sriramoffcl/,blog,true,?
+2020-07-28,1337,Authorization bypass in Google’s ticketing system (Google-GUTS),https://www.ehpus.com/post/authorization-bypass-in-google-s-ticketing-system,Zohar Shacha,https://www.linkedin.com/in/zohar-shachar/,blog,true,?
+2020-07-17,5000,Idor in google product,https://medium.com/@balook/idor-in-google-datastudio-google-com-f2fa51b763de,baluz,https://twitter.com/critical_b0y,blog,true,?
+2020-06-15,3133.7,SMTP Injection in Gsuite,https://www.ehpus.com/post/smtp-injection-in-gsuite,Zohar Shacha,https://www.linkedin.com/in/zohar-shachar/,blog,true,?
+2020-06-06,500,How i earned $500 from google by change one character .,https://medium.com/@odayalhalbe1/how-i-earned-500-from-google-by-change-one-character-8350d2b618e5,Oday Alhalbe,https://bughunter.withgoogle.com/profile/91a2e03b-0b0d-422c-9cd6-aa2a2ae24b57,blog,true,?
+2020-06-04,?,Privilege Escalation in Google Cloud Platform's OS Login,https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes/-/tree/master/oslogin-privesc-june-2020,Chris Moberly,https://twitter.com/init_string,blog,true,?
+2020-05-21,31337,RCE in Google Cloud Deployment Manager,https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html,Ezequiel Pereira,https://twitter.com/epereiralopez,blog,true,?
+2020-05-10,?,Bypassing Firebase authorization to create custom goo.gl subdomains,https://websecblog.com/vulns/bypassing-firebase-authorization-to-create-custom-goo-gl-subdomains/,Thomas Orlita,https://twitter.com/ThomasOrlita,blog,true,?
+2020-05-08,4133.70,Bypass XSS filter using HTML Escape,https://medium.com/@adonkidz7/bypass-xss-filter-using-html-escape-f2e06bebc8c3,Syahri Ramadan,https://twitter.com/adonkidz7,blog,true,?
+2020-05-07,3133.7,DOM-Based XSS at accounts.google.com by Google Voice Extension,http://www.missoumsai.com/google-accounts-xss.html,Missoum Said,https://twitter.com/missoum1307,blog,true,?
+2020-05-07,?,Google Acquisition XSS (Apigee),https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4,TnMch,https://twitter.com/TnMch_,blog,true,?
+2020-05-03,?,DOM XSS in Gmail with a little help from Chrome,https://opnsec.com/2020/05/dom-xss-in-gmail-with-a-little-help-from-chrome/,Enguerran Gillier,https://twitter.com/opnsec,blog,true,?
+2020-04-30,6267.4,Researching Polymorphic Images for XSS on Google Scholar,https://blog.doyensec.com/2020/04/30/polymorphic-images-for-xss.html,Lorenzo Stella,https://twitter.com/doyensec,blog,true,?
+2020-03-27,3133.7,$3133.7 Google Bug Bounty Writeup- XSS Vulnerability!,https://pethuraj.com/blog/google-bug-bounty-writeup/,Pethuraj M,https://twitter.com/itsmepethu,blog,true,?
+2020-03-07,5000,Google Ads Self-XSS & Html Injection $5000,https://medium.com/@adonkidz7/google-ads-self-xss-html-injection-5000-52280da76c80,Syahri Ramadan,https://twitter.com/adonkidz7,blog,true,?
+2020-03-08,6000,The unexpected Google wide domain check bypass,https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/,David Schütz,https://twitter.com/xdavidhu,blog,true,?
+2020-01-12,?,Information Disclosure Vulnerability in the Google Cloud Speech-to-Text API,https://www.dcine.com/2020/01/12/information-disclosure-vulnerability-in-the-google-cloud-speech-to-text-api/,Dan Maas,https://www.linkedin.com/in/dan-maas-66b2a045/,blog,true,?
+2019-12-30,3133.7,How did I earn $3133.70 from Google Translator? (XSS),https://medium.com/monetary/how-did-i-earn-3133-70-from-google-translator-9becf942dbdc,Beri Bey,https://medium.com/@beribeys,blog,true,?
+2019-12-19,?,SSRF in Google Cloud Platform StackDriver,https://ngailong.wordpress.com/2019/12/19/google-vrp-ssrf-in-google-cloud-platform-stackdriver/,Ron Chan,https://twitter.com/ngalongc,blog,true,?
+2019-12-16,?,4 Google Cloud Shell bugs explained,https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/,Wouter ter Maat,https://twitter.com/wtm_offensi,blog,true,?
+2019-12-15,5000,The File uploading CSRF in Google Cloud Shell Editor,https://obmiblog.blogspot.com/2019/12/gcp-5k-file-uploading-csrf.html,Obmi,https://bughunter.withgoogle.com/profile/40997bbc-945a-4eca-8408-eed302641c96,blog,true,?
+2019-12-15,5000,The oauth token hijacking in Google Cloud Shell Editor,https://obmiblog.blogspot.com/2019/12/gcp-5k-oauth-token-hijack.html,Obmi,https://bughunter.withgoogle.com/profile/40997bbc-945a-4eca-8408-eed302641c96,blog,true,?
+2019-12-15,5000,The XSS ( type II ) in Google Cloud Shell Editor,https://obmiblog.blogspot.com/2019/12/gcp-5k-xss-type-ii.html,Obmi,https://bughunter.withgoogle.com/profile/40997bbc-945a-4eca-8408-eed302641c96,blog,true,?
+2019-11-29,1337,Writeup for the 2019 Google Cloud Platform VRP Prize!,https://medium.com/@missoum1307/writeup-for-the-2019-google-cloud-platform-vrp-prize-4e104ef9f204,Missoum Said,https://twitter.com/missoum1307,blog,true,?
+2019-11-18,?,XSS in GMail’s AMP4Email via DOM Clobbering,https://research.securitum.com/xss-in-amp4email-dom-clobbering/,Michał Bentkowski,https://twitter.com/SecurityMB,blog,true,?
+2019-09-09,?,Combination of techniques lead to DOM Based XSS in Google,http://sasi2103.blogspot.com/2016/09/combination-of-techniques-lead-to-dom.html,Sasi Levi,https://twitter.com/sasi2103,blog,true,?
+2019-08-31,36337,$36k Google App Engine RCE,https://www.ezequiel.tech/p/36k-google-app-engine-rce.html,Ezequiel Pereira,https://twitter.com/epereiralopez,blog,true,?
+2019-07-20,13337,Into the Borg – SSRF inside Google production network,https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/,Enguerran Gillier,https://twitter.com/opnsec,blog,true,?
+2019-07-10,?,Gsuite Hangouts Chat 5k IDOR,https://secreltyhiddenwriteups.blogspot.com/2018/07/gsuite-hangouts-chat-5k-idor.html,Cameron Vincent,https://twitter.com/secretlyhidden1,blog,true,?
+2019-05-21,13337,"Google Bug Bounty: LFI on Production Servers in “springboard.google.com” – $13,337 USD",https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-redacted-google-com-13337-usd/,Omar Espino,https://twitter.com/omespino,blog,true,?
+2019-03-29,0,Inserting arbitrary files into anyone’s Google Earth Projects Archive,https://websecblog.com/vulns/google-earth-studio-vulnerability/,Thomas Orlita,https://twitter.com/ThomasOrlita,blog,true,?
+2019-03-26,3133.7,How I could have hijacked a victim’s YouTube notifications!,https://hackademic.co.in/youtube-bug/,Yash Sodha,https://twitter.com/y_sodha,blog,true,?
+2019-02-12,?,Hacking YouTube for #fun and #profit,https://www.linkedin.com/pulse/hacking-youtube-fun-profit-alexandru-coltuneac/,Alexandru Coltuneac,https://twitter.com/dekeeu,blog,true,?
+2019-01-31,?,LFI in Apigee portals,https://offensi.com/2019/01/31/lfi-in-apigee-portals/,Wouter ter Maat,https://twitter.com/wtm_offensi,blog,true,?
+2019-01-30,7500,$7.5k Google Cloud Platform organization issue,https://www.ezequiel.tech/2019/01/75k-google-cloud-platform-organization.html,Ezequiel Pereira,https://twitter.com/epereiralopez,blog,true,?
+2019-01-18,10000,$10k host header,https://www.ezequiel.tech/p/10k-host-header.html,Ezequiel Pereira,https://twitter.com/epereiralopez,blog,true,?
+2018-12-12,?,XSSing Google Code-in thanks to improperly escaped JSON data,https://websecblog.com/vulns/google-code-in-xss/,Thomas Orlita,https://twitter.com/ThomasOrlita,blog,true,?
+2018-12-11,?,Clickjacking DOM XSS on Google.org,https://websecblog.com/vulns/clickjacking-xss-on-google-org/,Thomas Orlita,https://twitter.com/ThomasOrlita,blog,true,?
+2018-12-05,500,Billion Laugh Attack in https://sites.google.com,https://blog.intothesymmetry.com/2018/12/billion-laugh-attack-in.html,Antonio Sanso,https://twitter.com/asanso,blog,true,?
+2018-11-19,?,XS-Searching Google’s bug tracker to find out vulnerable source code,https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549,Luan Herrera,https://twitter.com/lbherrera_,blog,true,?
+2018-11-25,?,XSS in Google's Acquisition,https://www.secjuice.com/google-hall-of-fame/,Abartan Dhakal,https://twitter.com/imhaxormad,blog,true,?
+2018-11-11,7500,"Clickjacking on Google MyAccount Worth 7,500$",https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/,Apapedulimu,https://twitter.com/LocalHost31337,blog,true,?
+2018-10-04,?,GoogleMeetRoulette: Joining random meetings,https://www.martinvigo.com/googlemeetroulette/,Martin Vigo,https://twitter.com/martin_vigo,blog,true,?
+2018-09-05,?,Reflected XSS in Google Code Jam,https://websecblog.com/vulns/reflected-xss-in-google-code-jam/,Thomas Orlita,https://twitter.com/ThomasOrlita,blog,true,?
+2018-08-22,?,Liking GitHub repositories on behalf of other users — Stored XSS in WebComponents.org,https://websecblog.com/vulns/stored-xss-in-webcomponents-org/,Thomas Orlita,https://twitter.com/ThomasOrlita,blog,true,?
+2018-05-25,?,Waze remote vulnerabilities,http://blog.appscan.io/index.php/2018/05/25/waze-remote-vulnerability-technical-report/,PanguTeam,https://twitter.com/PanguTeam,blog,true,?
+2018-03-31,5000,$5k Service dependencies,https://www.ezequiel.tech/p/5k-service-dependencies.html,Ezequiel Pereira,https://twitter.com/epereiralopez,blog,true,?
+2018-03-28,?,Stored XSS on biz.waze.com,https://sites.google.com/securifyinc.com/vrp-writeups/waze/waze-xss,Rojan Rijal,https://twitter.com/mallocsys,blog,true,?
+2018-03-07,13337,"Stored XSS, and SSRF in Google using the Dataset Publishing Language",https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html,Craig Arendt,https://twitter.com/signalchaos,blog,true,?
+2018-02-24,13337,Bypassing Google’s authentication to access their Internal Admin panels,https://medium.com/bugbountywriteup/bypassing-googles-fix-to-access-their-internal-admin-panels-12acd3d821e3,Vishnu Prasad P G,https://twitter.com/vishnuprasadnta,blog,true,?
+2018-02-19,?,Google bugs stories and the shiny pixelbook,https://bughunt1307.herokuapp.com/googlebugs.html,Missoum Said,https://twitter.com/missoum1307,blog,true,?
+2018-02-14,7500,$7.5k Google services mix-up,https://www.ezequiel.tech/p/75k-google-services-mix-up.html,Ezequiel Pereira,https://twitter.com/epereiralopez,blog,true,?
+2017-10-30,15600,"How I hacked Google’s bug tracking system itself for $15,600 in bounties",https://medium.com/@alex.birsan/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5,Alex Birsan,https://twitter.com/alxbrsn,blog,true,?
+2017-03-09,5000,"How I found a $5,000 Google Maps XSS (by fiddling with Protobuf)",https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff,Marin Moulinier,https://github.com/marin-m,blog,true,?
+2017-03-01,?,"Ok Google, Give Me All Your Internal DNS Information!",https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/,Julien Ahrens,https://twitter.com/MrTuxracer,blog,true,?
+2017-02-26,3133.7,Exploiting Clickjacking Vulnerability To Steal User Cookies,https://jasminderpalsingh.info/exploiting-google-clickjacking-vulnerability-to-steal-user-cookies/,Jasminder Pal Singh,https://twitter.com/Singh_Jasminder,blog,true,?
+2017-01-04,?,fastboot oem sha1sum,https://securityresear.ch/2017/01/04/fastboot-oem-sha1sum/,Roee Hay,https://twitter.com/roeehay,blog,true,?
+2016-08-26,500,$500 getClass,https://www.ezequiel.tech/p/500-getclass.html,Ezequiel Pereira,https://twitter.com/epereiralopez,blog,true,?
+2016-02-28,?,"Stored, Reflected and DOM XSS in Google for Work Connect (GWC)",http://respectxss.blogspot.com/2016/02/stored-reflected-and-dom-xss-in-google.html,Ashar Javed,https://twitter.com/soaj1664ashar,blog,true,?
+2015-12-08,?,Creative bug which result Stored XSS on m.youtube.com,http://sasi2103.blogspot.com/2015/12/creative-bug-which-result-stored-xss-on.html,Sasi Levi,https://twitter.com/sasi2103,blog,true,?
+2015-10-29,?,XSS in YouTube Gaming,http://respectxss.blogspot.com/2015/10/xss-in-youtube-gaming.html,Ashar Javed,https://twitter.com/soaj1664ashar,blog,true,?
+2015-06-26,3133.7,Youtube Editor XSS Vulnerability,https://jasminderpalsingh.info/youtube-editor-stored-dom-based-and-self-executed-xss-vulnerability/,Jasminder Pal Singh,https://twitter.com/Singh_Jasminder,blog,true,?
+2014-10-31,5000,The 5000$ Google XSS,https://blog.it-securityguard.com/bugbounty-the-5000-google-xss/,Patrik Fehrenbach,https://twitter.com/itsecurityguard,blog,true,?
+2014-10-26,1337,Youtube XSS Vulnerability (Stored -> Self Executed),https://jasminderpalsingh.info/youtube-xss-vulnerability-stored-self-executed/,Jasminder Pal Singh,https://twitter.com/Singh_Jasminder,blog,true,?
+2014-01-10,?,"Again, from Nay to Yay in Google Vulnerability Reward Program!",https://blog.yappare.com/2014/01/again-from-nay-to-yay-in-google.html,Ahmad Ashraff,https://twitter.com/yappare,blog,true,?
+2014-08-13,?,"I hate you, so I pawn your Google Open Gallery",https://blog.yappare.com/2014/08/i-hate-you-so-i-pawn-your-google-open.html,Ahmad Ashraff,https://twitter.com/yappare,blog,true,?
+2013-09-15,3133.7,XSRF and Cookie manipulation on google.com,https://blog.miki.it/2013/9/15/xsrf-cookie-setting-google/,Michele Spagnuolo,https://twitter.com/mikispag,blog,true,?
+2013-07-08,?,Stored XSS in GMail,https://blog.miki.it/2013/7/8/stored-xss-in-gmail/,Michele Spagnuolo,https://twitter.com/mikispag,blog,true,?
+?,5000,Google VRP : oAuth token stealing,http://bugdisclose.blogspot.com/2017/08/google-vrp-oauth-token-stealing.html,Harsh Jaiswal,https://twitter.com/rootxharsh,blog,true,?
+?,?,Unauth meetings access,https://sites.google.com/securifyinc.com/vrp-writeups/google-meet/authorization-bugs,Rojan Rijal,https://twitter.com/mallocsys,blog,true,?
+?,?,XSS vulnerability in Google Cloud Shell’s code editor through mini-browser endpoint,https://ψ.fun/i/ZK9Kv,Psi,https://ψ.fun/,blog,true,?
+?,?,Information leakage vulnerability in Google Cloud Shell’s proxy service,https://ψ.fun/i/KPMGz,Psi,https://ψ.fun/,blog,true,?
+?,?,XSS vulnerability in Google Cloud Shell’s code editor through SVG files,https://ψ.fun/i/92uQC,Psi,https://ψ.fun/,blog,true,?
+?,?,CSWSH vulnerability in Google Cloud Shell’s code editor,https://ψ.fun/i/yvpMj,Psi,https://ψ.fun/,blog,true,?
+?,3133.7,Open redirects that matter,https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter,Tomasz Bojarski,https://bughunter.withgoogle.com/profile/c25fa487-a4df-4e2e-b877-4d31d8964b82,blog,true,?
+?,?,Voice Squatting & Voice Masquerading Attack against Amazon Alexa and Google Home Actions,https://sites.google.com/site/voicevpasec/,?,?,blog,true,?
+?,?,Blind XSS against a Googler,https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/blind-xss,Rojan Rijal,https://twitter.com/mallocsys,blog,true,?
+?,?,Multiple XSSs on hire.withgoogle.com,https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/xsses,Rojan Rijal,https://twitter.com/mallocsys,blog,true,?
+?,?,Auth Issues on hire.withgoogle.com,https://sites.google.com/securifyinc.com/vrp-writeups/hire-with-google/auth-issues,Rojan Rijal,https://twitter.com/mallocsys,blog,true,?
+?,?,G Suite - Device Management XSS,https://sites.google.com/securifyinc.com/vrp-writeups/gsuite/bookmark-xss-device-management,Rojan Rijal,https://twitter.com/mallocsys,blog,true,?
+2021-04-09,31337,"Explaining the exploit to $31,337 Google Cloud blind SSRF",https://www.youtube.com/watch?v=q0YgfwOndOw,Bug Bounty Reports Explained,https://www.youtube.com/channel/UCZDyl7G-Lq-EMVO8PfDFp9g,video,true,?
+2021-04-06,31337,"$31,337 Google Cloud blind SSRF + HANDS-ON labs",https://www.youtube.com/watch?v=ashSoc59z1Y,Bug Bounty Reports Explained,https://www.youtube.com/channel/UCZDyl7G-Lq-EMVO8PfDFp9g,video,true,?
+2021-03-17,165174,"Hacking into Google's Network for $133,337",https://www.youtube.com/watch?v=g-JgA1hvJzA,LiveOverflow,https://twitter.com/LiveOverflow/,video,true,?
+2021-03-08,5000,"$5,000 YouTube IDOR",https://www.youtube.com/watch?v=FzT3Z7tgDSQ,Bug Bounty Reports Explained,https://www.youtube.com/channel/UCZDyl7G-Lq-EMVO8PfDFp9g,video,true,?
+2021-01-31,5000,Hacking YouTube to watch private videos?,https://www.youtube.com/watch?v=hV9CWw0yDA8,Tech Raj,https://www.youtube.com/channel/UCY7t-zBYtdj6ZgiRpi3WIYg,video,true,?
+2021-01-25,5000,This YouTube Backend API Leaks Private Videos,https://www.youtube.com/watch?v=rGx8DB2HsuI,Hussein Nasser,https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg,video,true,?
+2020-07-31,4133.7,Script Gadgets! Google Docs XSS Vulnerability Walkthrough,https://www.youtube.com/watch?v=aCexqB9qi70,LiveOverflow,https://twitter.com/LiveOverflow/,video,true,?
+2020-03-11,100000,$100k Hacking Prize - Security Bugs in Google Cloud Platform,https://www.youtube.com/watch?v=J2icGMocQds,LiveOverflow,https://twitter.com/LiveOverflow/,video,true,?
+2019-12-09,?,BlackAlps 2019: Google Bug Hunters,https://www.youtube.com/watch?v=DTXUMBc1zEc,Eduardo Vela Nava,https://twitter.com/sirdarckcat,video,true,?
+2019-10-01,5000,Google Paid Me to Talk About a Security Issue!,https://www.youtube.com/watch?v=E-P9USG6kLs,LiveOverflow,https://twitter.com/LiveOverflow/,video,true,?
+2019-04-23,?,Best Of Google VRP 2018 | nullcon Goa 2019,https://www.youtube.com/watch?v=mJwZfRXs83M,Daniel Stelter-Gliese,https://ch.linkedin.com/in/daniel-stelter-gliese-170a70a2,video,true,?
+2019-03-31,?,XSS on Google Search - Sanitizing HTML in The Client?,https://www.youtube.com/watch?v=lG7U3fuNw3A,LiveOverflow,https://twitter.com/LiveOverflow/,video,true,?
+2018-11-14,58837,Google Cloud Platform vulnerabilities - BugSWAT,https://www.youtube.com/watch?v=9pviQ19njIs,Ezequiel Pereira,https://twitter.com/epereiralopez,video,true,?
+2017-06-21,?,nullcon Goa 2017 - Great Bugs In Google VRP In 2016,https://www.youtube.com/watch?v=zs_nEJ9fh_4,Martin Straka and Karshan Sharma,https://nullcon.net/website/goa-2017/about-speakers.php,video,true,?
+2017-06-08,?,RuhrSec 2017: Secrets of the Google Vulnerability Reward Program,https://www.youtube.com/watch?v=ueEsOnHJZ80,Krzysztof Kotowicz,https://ch.linkedin.com/in/kkotowicz,video,true,?
+2016-11-29,?,War Stories from Google’s Vulnerability Reward Program,https://www.youtube.com/watch?v=QoE0M7v84ZU,Gábor Molnár,https://twitter.com/molnar_g,video,true,?
