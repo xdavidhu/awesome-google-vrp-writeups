@@ -47,15 +47,19 @@ def generate_readme(writeups, output_file):
                 else:
                     bounty = "???"
                 
-                if writeup['author'] == "?":
-                    writeup['author'] = "???"
-                if writeup['author-url'] == "?":
-                    writeup['author-url'] = "#"
+                author = writeup['author']
+                if author == "?":
+                    author = "???"
                 
-                if writeup['archive-url'] == "?":
-                    writeup['archive-url'] = "#"
+                author_url = writeup['author-url']
+                if author_url == "?":
+                    author_url = "#"
+                
+                archive_url = writeup['archive-url']
+                if archive_url == "?":
+                    archive_url = "#"
 
-                output.write(f"- **[{date_string} - ${bounty}]** [{writeup['title']}]({writeup['url']})[*]({writeup['archive-url']}) by [{writeup['author']}]({writeup['author-url']})\n")
+                output.write(f"- **[{date_string} - ${bounty}]** [{writeup['title']}]({writeup['url']})[*]({archive_url}) by [{author}]({author_url})\n")
 
 if __name__ == "__main__":
     import sys

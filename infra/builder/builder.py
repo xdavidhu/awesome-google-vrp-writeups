@@ -83,9 +83,6 @@ def builder():
     
     writeups = parse_writeups(writeups_csv)
 
-    # Generate new README.md
-    csv_to_readme.generate_readme(writeups, readme_md)
-
     for writeup in writeups:
 
         # Tweet new writeups
@@ -107,6 +104,9 @@ def builder():
                 if archive_url != False:
                     writeup["archive-url"] = archive_url
 
+    # Generate new README.md
+    csv_to_readme.generate_readme(writeups, readme_md)
+    
     write_writeups(writeups, writeups_csv)
 
 builder()
