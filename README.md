@@ -3,11 +3,25 @@
 
 *\*writeups: **not just** writeups*
 
+**Follow [@gvrp_writeups](https://twitter.com/gvrp_writeups) on Twitter to get new writeups straigt into your feed!**
+
+## Contributing:
+
+If you know of any writeups/videos not listed in this repository, feel free to open a Pull Request.
+
+To add a new writeup, simply add a new line to `writeups.csv`:
+```
+[YYYY-MM-DD],[bounty],[title],[url],[author-name],[author-url],[type],false,?
+```
+*If a value is not available, write `?`.*<br>
+*The value of `type` can either be `blog` or `video`.*<br>
+*Please keep the last two fields set to `false` and `?`. The automation will modify these fields.*<br>
+*If available, set `author-url` to the author's Twitter URL, so the automation can @mention the author.*
+
 ## Blog posts:
 
 ### 2021:
 
-- **[Apr 20 - $5,000]** [Test-Writeup](https://example.com/) by [Google VRP](https://twitter.com/googlevrp)
 - **[Apr 13 - $1,337]** [Google Photos : Theft of Database & Arbitrary Files Android Vulnerability](https://servicenger.com/blog/mobile/google-photos-theft-of-database-arbitrary-files-android-vulnerability/) by [Rahul Kankrale](https://twitter.com/RahulKankrale)
 - **[Apr 05 - $6,000]** [I Built a TV That Plays All of Your Private YouTube Videos](https://bugs.xdavidhu.me/google/2021/04/05/i-built-a-tv-that-plays-all-of-your-private-youtube-videos/) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Mar 21 - $???]** [How I made it to Google HOF?](https://infosecwriteups.com/how-i-made-it-to-google-hof-f1cec85fdb1b) by [Sudhanshu Rajbhar](https://twitter.com/sudhanshur705)
