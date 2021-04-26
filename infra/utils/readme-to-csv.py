@@ -59,7 +59,9 @@ for line in file:
             'url': match.group(6),
             'author': match.group(7) if not match.group(7)=="???" else "?",
             'author-url': match.group(8) if not match.group(8)=="#" else "?",
-            'type': type
+            'type': type,
+            'tweeted': 'true',
+            'archive-url': '?'
         }
         data.append(row)
 file.close()

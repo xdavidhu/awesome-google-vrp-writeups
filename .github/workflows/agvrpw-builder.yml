@@ -1,0 +1,28 @@
+name: "AGVRP Builder Action"
+on: [push]
+jobs:
+  build-writeups:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Clone repo
+      uses: actions/checkout@v2.3.4
+
+    - name: Run the local builder action
+      uses: ./infra/builder
+      env:
+        AGVRPW_TWITTER_CK: ${{ secrets.AGVRPW_TWITTER_CK }}
+        AGVRPW_TWITTER_CS: ${{ secrets.AGVRPW_TWITTER_CS }}
+        AGVRPW_TWITTER_RK: ${{ secrets.AGVRPW_TWITTER_RK }}
+        AGVRPW_TWITTER_RS: ${{ secrets.AGVRPW_TWITTER_RS }}
+
+    - name: Commit files
+      run: |
+      git config --local user.email "agvrpw-builder[bot]@gh.xdavidhu.me"
+      git config --local user.name "agvrpw-builder[bot]"
+      git commit -m "Build writeups" -a
+
+    - name: Push the changes
+      uses: ad-m/github-push-action@057a6ba835d986bfe495dd476a6c4db1d5f9503c
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}

@@ -1,0 +1,4 @@
+name: "AGVRP Builder Container"
+runs:
+  using: "docker"
+  image: "Dockerfile"
