@@ -15,9 +15,9 @@ jobs:
         AGVRPW_TWITTER_RS: ${{ secrets.AGVRPW_TWITTER_RS }}
     - name: Commit files
       run: |
-      git config --local user.email "agvrpw-builder[bot]@gh.xdavidhu.me"
-      git config --local user.name "agvrpw-builder[bot]"
-      git commit -m "Build writeups" -a
+        git config --local user.email "agvrpw-builder[bot]@gh.xdavidhu.me"
+        git config --local user.name "agvrpw-builder[bot]"
+        git commit -m "Build writeups" -a
     - name: Push the changes
       uses: ad-m/github-push-action@057a6ba835d986bfe495dd476a6c4db1d5f9503c
       with:
