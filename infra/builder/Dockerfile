@@ -5,6 +5,5 @@ WORKDIR $APP_HOME
 COPY . ./
 
 RUN pip install requests requests_oauthlib
-RUN apt-get update && apt-get install git -y
 
-ENTRYPOINT ["python", "builder.py"]
+ENTRYPOINT ["python", "${APP_HOME}/builder.py"]
