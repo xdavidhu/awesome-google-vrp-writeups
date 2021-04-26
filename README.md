@@ -3,23 +3,6 @@
 
 *\*writeups: **not just** writeups*
 
-## Contributing:
-
-If you have/know of any Google writeups not listed in this repository, feel free to open a Pull Request. Please try to sort the writeups by publication date.
-
-The template to follow when adding new writeups:
-```
-- **[MONTH DAY - $BOUNTY]** [TITLE](URL) by [NAME](TWITTER_URL)
-```
-*If the bounty amount is not available, write `$???`.*<br>
-*If no Twitter account is available, try finding something similar, like other social media page or website.*
-
-### Contributors:
-
-[David Schütz](https://twitter.com/xdavidhu), [Alex Birsan](https://twitter.com/alxbrsn), [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/), [wis4nggeni](https://twitter.com/_wis4nggeni), [Thomas Orlita](https://twitter.com/ThomasOrlita), [CaptainFreak](https://twitter.com/0xCaptainFreak), [Akshansh Jaiswal](https://twitter.com/akshanshjaiswl), [Nihal](https://twitter.com/iamnihal_), [Sriram](https://www.twitter.com/sriramoffcl/), [Nosa Shandy](https://apapedulimu.click), [Peter Gasper](https://twitter.com/viralpoetry), [Abartan Dhakal](https://twitter.com/imhaxormad), [Syahri Ramadan](https://twitter.com/LocalHost31337), [Omar Espino](https://twitter.com/omespino), [irsl](https://github.com/irsl), [santuySec](https://twitter.com/santuySec)
-
-Thank you! 🎉
-
 ## Blog posts:
 
 ### 2021:
@@ -28,7 +11,7 @@ Thank you! 🎉
 - **[Apr 05 - $6,000]** [I Built a TV That Plays All of Your Private YouTube Videos](https://bugs.xdavidhu.me/google/2021/04/05/i-built-a-tv-that-plays-all-of-your-private-youtube-videos/) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Mar 21 - $???]** [How I made it to Google HOF?](https://infosecwriteups.com/how-i-made-it-to-google-hof-f1cec85fdb1b) by [Sudhanshu Rajbhar](https://twitter.com/sudhanshur705)
 - **[Mar 11 - $3,133.7]** [How I Get Blind XSS At Google With Dork (First Bounty and HOF )](https://apapedulimu.click/google-vrp-how-i-get-blind-xss-at-google-with-dork-first-bounty-and-hof/) by [Rio Mulyadi Pulungan](https://twitter.com/riomulyadi_)
-- **[Mar 08 - $0]** [Google VRP N/A: SSRF Bypass with Quadzero in Google Cloud Monitoring](https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/) by [Omar Espino](https://twitter.com/omespino) 
+- **[Mar 08 - $0]** [Google VRP N/A: SSRF Bypass with Quadzero in Google Cloud Monitoring](https://omespino.com/write-up-google-vrp-n-a-ssrf-bypass-with-quadzero-in-google-cloud-monitoring/) by [Omar Espino](https://twitter.com/omespino)
 - **[Feb 16 - $0]** [Dropping a shell in Google’s Cloud SQL (the speckle-umbrella story)](https://irsl.medium.com/dropping-a-shell-in-googles-cloud-sql-the-speckle-umbrella-story-f9375bd4960d) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Jan 27 - $???]** [Hijacking Google Drive Files (documents, photo & video) through Google Docs Sharing](https://santuysec.id/2021/01/27/hijacking-google-drive-files-documents-photo-video-through-google-docs-sharing/) by [santuySec](https://twitter.com/santuySec)
 - **[Jan 18 - $1,337]** [The Embedded YouTube Player Told Me What You Were Watching (and more)](https://bugs.xdavidhu.me/google/2021/01/18/the-embedded-youtube-player-told-me-what-you-were-watching-and-more/) by [David Schütz](https://twitter.com/xdavidhu)
@@ -41,7 +24,7 @@ Thank you! 🎉
 - **[Dec 27 - $???]** [Google VRP Hijacking Google Docs Screenshots](https://blog.geekycat.in/google-vrp-hijacking-your-screenshots/) by [Sreeram KL](https://blog.geekycat.in/author/sreeram/)
 - **[Dec 22 - $0]** [SSTI in Google Maps](https://www.ehpus.com/post/ssti-in-google-maps) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
 - **[Dec 21 - $0]** [remote code execution when open a project in android studio that google refused to fix](https://seclists.org/fulldisclosure/2020/Dec/43) by [houjingyi](#)
-- **[Dec 19 - $0]** [Google VRP – Sandboxed RCE as root on Apigee API proxies](https://omespino.com/write-up-google-vrp-n-a-sandboxed-rce-as-root-on-apigee-api-proxies/) by [Omar Espino](https://twitter.com/omespino) 
+- **[Dec 19 - $0]** [Google VRP – Sandboxed RCE as root on Apigee API proxies](https://omespino.com/write-up-google-vrp-n-a-sandboxed-rce-as-root-on-apigee-api-proxies/) by [Omar Espino](https://twitter.com/omespino)
 - **[Nov 12 - $31,337]** [31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html) by [David Nechuta](https://twitter.com/david_nechuta)
 - **[Oct 27 - $6,337]** [The YouTube bug that allowed unlisted uploads to any channel](https://infosecwriteups.com/the-youtube-bug-that-allowed-uploads-to-any-channel-3b41c7b7902a) by [Ryan Kovatch](https://kovatch.medium.com/)
 - **[Oct 26 - $0]** [Deciphering Google’s mysterious ‘batchexecute’ system](https://kovatch.medium.com/deciphering-google-batchexecute-74991e4e446c) by [Ryan Kovatch](https://kovatch.medium.com/)
@@ -65,14 +48,14 @@ Thank you! 🎉
 - **[Jun 04 - $???]** [Privilege Escalation in Google Cloud Platform's OS Login](https://gitlab.com/gitlab-com/gl-security/gl-redteam/red-team-tech-notes/-/tree/master/oslogin-privesc-june-2020) by [Chris Moberly](https://twitter.com/init_string)
 - **[May 21 - $31,337]** [RCE in Google Cloud Deployment Manager](https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - **[May 10 - $???]** [Bypassing Firebase authorization to create custom goo.gl subdomains](https://websecblog.com/vulns/bypassing-firebase-authorization-to-create-custom-goo-gl-subdomains/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
-- **[May 08 - $4133.70]** [Bypass XSS filter using HTML Escape](https://medium.com/@adonkidz7/bypass-xss-filter-using-html-escape-f2e06bebc8c3) by [Syahri Ramadan](https://twitter.com/adonkidz7)
+- **[May 08 - $4,133.7]** [Bypass XSS filter using HTML Escape](https://medium.com/@adonkidz7/bypass-xss-filter-using-html-escape-f2e06bebc8c3) by [Syahri Ramadan](https://twitter.com/adonkidz7)
 - **[May 07 - $3,133.7]** [DOM-Based XSS at accounts.google.com by Google Voice Extension](http://www.missoumsai.com/google-accounts-xss.html) by [Missoum Said](https://twitter.com/missoum1307)
 - **[May 07 - $???]** [Google Acquisition XSS (Apigee)](https://medium.com/@TnMch/google-acquisition-xss-apigee-5479d7b5dc4) by [TnMch](https://twitter.com/TnMch_)
 - **[May 03 - $???]** [DOM XSS in Gmail with a little help from Chrome](https://opnsec.com/2020/05/dom-xss-in-gmail-with-a-little-help-from-chrome/) by [Enguerran Gillier](https://twitter.com/opnsec)
 - **[Apr 30 - $6,267.4]** [Researching Polymorphic Images for XSS on Google Scholar](https://blog.doyensec.com/2020/04/30/polymorphic-images-for-xss.html) by [Lorenzo Stella](https://twitter.com/doyensec)
 - **[Mar 27 - $3,133.7]** [$3133.7 Google Bug Bounty Writeup- XSS Vulnerability!](https://pethuraj.com/blog/google-bug-bounty-writeup/) by [Pethuraj M](https://twitter.com/itsmepethu)
-- **[Mar 07 - $5,000]** [Google Ads Self-XSS & Html Injection $5000](https://medium.com/@adonkidz7/google-ads-self-xss-html-injection-5000-52280da76c80) by [Syahri Ramadan](https://twitter.com/adonkidz7)
 - **[Mar 08 - $6,000]** [The unexpected Google wide domain check bypass](https://bugs.xdavidhu.me/google/2020/03/08/the-unexpected-google-wide-domain-check-bypass/) by [David Schütz](https://twitter.com/xdavidhu)
+- **[Mar 07 - $5,000]** [Google Ads Self-XSS & Html Injection $5000](https://medium.com/@adonkidz7/google-ads-self-xss-html-injection-5000-52280da76c80) by [Syahri Ramadan](https://twitter.com/adonkidz7)
 - **[Jan 12 - $???]** [Information Disclosure Vulnerability in the Google Cloud Speech-to-Text API](https://www.dcine.com/2020/01/12/information-disclosure-vulnerability-in-the-google-cloud-speech-to-text-api/) by [Dan Maas](https://www.linkedin.com/in/dan-maas-66b2a045/)
 
 ### 2019:
@@ -102,8 +85,8 @@ Thank you! 🎉
 - **[Dec 12 - $???]** [XSSing Google Code-in thanks to improperly escaped JSON data](https://websecblog.com/vulns/google-code-in-xss/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[Dec 11 - $???]** [Clickjacking DOM XSS on Google.org](https://websecblog.com/vulns/clickjacking-xss-on-google-org/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
 - **[Dec 05 - $500]** [Billion Laugh Attack in https://sites.google.com](https://blog.intothesymmetry.com/2018/12/billion-laugh-attack-in.html) by [Antonio Sanso](https://twitter.com/asanso)
-- **[Nov 19 - $???]** [XS-Searching Google’s bug tracker to find out vulnerable source code](https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549) by [Luan Herrera](https://twitter.com/lbherrera_)
 - **[Nov 25 - $???]** [XSS in Google's Acquisition](https://www.secjuice.com/google-hall-of-fame/) by [Abartan Dhakal](https://twitter.com/imhaxormad)
+- **[Nov 19 - $???]** [XS-Searching Google’s bug tracker to find out vulnerable source code](https://medium.com/@luanherrera/xs-searching-googles-bug-tracker-to-find-out-vulnerable-source-code-50d8135b7549) by [Luan Herrera](https://twitter.com/lbherrera_)
 - **[Nov 11 - $7,500]** [Clickjacking on Google MyAccount Worth 7,500$](https://apapedulimu.click/clickjacking-on-google-myaccount-worth-7500/) by [Apapedulimu](https://twitter.com/LocalHost31337)
 - **[Oct 04 - $???]** [GoogleMeetRoulette: Joining random meetings](https://www.martinvigo.com/googlemeetroulette/) by [Martin Vigo](https://twitter.com/martin_vigo)
 - **[Sep 05 - $???]** [Reflected XSS in Google Code Jam](https://websecblog.com/vulns/reflected-xss-in-google-code-jam/) by [Thomas Orlita](https://twitter.com/ThomasOrlita)
@@ -139,8 +122,8 @@ Thank you! 🎉
 
 - **[Oct 31 - $5,000]** [The 5000$ Google XSS](https://blog.it-securityguard.com/bugbounty-the-5000-google-xss/) by [Patrik Fehrenbach](https://twitter.com/itsecurityguard)
 - **[Oct 26 - $1,337]** [Youtube XSS Vulnerability (Stored -> Self Executed)](https://jasminderpalsingh.info/youtube-xss-vulnerability-stored-self-executed/) by [Jasminder Pal Singh](https://twitter.com/Singh_Jasminder)
-- **[Jan 10 - $???]** [Again, from Nay to Yay in Google Vulnerability Reward Program!](https://blog.yappare.com/2014/01/again-from-nay-to-yay-in-google.html) by [Ahmad Ashraff](https://twitter.com/yappare)
 - **[Aug 13 - $???]** [I hate you, so I pawn your Google Open Gallery](https://blog.yappare.com/2014/08/i-hate-you-so-i-pawn-your-google-open.html) by [Ahmad Ashraff](https://twitter.com/yappare)
+- **[Jan 10 - $???]** [Again, from Nay to Yay in Google Vulnerability Reward Program!](https://blog.yappare.com/2014/01/again-from-nay-to-yay-in-google.html) by [Ahmad Ashraff](https://twitter.com/yappare)
 
 ### 2013:
 
