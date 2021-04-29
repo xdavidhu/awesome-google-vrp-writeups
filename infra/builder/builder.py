@@ -29,16 +29,17 @@ def parse_twitter_user(author_url):
         return match.group(1)
     return False
 
-def new_tweet(title, author, url, mention=False):
+def new_tweet(title, bounty, author, url, mention=False):
     twitter = OAuth1Session(twitter_ck, client_secret=twitter_cs, resource_owner_key=twitter_rk, resource_owner_secret=twitter_rs)
     
-    title = (title[:167] + "...") if len(title) >= 170 else title
+    title = (title[:137] + "...") if len(title) >= 140 else title
     if len(author) >= 50:
         mention = False
     author = (author[:47] + "...") if len(author) >= 50 else author
 
     author_string = "@" + author if mention else author
-    tweet_string = f"New Google VRP writeup \"{title}\" by {author_string}:\n{url}"
+    bounty_string = "???" if bounty == "?" else f"{float(bounty):,g}"
+    tweet_string = f"New Google VRP writeup \"{title}\" for a bounty of ${bounty_string} by {author_string}:\n{url}"
     try:
         r = twitter.post("https://api.twitter.com/1.1/statuses/update.json", data={"status": tweet_string})
         if r.status_code == 200:
@@ -93,7 +94,7 @@ def builder():
             if author == False:
                 mention = False
                 author = writeup["author"]
-            if new_tweet(writeup["title"], author, writeup["url"], mention=mention) == True:
+            if new_tweet(writeup["title"], writeup["bounty"], author, writeup["url"], mention=mention) == True:
                 writeup["tweeted"] = "true"
                 print("[+] Writeup " + writeup["url"] + " tweeted and updated successfully")
         
