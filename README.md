@@ -22,6 +22,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2021:
 
+- **[May 16 - $5,000]** [Auth Bypass in https://nearbydevices-pa.googleapis.com](https://feed.bugs.xdavidhu.me/bugs/0004)[*](https://web.archive.org/web/20210516220256/https://feed.bugs.xdavidhu.me/bugs/0004) by [David Schütz](https://twitter.com/xdavidhu)
 - **[May 05 - $???]** [How I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit](https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html)[*](https://web.archive.org/web/20210507101404/https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html) by [Robert Grosse](https://www.reddit.com/user/Uncaffeinated/)
 - **[Apr 29 - $???]** [De-anonymising Anonymous Animals in Google Workspace](https://feed.bugs.xdavidhu.me/bugs/0003)[*](https://web.archive.org/web/20210429095111/https://feed.bugs.xdavidhu.me/bugs/0003) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Apr 20 - $???]** [Auth Bypass in Google Workspace Real Time Collaboration](https://feed.bugs.xdavidhu.me/bugs/0002)[*](https://web.archive.org/web/20210429095041/https://feed.bugs.xdavidhu.me/bugs/0002) by [David Schütz](https://twitter.com/xdavidhu)
