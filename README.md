@@ -22,6 +22,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2021:
 
+- **[Jun 09 - $500]** [Author spoofing in Google Colaboratory](https://www.ehpus.com/post/author-spoofing-in-google-colaboratory)[*](https://web.archive.org/web/20210609191502/https://www.ehpus.com/post/author-spoofing-in-google-colaboratory) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
 - **[May 31 - $10,000]** [AppCache's forgotten tales](https://blog.lbherrera.me/posts/appcache-forgotten-tales/)[*](https://web.archive.org/web/20210601152111/https://blog.lbherrera.me/posts/appcache-forgotten-tales/) by [Luan Herrera](https://twitter.com/lbherrera_)
 - **[May 17 - $???]** [Clickjacking in Nearby Devices Dashboard](https://feed.bugs.xdavidhu.me/bugs/0005)[*](https://web.archive.org/web/20210517120128/https://feed.bugs.xdavidhu.me/bugs/0005) by [David Schütz](https://twitter.com/xdavidhu)
 - **[May 16 - $5,000]** [Auth Bypass in https://nearbydevices-pa.googleapis.com](https://feed.bugs.xdavidhu.me/bugs/0004)[*](https://web.archive.org/web/20210516220256/https://feed.bugs.xdavidhu.me/bugs/0004) by [David Schütz](https://twitter.com/xdavidhu)
