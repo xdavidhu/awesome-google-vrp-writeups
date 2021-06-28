@@ -22,6 +22,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2021:
 
+- **[Jun 25 - $???]** [Google Compute Engine (GCE) VM takeover via DHCP flood](https://github.com/irsl/gcp-dhcp-takeover-code-exec)[*](https://web.archive.org/web/20210628184722/https://github.com/irsl/gcp-dhcp-takeover-code-exec) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Jun 13 - $3,133.7]** [Privilege escalation on https://dialogflow.cloud.google.com](https://lalka-test.medium.com/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d)[*](https://web.archive.org/web/20210614090237/https://medium.com/@lalka_test/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d) by [lalka](https://twitter.com/0x01alka)
 - **[Jun 09 - $500]** [Author spoofing in Google Colaboratory](https://www.ehpus.com/post/author-spoofing-in-google-colaboratory)[*](https://web.archive.org/web/20210609191502/https://www.ehpus.com/post/author-spoofing-in-google-colaboratory) by [Zohar Shacha](https://www.linkedin.com/in/zohar-shachar/)
 - **[May 31 - $10,000]** [AppCache's forgotten tales](https://blog.lbherrera.me/posts/appcache-forgotten-tales/)[*](https://web.archive.org/web/20210601152111/https://blog.lbherrera.me/posts/appcache-forgotten-tales/) by [Luan Herrera](https://twitter.com/lbherrera_)
