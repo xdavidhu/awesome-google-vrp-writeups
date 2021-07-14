@@ -15,6 +15,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 ```
 *If a value is not available, write `?`.*<br>
 *The value of `type` can either be `blog` or `video`.*<br>
+*If any of the fields include a `,`, please wrap the value in quotes.*<br>
 *Please keep the last two fields set to `false` and `?`. The automation will modify these fields.*<br>
 *If available, set `author-url` to the author's Twitter URL, so the automation can @mention the author.*
 
