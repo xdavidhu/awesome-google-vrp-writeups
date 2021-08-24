@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2021:
 
+- **[Aug 24 - $???]** [The Nomulus rift](https://irsl.medium.com/the-nomulus-rift-935a3c4d9300)[*](https://web.archive.org/web/20210824194209/https://irsl.medium.com/the-nomulus-rift-935a3c4d9300) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Jun 25 - $???]** [Google Compute Engine (GCE) VM takeover via DHCP flood](https://github.com/irsl/gcp-dhcp-takeover-code-exec)[*](https://web.archive.org/web/20210628184722/https://github.com/irsl/gcp-dhcp-takeover-code-exec) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Jun 16 - $???]** [Story of Google Hall of Fame and Private program bounty worth $$$$](https://infosecwriteups.com/story-of-google-hall-of-fame-and-private-program-bounty-worth-53559a95c468)[*](https://web.archive.org/web/20210628185104/https://infosecwriteups.com/story-of-google-hall-of-fame-and-private-program-bounty-worth-53559a95c468?gi=d4a3651a766a) by [Basavaraj Banakar](https://twitter.com/basu_banakar)
 - **[Jun 13 - $3,133.7]** [Privilege escalation on https://dialogflow.cloud.google.com](https://lalka-test.medium.com/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d)[*](https://web.archive.org/web/20210614090237/https://medium.com/@lalka_test/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d) by [lalka](https://twitter.com/0x01alka)
