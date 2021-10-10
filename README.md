@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2021:
 
+- **[Sep 28 - $???]** [Google Extensible Service Proxy v1 - CWE-287 Improper Authentication](https://seclists.org/fulldisclosure/2021/Sep/51)[*](https://web.archive.org/web/20211010181255/https://seclists.org/fulldisclosure/2021/Sep/51) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Aug 24 - $???]** [The Nomulus rift](https://irsl.medium.com/the-nomulus-rift-935a3c4d9300)[*](https://web.archive.org/web/20210824194209/https://irsl.medium.com/the-nomulus-rift-935a3c4d9300) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Jun 25 - $???]** [Google Compute Engine (GCE) VM takeover via DHCP flood](https://github.com/irsl/gcp-dhcp-takeover-code-exec)[*](https://web.archive.org/web/20210628184722/https://github.com/irsl/gcp-dhcp-takeover-code-exec) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Jun 16 - $???]** [Story of Google Hall of Fame and Private program bounty worth $$$$](https://infosecwriteups.com/story-of-google-hall-of-fame-and-private-program-bounty-worth-53559a95c468)[*](https://web.archive.org/web/20210628185104/https://infosecwriteups.com/story-of-google-hall-of-fame-and-private-program-bounty-worth-53559a95c468?gi=d4a3651a766a) by [Basavaraj Banakar](https://twitter.com/basu_banakar)
