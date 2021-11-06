@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2021:
 
+- **[Oct 18 - $???]** [The Speckle Umbrella story — part 2](https://irsl.medium.com/the-speckle-umbrella-story-part-2-fcc0193614ea)[*](https://web.archive.org/web/20211106111937/https://irsl.medium.com/the-speckle-umbrella-story-part-2-fcc0193614ea) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Oct 14 - $0]** [GOOGLE VRP N/A: Arbitrary local file read (macOS) via <a> tag and null byte (%00) in Google Earth Pro Desktop app](https://omespino.com/write-up-google-vrp-n-a-arbitrary-local-file-read-macos-via-a-tag-and-null-byte-in-google-earth-pro-desktop-app/)[*](https://web.archive.org/web/20211106111614/https://omespino.com/write-up-google-vrp-n-a-arbitrary-local-file-read-macos-via-a-tag-and-null-byte-in-google-earth-pro-desktop-app/) by [Omar Espino](https://twitter.com/omespino)
 - **[Sep 28 - $???]** [Google Extensible Service Proxy v1 - CWE-287 Improper Authentication](https://seclists.org/fulldisclosure/2021/Sep/51)[*](https://web.archive.org/web/20211010181255/https://seclists.org/fulldisclosure/2021/Sep/51) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Aug 24 - $???]** [The Nomulus rift](https://irsl.medium.com/the-nomulus-rift-935a3c4d9300)[*](https://web.archive.org/web/20210824194209/https://irsl.medium.com/the-nomulus-rift-935a3c4d9300) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
