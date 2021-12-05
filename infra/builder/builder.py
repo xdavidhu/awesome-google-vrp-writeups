@@ -7,6 +7,7 @@ twitter_cs = os.getenv("AGVRPW_TWITTER_CS", "")
 twitter_rk = os.getenv("AGVRPW_TWITTER_RK", "")
 twitter_rs = os.getenv("AGVRPW_TWITTER_RS", "")
 workspace_dir = os.getenv("GITHUB_WORKSPACE")
+repo_url = "https://github.com/xdavidhu/awesome-google-vrp-writeups"
 
 def random_string(length):
     return "".join(random.SystemRandom().choice(string.ascii_uppercase + string.ascii_lowercase + string.digits) for _ in range(length))
@@ -51,7 +52,7 @@ def new_tweet(title, bounty, author, url, mention=False):
 
 def archive(url):
     print(f"[+] Archinving '{url}'")
-    headers = {"User-Agent": "https://github.com/xdavidhu/awesome-google-vrp-writeups"}
+    headers = {"User-Agent": repo_url}
     url = urllib.parse.quote(url)
 
     try:
@@ -109,5 +110,8 @@ def builder():
     csv_to_readme.generate_readme(writeups, readme_md)
     
     write_writeups(writeups, writeups_csv)
+
+    # Request an archive for the repo page
+    archive(repo_url)
 
 builder()
