@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2021:
 
+- **[Dec 21 - $5,000]** [Google Cloud Shell XSS](https://docs.google.com/document/d/1cvWRwUSQCAmTy2bQRLeFp6EObnmi9gGZW4sxbjQPTAg/edit)[*](https://web.archive.org/web/20211224120221/https://docs.google.com/document/d/1cvWRwUSQCAmTy2bQRLeFp6EObnmi9gGZW4sxbjQPTAg/edit) by [NDevTK](https://twitter.com/ndevtk)
 - **[Dec 05 - $6,267.4]** [SSRF vulnerability in AppSheet - Google VRP](https://nechudav.blogspot.com/2021/12/ssrf-vulnerability-in-appsheet-google.html)[*](https://web.archive.org/web/20211205190618/https://nechudav.blogspot.com/2021/12/ssrf-vulnerability-in-appsheet-google.html) by [David Nechuta](https://twitter.com/david_nechuta)
 - **[Nov 17 - $10,401.1]** [Reacting to myself finding an SSRF vulnerability in Google Cloud](https://www.youtube.com/watch?v=UyemBjyQ4qA)[*](#) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Nov 11 - $1,337]** [GOOGLE VRP BUG BOUNTY: /etc/environment local variables exfiltrated on Linux Google Earth Pro desktop app](https://omespino.com/write-up-google-vrp-bug-bounty-etc-environment-local-variables-exfiltrated-on-linux-google-earth-pro-desktop-app-1337-usd/)[*](https://web.archive.org/web/20211205222340/https://omespino.com/write-up-google-vrp-bug-bounty-etc-environment-local-variables-exfiltrated-on-linux-google-earth-pro-desktop-app-1337-usd/) by [Omar Espino](https://twitter.com/omespino)
@@ -170,7 +171,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 ### 2016:
 
 - **[Nov 29 - $???]** [War Stories from Google’s Vulnerability Reward Program](https://www.youtube.com/watch?v=QoE0M7v84ZU)[*](#) by [Gábor Molnár](https://twitter.com/molnar_g)
-- **[Oct 09 - $6,000]** [How I got 6000$ from #Google (Google Cloudshell RCE)](https://medium.com/@pranavvenkats/how-i-got-6000-from-google-a4670aa4158d)[*](#) by [Pranav Venkat](https://twitter.com/PranavVenkatS)
+- **[Oct 09 - $6,000]** [How I got 6000$ from #Google (Google Cloudshell RCE)](https://medium.com/@pranavvenkats/how-i-got-6000-from-google-a4670aa4158d)[*](https://web.archive.org/web/20211224124304/https://medium.com/@pranavvenkats/how-i-got-6000-from-google-a4670aa4158d) by [Pranav Venkat](https://twitter.com/PranavVenkatS)
 - **[Aug 26 - $500]** [$500 getClass](https://www.ezequiel.tech/p/500-getclass.html)[*](https://web.archive.org/web/20210426141327/https://www.ezequiel.tech/p/500-getclass.html) by [Ezequiel Pereira](https://twitter.com/epereiralopez)
 - **[Feb 28 - $???]** [Stored, Reflected and DOM XSS in Google for Work Connect (GWC)](http://respectxss.blogspot.com/2016/02/stored-reflected-and-dom-xss-in-google.html)[*](https://web.archive.org/web/20210426141309/https://www.blogger.com/static/v1/widgets/115981500-css_bundle_v2.css) by [Ashar Javed](https://twitter.com/soaj1664ashar)
 
