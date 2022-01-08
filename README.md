@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2021:
 
+- **[Dec 28 - $3,133.7]** [RCE in Google Cloud Dataflow](https://mbrancato.github.io/2021/12/28/rce-dataflow.html)[*](https://web.archive.org/web/20220108195326/https://mbrancato.github.io/2021/12/28/rce-dataflow.html) by [Mike Brancato](https://www.linkedin.com/in/mikebrancato/)
 - **[Dec 21 - $5,000]** [Google Cloud Shell XSS](https://docs.google.com/document/d/1cvWRwUSQCAmTy2bQRLeFp6EObnmi9gGZW4sxbjQPTAg/edit)[*](https://web.archive.org/web/20211224120221/https://docs.google.com/document/d/1cvWRwUSQCAmTy2bQRLeFp6EObnmi9gGZW4sxbjQPTAg/edit) by [NDevTK](https://twitter.com/ndevtk)
 - **[Dec 05 - $6,267.4]** [SSRF vulnerability in AppSheet - Google VRP](https://nechudav.blogspot.com/2021/12/ssrf-vulnerability-in-appsheet-google.html)[*](https://web.archive.org/web/20211205190618/https://nechudav.blogspot.com/2021/12/ssrf-vulnerability-in-appsheet-google.html) by [David Nechuta](https://twitter.com/david_nechuta)
 - **[Nov 17 - $10,401.1]** [Reacting to myself finding an SSRF vulnerability in Google Cloud](https://www.youtube.com/watch?v=UyemBjyQ4qA)[*](#) by [David Schütz](https://twitter.com/xdavidhu)
