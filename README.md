@@ -21,6 +21,11 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ## Writeups:
 
+### 2022:
+
+- **[Feb 06 - $2,674]** [Auth Bypass in Google Assistant](https://feed.bugs.xdavidhu.me/bugs/0012)[*](https://web.archive.org/web/20220212220602/https://feed.bugs.xdavidhu.me/bugs/0012) by [David Schütz](https://twitter.com/xdavidhu)
+- **[Feb 06 - $1,337]** [Auth Bypass in com.google.android.googlequicksearchbox](https://feed.bugs.xdavidhu.me/bugs/0013)[*](https://web.archive.org/web/20220212220701/https://feed.bugs.xdavidhu.me/bugs/0013) by [David Schütz](https://twitter.com/xdavidhu)
+
 ### 2021:
 
 - **[Dec 28 - $3,133.7]** [RCE in Google Cloud Dataflow](https://mbrancato.github.io/2021/12/28/rce-dataflow.html)[*](https://web.archive.org/web/20220108195326/https://mbrancato.github.io/2021/12/28/rce-dataflow.html) by [Mike Brancato](https://www.linkedin.com/in/mikebrancato/)
