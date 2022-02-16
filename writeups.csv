@@ -160,3 +160,4 @@ date,bounty,title,url,author,author-url,type,tweeted,archive-url
 2021-12-28,3133.7,RCE in Google Cloud Dataflow,https://mbrancato.github.io/2021/12/28/rce-dataflow.html,Mike Brancato,https://www.linkedin.com/in/mikebrancato/,blog,true,https://web.archive.org/web/20220108195326/https://mbrancato.github.io/2021/12/28/rce-dataflow.html
 2022-02-06,2674,Auth Bypass in Google Assistant,https://feed.bugs.xdavidhu.me/bugs/0012,David Schütz,https://twitter.com/xdavidhu,blog,true,https://web.archive.org/web/20220212220602/https://feed.bugs.xdavidhu.me/bugs/0012
 2022-02-06,1337,Auth Bypass in com.google.android.googlequicksearchbox,https://feed.bugs.xdavidhu.me/bugs/0013,David Schütz,https://twitter.com/xdavidhu,blog,true,https://web.archive.org/web/20220212220701/https://feed.bugs.xdavidhu.me/bugs/0013
+2022-01-15,?,How I Saved Christmas For Google!,https://bugs.0xdroopy.live/bugs/how-i-saved-the-christmas-for-google/,Nikhil Kaushik,
