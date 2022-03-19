@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2022:
 
+- **[Feb 20 - $3,133.7]** [Send a Email and get kicked out of Google Groups - A Feature that almost broke Google Groups](https://sriram-offcl.medium.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95)[*](https://web.archive.org/web/20220319112448/https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95?gi=2f818fa58c71) by [Sriram](https://twitter.com/sriramoffcl)
 - **[Feb 06 - $2,674]** [Auth Bypass in Google Assistant](https://feed.bugs.xdavidhu.me/bugs/0012)[*](https://web.archive.org/web/20220212220602/https://feed.bugs.xdavidhu.me/bugs/0012) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Feb 06 - $1,337]** [Auth Bypass in com.google.android.googlequicksearchbox](https://feed.bugs.xdavidhu.me/bugs/0013)[*](https://web.archive.org/web/20220212220701/https://feed.bugs.xdavidhu.me/bugs/0013) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Feb 02 - $???]** [How I Was Able To Track You Around The Globe!](https://bugs.0xdroopy.live/bugs/how-i-tracked-you-around-the-globe/)[*](https://web.archive.org/web/20220319112328/https://bugs.0xdroopy.live/bugs/how-i-tracked-you-around-the-globe/) by [Nikhil Kaushik](https://twitter.com/NikhilK50866227)
