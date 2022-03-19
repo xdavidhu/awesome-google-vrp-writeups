@@ -25,6 +25,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 - **[Feb 06 - $2,674]** [Auth Bypass in Google Assistant](https://feed.bugs.xdavidhu.me/bugs/0012)[*](https://web.archive.org/web/20220212220602/https://feed.bugs.xdavidhu.me/bugs/0012) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Feb 06 - $1,337]** [Auth Bypass in com.google.android.googlequicksearchbox](https://feed.bugs.xdavidhu.me/bugs/0013)[*](https://web.archive.org/web/20220212220701/https://feed.bugs.xdavidhu.me/bugs/0013) by [David Schütz](https://twitter.com/xdavidhu)
+- **[Feb 02 - $???]** [How I Was Able To Track You Around The Globe!](https://bugs.0xdroopy.live/bugs/how-i-tracked-you-around-the-globe/)[*](https://web.archive.org/web/20220319112328/https://bugs.0xdroopy.live/bugs/how-i-tracked-you-around-the-globe/) by [Nikhil Kaushik](https://twitter.com/NikhilK50866227)
 
 ### 2021:
 
