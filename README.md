@@ -23,7 +23,8 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2022:
 
-- **[Mar 25 - $0]** [Clipboard hazard with Google Sheets](https://irsl.medium.com/clipboard-hazard-with-google-sheets-1c1f3d566907)[*](#) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
+- **[Apr 23 - $1,337]** [Launching a Supply Chain Counterattack Against Google and OpenSSF](https://codemuch.tech/2022/04/23/supply-chain-counterattack/)[*](https://web.archive.org/web/20220511152343/https://codemuch.tech/2022/04/23/supply-chain-counterattack/) by [Alan Cao](https://twitter.com/AlanCao5)
+- **[Mar 25 - $0]** [Clipboard hazard with Google Sheets](https://irsl.medium.com/clipboard-hazard-with-google-sheets-1c1f3d566907)[*](https://web.archive.org/web/20220511152331/https://irsl.medium.com/clipboard-hazard-with-google-sheets-1c1f3d566907) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Mar 08 - $???]** [Container Escape to Shadow Admin: GKE Autopilot Vulnerabilities](https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/)[*](https://web.archive.org/web/20220319113511/https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/) by [Unit 42](https://twitter.com/Unit42_Intel)
 - **[Feb 20 - $3,133.7]** [Send a Email and get kicked out of Google Groups - A Feature that almost broke Google Groups](https://sriram-offcl.medium.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95)[*](https://web.archive.org/web/20220319112448/https://infosecwriteups.com/send-a-email-to-me-and-get-kicked-out-of-google-groups-29b5c2c60e95?gi=2f818fa58c71) by [Sriram](https://twitter.com/sriramoffcl)
 - **[Feb 06 - $2,674]** [Auth Bypass in Google Assistant](https://feed.bugs.xdavidhu.me/bugs/0012)[*](https://web.archive.org/web/20220212220602/https://feed.bugs.xdavidhu.me/bugs/0012) by [David Schütz](https://twitter.com/xdavidhu)
