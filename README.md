@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2022:
 
+- **[Jun 09 - $???]** [How to download eBooks from Google Play Store without paying for them](https://webs3c.com/t/how-to-download-ebooks-from-google-play-store-without-paying-for-them/79)[*](https://web.archive.org/web/20220625160226/https://webs3c.com/t/how-to-download-ebooks-from-google-play-store-without-paying-for-them/79) by [Yess](https://twitter.com/Yess_2021xD)
 - **[Apr 23 - $1,337]** [Launching a Supply Chain Counterattack Against Google and OpenSSF](https://codemuch.tech/2022/04/23/supply-chain-counterattack/)[*](https://web.archive.org/web/20220511152343/https://codemuch.tech/2022/04/23/supply-chain-counterattack/) by [Alan Cao](https://twitter.com/AlanCao5)
 - **[Mar 25 - $0]** [Clipboard hazard with Google Sheets](https://irsl.medium.com/clipboard-hazard-with-google-sheets-1c1f3d566907)[*](https://web.archive.org/web/20220511152331/https://irsl.medium.com/clipboard-hazard-with-google-sheets-1c1f3d566907) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
 - **[Mar 08 - $???]** [Container Escape to Shadow Admin: GKE Autopilot Vulnerabilities](https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/)[*](https://web.archive.org/web/20220319113511/https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/) by [Unit 42](https://twitter.com/Unit42_Intel)
