@@ -1,4 +1,5 @@
 date,bounty,title,url,author,author-url,type,tweeted,archive-url
+2018-04-06,5000,Missing access control in Google play store,https://vishwarajbhattrai.wordpress.com/2019/06/03/missing-access-control-at-play-store/,Vishwaraj Bhattrai,https://twitter.com/vishwaraj101,blog,false,?
 ?,5000,Google VRP : oAuth token stealing,http://bugdisclose.blogspot.com/2017/08/google-vrp-oauth-token-stealing.html,Harsh Jaiswal,https://twitter.com/rootxharsh,blog,true,https://web.archive.org/web/20210426134427/http://bugdisclose.blogspot.com/2017/08/google-vrp-oauth-token-stealing.html
 ?,?,Unauth meetings access,https://sites.google.com/securifyinc.com/vrp-writeups/google-meet/authorization-bugs,Rojan Rijal,https://twitter.com/mallocsys,blog,true,https://web.archive.org/web/20210426134719/https://sites.google.com/securifyinc.com/vrp-writeups/google-meet/authorization-bugs
 ?,?,XSS vulnerability in Google Cloud Shell’s code editor through mini-browser endpoint,https://ψ.fun/i/ZK9Kv,Psi,https://ψ.fun/,blog,true,https://web.archive.org/web/20210426134738/https://xn--9xa.fun/i/ZK9Kv
