@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2022:
 
+- **[Sep 16 - $???]** [Cloning internal Google repos for fun and… info?](https://medium.com/@lukeberner/cloning-internal-google-repos-for-fun-and-info-bf2c83d0ae00)[*](https://web.archive.org/web/20221007012855/https://medium.com/@lukeberner/cloning-internal-google-repos-for-fun-and-info-bf2c83d0ae00) by [Luke Berner](https://www.linkedin.com/in/lucas-berner-89865339/)
 - **[Jun 09 - $???]** [How to download eBooks from Google Play Store without paying for them](https://webs3c.com/t/how-to-download-ebooks-from-google-play-store-without-paying-for-them/79)[*](https://web.archive.org/web/20220625160226/https://webs3c.com/t/how-to-download-ebooks-from-google-play-store-without-paying-for-them/79) by [Yess](https://twitter.com/Yess_2021xD)
 - **[Apr 23 - $1,337]** [Launching a Supply Chain Counterattack Against Google and OpenSSF](https://codemuch.tech/2022/04/23/supply-chain-counterattack/)[*](https://web.archive.org/web/20220511152343/https://codemuch.tech/2022/04/23/supply-chain-counterattack/) by [Alan Cao](https://twitter.com/AlanCao5)
 - **[Mar 25 - $0]** [Clipboard hazard with Google Sheets](https://irsl.medium.com/clipboard-hazard-with-google-sheets-1c1f3d566907)[*](https://web.archive.org/web/20220511152331/https://irsl.medium.com/clipboard-hazard-with-google-sheets-1c1f3d566907) by [Imre Rad](https://www.linkedin.com/in/imre-rad-2358749b/)
