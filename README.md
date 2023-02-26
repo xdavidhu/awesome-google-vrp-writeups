@@ -27,6 +27,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2022:
 
+- **[Dec 26 - $107,500]** [Turning Google smart speakers into wiretaps for $100k](https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html)[*](https://web.archive.org/web/20230226143328/https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html) by [Matt Kunze](https://downrightnifty.me/)
 - **[Nov 10 - $70,000]** [Accidental $70k Google Pixel Lock Screen Bypass](https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/)[*](https://web.archive.org/web/20221128160740/https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Sep 16 - $???]** [Cloning internal Google repos for fun and… info?](https://medium.com/@lukeberner/cloning-internal-google-repos-for-fun-and-info-bf2c83d0ae00)[*](https://web.archive.org/web/20221007012855/https://medium.com/@lukeberner/cloning-internal-google-repos-for-fun-and-info-bf2c83d0ae00) by [Luke Berner](https://www.linkedin.com/in/lucas-berner-89865339/)
 - **[Jun 09 - $???]** [How to download eBooks from Google Play Store without paying for them](https://webs3c.com/t/how-to-download-ebooks-from-google-play-store-without-paying-for-them/79)[*](https://web.archive.org/web/20220625160226/https://webs3c.com/t/how-to-download-ebooks-from-google-play-store-without-paying-for-them/79) by [Yess](https://twitter.com/Yess_2021xD)
