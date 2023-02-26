@@ -24,6 +24,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 ### 2023:
 
 - **[Feb 10 - $500]** [Information disclosure or GDPR breach? A Google tale…](https://medium.com/@lukeberner/information-disclosure-or-gdpr-breach-a-google-tale-f9e99fd5d648)[*](https://web.archive.org/web/20230226134624/https://medium.com/@lukeberner/information-disclosure-to-gdpr-breach-a-google-tale-f9e99fd5d648) by [Luke Berner](https://www.linkedin.com/in/lucas-berner-89865339/)
+- **[Feb 07 - $0]** [Google Meet Flaw — Join Any Organisation Call (Not an 0day but still acts as 0day) — Refused by GoogleVRP](https://basu-banakar.medium.com/google-meet-flaw-join-any-organisation-call-not-an-0day-but-still-acts-as-0day-refused-by-4d65730df403)[*](#) by [Basavaraj Banakar](https://twitter.com/basu_banakar)
 
 ### 2022:
 
