@@ -21,6 +21,10 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ## Writeups:
 
+### 2023:
+
+- **[Feb 10 - $500]** [Information disclosure or GDPR breach? A Google tale…](https://medium.com/@lukeberner/information-disclosure-or-gdpr-breach-a-google-tale-f9e99fd5d648)[*](https://web.archive.org/web/20230226134624/https://medium.com/@lukeberner/information-disclosure-to-gdpr-breach-a-google-tale-f9e99fd5d648) by [Luke Berner](https://www.linkedin.com/in/lucas-berner-89865339/)
+
 ### 2022:
 
 - **[Nov 10 - $70,000]** [Accidental $70k Google Pixel Lock Screen Bypass](https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/)[*](https://web.archive.org/web/20221128160740/https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/) by [David Schütz](https://twitter.com/xdavidhu)
