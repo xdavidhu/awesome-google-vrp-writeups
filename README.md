@@ -23,8 +23,9 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2023:
 
+- **[Aug 18 - $18,833.7]** [Google Extensions](https://ndevtk.github.io/writeups/2023/08/18/extensions/)[*](https://web.archive.org/web/20231008030139/https://ndevtk.github.io/writeups/2023/08/18/extensions/) by [NDevTK](https://twitter.com/ndevtk)
 - **[Feb 10 - $500]** [Information disclosure or GDPR breach? A Google tale…](https://medium.com/@lukeberner/information-disclosure-or-gdpr-breach-a-google-tale-f9e99fd5d648)[*](https://web.archive.org/web/20230226134624/https://medium.com/@lukeberner/information-disclosure-to-gdpr-breach-a-google-tale-f9e99fd5d648) by [Luke Berner](https://www.linkedin.com/in/lucas-berner-89865339/)
-- **[Feb 07 - $0]** [Google Meet Flaw — Join Any Organisation Call (Not an 0day but still acts as 0day) — Refused by GoogleVRP](https://basu-banakar.medium.com/google-meet-flaw-join-any-organisation-call-not-an-0day-but-still-acts-as-0day-refused-by-4d65730df403)[*](#) by [Basavaraj Banakar](https://twitter.com/basu_banakar)
+- **[Feb 07 - $0]** [Google Meet Flaw — Join Any Organisation Call (Not an 0day but still acts as 0day) — Refused by GoogleVRP](https://basu-banakar.medium.com/google-meet-flaw-join-any-organisation-call-not-an-0day-but-still-acts-as-0day-refused-by-4d65730df403)[*](https://web.archive.org/web/20231008030116/https://basu-banakar.medium.com/google-meet-flaw-join-any-organisation-call-not-an-0day-but-still-acts-as-0day-refused-by-4d65730df403) by [Basavaraj Banakar](https://twitter.com/basu_banakar)
 
 ### 2022:
 
@@ -45,7 +46,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 - **[Dec 28 - $3,133.7]** [RCE in Google Cloud Dataflow](https://mbrancato.github.io/2021/12/28/rce-dataflow.html)[*](https://web.archive.org/web/20220108195326/https://mbrancato.github.io/2021/12/28/rce-dataflow.html) by [Mike Brancato](https://www.linkedin.com/in/mikebrancato/)
 - **[Dec 25 - $???]** [How I Saved Christmas For Google!](https://bugs.0xdroopy.live/bugs/how-i-saved-the-christmas-for-google/)[*](https://web.archive.org/web/20220319112033/https://bugs.0xdroopy.live/bugs/how-i-saved-the-christmas-for-google/) by [Nikhil Kaushik](https://twitter.com/NikhilK50866227)
-- **[Dec 21 - $5,000]** [Google Cloud Shell XSS](https://docs.google.com/document/d/1cvWRwUSQCAmTy2bQRLeFp6EObnmi9gGZW4sxbjQPTAg/edit)[*](https://web.archive.org/web/20211224120221/https://docs.google.com/document/d/1cvWRwUSQCAmTy2bQRLeFp6EObnmi9gGZW4sxbjQPTAg/edit) by [NDevTK](https://twitter.com/ndevtk)
+- **[Dec 21 - $5,000]** [Google Cloud Shell XSS](https://ndevtk.github.io/writeups/2021/12/30/cloud-shell-xss/)[*](https://web.archive.org/web/20231008030152/https://ndevtk.github.io/writeups/2021/12/30/cloud-shell-xss/) by [NDevTK](https://twitter.com/ndevtk)
 - **[Dec 05 - $6,267.4]** [SSRF vulnerability in AppSheet - Google VRP](https://nechudav.blogspot.com/2021/12/ssrf-vulnerability-in-appsheet-google.html)[*](https://web.archive.org/web/20211205190618/https://nechudav.blogspot.com/2021/12/ssrf-vulnerability-in-appsheet-google.html) by [David Nechuta](https://twitter.com/david_nechuta)
 - **[Nov 17 - $10,401.1]** [Reacting to myself finding an SSRF vulnerability in Google Cloud](https://www.youtube.com/watch?v=UyemBjyQ4qA)[*](#) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Nov 11 - $1,337]** [GOOGLE VRP BUG BOUNTY: /etc/environment local variables exfiltrated on Linux Google Earth Pro desktop app](https://omespino.com/write-up-google-vrp-bug-bounty-etc-environment-local-variables-exfiltrated-on-linux-google-earth-pro-desktop-app-1337-usd/)[*](https://web.archive.org/web/20211205222340/https://omespino.com/write-up-google-vrp-bug-bounty-etc-environment-local-variables-exfiltrated-on-linux-google-earth-pro-desktop-app-1337-usd/) by [Omar Espino](https://twitter.com/omespino)
