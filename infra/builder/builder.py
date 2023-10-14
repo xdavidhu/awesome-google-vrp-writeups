@@ -45,10 +45,12 @@ def new_tweet(title, bounty, author, url, mention=False):
         r = twitter.post("https://api.twitter.com/2/tweets", data={"text": tweet_string})
         if r.status_code == 200:
             return True
+        else:
+            print(f"[!] Twitter API call to '/2/tweets' failed:")
+            print(r.status_code)
+            print(r.content)
     except:
-        print(f"[!] Twitter API call to '/2/tweets' failed:")
-        print(r.status_code)
-        print(r.content)
+        print(f"[!] Twitter API call to '/2/tweets' failed with an exception")
         return False
     
     return False
