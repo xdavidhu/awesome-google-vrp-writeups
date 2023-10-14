@@ -42,7 +42,7 @@ def new_tweet(title, bounty, author, url, mention=False):
     bounty_string = "???" if bounty == "?" else f"{float(bounty):,g}"
     tweet_string = f"New Google VRP writeup \"{title}\" for a bounty of ${bounty_string} by {author_string}:\n{url}"
     try:
-        r = twitter.post("https://api.twitter.com/1.1/statuses/update.json", data={"status": tweet_string})
+        r = twitter.post("https://api.twitter.com/2/tweets", data={"text": tweet_string})
         if r.status_code == 200:
             return True
     except:
