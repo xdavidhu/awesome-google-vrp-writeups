@@ -43,7 +43,7 @@ def new_tweet(title, bounty, author, url, mention=False):
     tweet_string = f"New Google VRP writeup \"{title}\" for a bounty of ${bounty_string} by {author_string}:\n{url}"
     try:
         r = twitter.post("https://api.twitter.com/2/tweets", json={"text": tweet_string})
-        if r.status_code == 200:
+        if r.status_code == 201:
             return True
         else:
             print(f"[!] Twitter API call to '/2/tweets' failed:")
