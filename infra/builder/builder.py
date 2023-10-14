@@ -46,6 +46,9 @@ def new_tweet(title, bounty, author, url, mention=False):
         if r.status_code == 200:
             return True
     except:
+        print(f"[!] Twitter API call to '/2/tweets' failed:")
+        print(r.status_code)
+        print(r.content)
         return False
     
     return False
