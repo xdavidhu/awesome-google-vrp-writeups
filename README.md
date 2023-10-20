@@ -23,7 +23,9 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2023:
 
+- **[Sep 18 - $???]** [How i found an Stored XSS on Google Books](https://medium.com/@cavdarbashas/how-i-found-an-stored-xss-on-google-books-732d9eb64e36)[*](https://web.archive.org/web/20231020133727/https://medium.com/@cavdarbashas/how-i-found-an-stored-xss-on-google-books-732d9eb64e36) by [Sokol Çavdarbasha](https://twitter.com/sokolicav)
 - **[Aug 18 - $18,833.7]** [Google Extensions](https://ndevtk.github.io/writeups/2023/08/18/extensions/)[*](https://web.archive.org/web/20231008030139/https://ndevtk.github.io/writeups/2023/08/18/extensions/) by [NDevTK](https://twitter.com/ndevtk)
+- **[Jun 09 - $6,000]** [XSS in GMAIL Dynamic Email (AMP for Email)](https://asdqw3.medium.com/xss-in-gmail-dynamic-email-amp-for-email-3872d6052a0d)[*](https://web.archive.org/web/20231020131516/https://asdqw3.medium.com/xss-in-gmail-dynamic-email-amp-for-email-3872d6052a0d) by [asdqw3](https://twitter.com/agamimaulana)
 - **[Feb 10 - $500]** [Information disclosure or GDPR breach? A Google tale…](https://medium.com/@lukeberner/information-disclosure-or-gdpr-breach-a-google-tale-f9e99fd5d648)[*](https://web.archive.org/web/20230226134624/https://medium.com/@lukeberner/information-disclosure-to-gdpr-breach-a-google-tale-f9e99fd5d648) by [Luke Berner](https://www.linkedin.com/in/lucas-berner-89865339/)
 - **[Feb 07 - $0]** [Google Meet Flaw — Join Any Organisation Call (Not an 0day but still acts as 0day) — Refused by GoogleVRP](https://basu-banakar.medium.com/google-meet-flaw-join-any-organisation-call-not-an-0day-but-still-acts-as-0day-refused-by-4d65730df403)[*](https://web.archive.org/web/20231008030116/https://basu-banakar.medium.com/google-meet-flaw-join-any-organisation-call-not-an-0day-but-still-acts-as-0day-refused-by-4d65730df403) by [Basavaraj Banakar](https://twitter.com/basu_banakar)
 
