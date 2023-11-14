@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2023:
 
+- **[Nov 14 - $10,000]** [Uncovering a crazy privilege escalation from Chrome extensions](https://0x44.xyz/blog/cve-2023-4369/)[*](https://web.archive.org/web/20231114231353/https://0x44.xyz/blog/cve-2023-4369/) by [Derin Eryilmaz](https://twitter.com/deryilz)
 - **[Nov 02 - $???]** [ApatchMe - Authenticated Stored XSS Vulnerability in AWS and GCP Apache Airflow Services](https://www.tenable.com/blog/apatchme-authenticated-stored-xss-vulnerability-in-aws-and-gcp-apache-airflow-services)[*](https://web.archive.org/web/20231103110025/https://www.tenable.com/blog/apatchme-authenticated-stored-xss-vulnerability-in-aws-and-gcp-apache-airflow-services) by [Tenable](https://twitter.com/tenablesecurity)
 - **[Oct 19 - $???]** [Google Cloud Vertex AI - Data Exfiltration Vulnerability Fixed in Generative AI Studio](https://embracethered.com/blog/posts/2023/google-gcp-generative-ai-studio-data-exfiltration-fixed/)[*](https://web.archive.org/web/20231104051811/https://embracethered.com/blog/posts/2023/google-gcp-generative-ai-studio-data-exfiltration-fixed/) by [Johann Rehberger](https://twitter.com/wunderwuzzi23)
 - **[Sep 18 - $???]** [How i found an Stored XSS on Google Books](https://medium.com/@cavdarbashas/how-i-found-an-stored-xss-on-google-books-732d9eb64e36)[*](https://web.archive.org/web/20231020133727/https://medium.com/@cavdarbashas/how-i-found-an-stored-xss-on-google-books-732d9eb64e36) by [Sokol Çavdarbasha](https://twitter.com/sokolicav)
