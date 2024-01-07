@@ -53,6 +53,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 - **[Jan 13 - $3,133.7]** [Bypassing authorization in Google Cloud Workstations [Google VRP]](https://blog.stazot.com/ssh-key-injection-google-cloud/)[*](https://web.archive.org/web/20231006115738/https://blog.stazot.com/ssh-key-injection-google-cloud/) by [Sivanesh Ashok](https://twitter.com/sivaneshashok)
 - **[Jan 12 - $6,000]** [SSH key injection in Google Cloud Compute Engine [Google VRP]](https://blog.stazot.com/auth-bypass-in-google-cloud-workstations/)[*](https://web.archive.org/web/20230705030603/https://blog.stazot.com/auth-bypass-in-google-cloud-workstations/) by [Sivanesh Ashok](https://twitter.com/sivaneshashok)
 - **[Jan 12 - $3,133.7]** [Client-Side SSRF to Google Cloud Project Takeover [Google VRP]](https://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/)[*](https://web.archive.org/web/20231006115611/https://blog.geekycat.in/client-side-ssrf-to-google-cloud-project-takeover/) by [Sreeram KL](https://twitter.com/kl_sree)
+- **[Jan 06 - $2,337]** [Identity-Aware Proxy Misconfiguration- Google Cloud Vulnerability](https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed)[*](https://web.archive.org/web/20240107141036/https://medium.com/@LogicalHunter/identity-aware-proxy-misconfiguration-google-cloud-vulnerability-813d2a07a4ed) by [Borna Nematzadeh](https://twitter.com/LogicalHunter)
 
 ### 2022:
 
