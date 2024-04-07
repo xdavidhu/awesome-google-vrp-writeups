@@ -23,8 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2024:
 
-- **[Mar 25 - $Duplicate]** [Microsoft Office: PowerPoint Online: How I Discovered a Reflected XSS Vulnerability. ](https://www.youtube.com/watch?v=dNBxH9TtYOQ)[*](#)  by .[Supakiad S.(m3ez)]
-
+- **[Mar 25 - $Duplicate]** [Microsoft Office: PowerPoint Online: How I Discovered a Reflected XSS Vulnerability. ](https://www.youtube.com/watch?v=dNBxH9TtYOQ)[*](#)  by .[Supakiad S.m3ez](https://www.youtube.com/@SupakiadS)
 - **[Mar 23 - $4,133.7]** [Hacking the Giant: How I Discovered Google’s Vulnerability and Hall of Fame Recognition](https://medium.com/@hncaga/hacking-the-giant-how-i-discovered-googles-vulnerability-and-hall-of-fame-recognition-694a9c18684a)[*](#) by [Henry N. Caga](https://twitter.com/hncaga)
 
 ### 2023:
