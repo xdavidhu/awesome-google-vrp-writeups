@@ -24,6 +24,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 ### 2024:
 
 - **[Mar 23 - $4,133.7]** [Hacking the Giant: How I Discovered Google’s Vulnerability and Hall of Fame Recognition](https://medium.com/@hncaga/hacking-the-giant-how-i-discovered-googles-vulnerability-and-hall-of-fame-recognition-694a9c18684a)[*](#) by [Henry N. Caga](https://twitter.com/hncaga)
+- **[Mar 04 - $50,000]** [We Hacked Google A.I. for $50,000](https://www.landh.tech/blog/20240304-google-hack-50000/)[*](#) by [Lupin](https://twitter.com/0xLupin)
 
 ### 2023:
 
