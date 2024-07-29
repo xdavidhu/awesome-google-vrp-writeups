@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2024:
 
+- **[Jul 26 - $???]** [Leaking All Users Google Drive Files](https://secreltyhiddenwriteups.blogspot.com/2024/07/leaking-all-users-google-drive-files.html)[*](#) by [Cam](https://twitter.com/secretlyhidden1)
 - **[Apr 15 - $7,500]** [An Obscure Actions Workflow Vulnerability in Google’s Flank](https://adnanthekhan.com/2024/04/15/an-obscure-actions-workflow-vulnerability-in-googles-flank/)[*](#) by [Adnan Khan](https://twitter.com/adnanthekhan)
 - **[Mar 23 - $4,133.7]** [Hacking the Giant: How I Discovered Google’s Vulnerability and Hall of Fame Recognition](https://medium.com/@hncaga/hacking-the-giant-how-i-discovered-googles-vulnerability-and-hall-of-fame-recognition-694a9c18684a)[*](#) by [Henry N. Caga](https://twitter.com/hncaga)
 - **[Mar 04 - $50,000]** [We Hacked Google A.I. for $50,000](https://www.landh.tech/blog/20240304-google-hack-50000/)[*](#) by [Lupin](https://twitter.com/0xLupin)
