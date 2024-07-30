@@ -23,10 +23,10 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2024:
 
-- **[Jul 26 - $???]** [Leaking All Users Google Drive Files](https://secreltyhiddenwriteups.blogspot.com/2024/07/leaking-all-users-google-drive-files.html)[*](#) by [Cam](https://twitter.com/secretlyhidden1)
+- **[Jul 26 - $???]** [Leaking All Users Google Drive Files](https://secreltyhiddenwriteups.blogspot.com/2024/07/leaking-all-users-google-drive-files.html)[*](#) by [Cameron Vincent](https://twitter.com/secretlyhidden1)
 - **[Apr 15 - $7,500]** [An Obscure Actions Workflow Vulnerability in Google’s Flank](https://adnanthekhan.com/2024/04/15/an-obscure-actions-workflow-vulnerability-in-googles-flank/)[*](#) by [Adnan Khan](https://twitter.com/adnanthekhan)
-- **[Mar 23 - $4,133.7]** [Hacking the Giant: How I Discovered Google’s Vulnerability and Hall of Fame Recognition](https://medium.com/@hncaga/hacking-the-giant-how-i-discovered-googles-vulnerability-and-hall-of-fame-recognition-694a9c18684a)[*](#) by [Henry N. Caga](https://twitter.com/hncaga)
-- **[Mar 04 - $50,000]** [We Hacked Google A.I. for $50,000](https://www.landh.tech/blog/20240304-google-hack-50000/)[*](#) by [Lupin](https://twitter.com/0xLupin)
+- **[Mar 23 - $4,133.7]** [Hacking the Giant: How I Discovered Google’s Vulnerability and Hall of Fame Recognition](https://medium.com/@hncaga/hacking-the-giant-how-i-discovered-googles-vulnerability-and-hall-of-fame-recognition-694a9c18684a)[*](https://web.archive.org/web/20240730095144/https://infosecwriteups.com/hacking-the-giant-how-i-discovered-googles-vulnerability-and-hall-of-fame-recognition-694a9c18684a?gi=b18ac2f90bb3) by [Henry N. Caga](https://twitter.com/hncaga)
+- **[Mar 04 - $50,000]** [We Hacked Google A.I. for $50,000](https://www.landh.tech/blog/20240304-google-hack-50000/)[*](https://web.archive.org/web/20240730095124/https://www.landh.tech/blog/20240304-google-hack-50000/) by [Lupin](https://twitter.com/0xLupin)
 
 ### 2023:
 
@@ -87,6 +87,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 - **[Dec 25 - $???]** [How I Saved Christmas For Google!](https://bugs.0xdroopy.live/bugs/how-i-saved-the-christmas-for-google/)[*](https://web.archive.org/web/20220319112033/https://bugs.0xdroopy.live/bugs/how-i-saved-the-christmas-for-google/) by [Nikhil Kaushik](https://twitter.com/NikhilK50866227)
 - **[Dec 21 - $5,000]** [Google Cloud Shell XSS](https://ndevtk.github.io/writeups/2021/12/30/cloud-shell-xss/)[*](https://web.archive.org/web/20231008030152/https://ndevtk.github.io/writeups/2021/12/30/cloud-shell-xss/) by [NDevTK](https://twitter.com/ndevtk)
 - **[Dec 05 - $6,267.4]** [SSRF vulnerability in AppSheet - Google VRP](https://nechudav.blogspot.com/2021/12/ssrf-vulnerability-in-appsheet-google.html)[*](https://web.archive.org/web/20211205190618/https://nechudav.blogspot.com/2021/12/ssrf-vulnerability-in-appsheet-google.html) by [David Nechuta](https://twitter.com/david_nechuta)
+- **[Nov 21 - $???]** [Becoming A Super Admin In Someone Elses Gsuite Organization And Taking It Over](https://secreltyhiddenwriteups.blogspot.com/2021/11/becoming-super-admin-in-someone-elses.html)[*](https://web.archive.org/web/20240730094947/https://secreltyhiddenwriteups.blogspot.com/2021/11/becoming-super-admin-in-someone-elses.html) by [Cameron Vincent](https://twitter.com/secretlyhidden1)
 - **[Nov 17 - $10,401.1]** [Reacting to myself finding an SSRF vulnerability in Google Cloud](https://www.youtube.com/watch?v=UyemBjyQ4qA)[*](#) by [David Schütz](https://twitter.com/xdavidhu)
 - **[Nov 11 - $1,337]** [GOOGLE VRP BUG BOUNTY: /etc/environment local variables exfiltrated on Linux Google Earth Pro desktop app](https://omespino.com/write-up-google-vrp-bug-bounty-etc-environment-local-variables-exfiltrated-on-linux-google-earth-pro-desktop-app-1337-usd/)[*](https://web.archive.org/web/20211205222340/https://omespino.com/write-up-google-vrp-bug-bounty-etc-environment-local-variables-exfiltrated-on-linux-google-earth-pro-desktop-app-1337-usd/) by [Omar Espino](https://twitter.com/omespino)
 - **[Oct 24 - $7,500]** [A 7500$ Google sites IDOR](https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/)[*](https://web.archive.org/web/20220212215914/https://r0ckinxj3.wordpress.com/2021/10/24/a-7500-google-sites-idor/) by [r0ckin](https://twitter.com/r0ckin_)
