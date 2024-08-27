@@ -23,6 +23,8 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2024:
 
+- **[Aug 24 - $1,337]** [Exploiting Sandbox Escape Vulnerability in Apigee PythonScript Policy](https://codesent.io/r/N6Q)[*](#) by [Nikita Markevich](https://www.linkedin.com/in/nikita-markevich-45a56a13a/)
+- **[Aug 16 - $1,337]** [Kicking Off the Apigee Security Series: Discovering Rhino’s Blind Spot](https://codesent.io/r/XvI)[*](#) by [Nikita Markevich](https://www.linkedin.com/in/nikita-markevich-45a56a13a/)
 - **[Jul 26 - $???]** [Leaking All Users Google Drive Files](https://secreltyhiddenwriteups.blogspot.com/2024/07/leaking-all-users-google-drive-files.html)[*](#) by [Cameron Vincent](https://twitter.com/secretlyhidden1)
 - **[Apr 15 - $7,500]** [An Obscure Actions Workflow Vulnerability in Google’s Flank](https://adnanthekhan.com/2024/04/15/an-obscure-actions-workflow-vulnerability-in-googles-flank/)[*](#) by [Adnan Khan](https://twitter.com/adnanthekhan)
 - **[Mar 23 - $4,133.7]** [Hacking the Giant: How I Discovered Google’s Vulnerability and Hall of Fame Recognition](https://medium.com/@hncaga/hacking-the-giant-how-i-discovered-googles-vulnerability-and-hall-of-fame-recognition-694a9c18684a)[*](https://web.archive.org/web/20240730095144/https://infosecwriteups.com/hacking-the-giant-how-i-discovered-googles-vulnerability-and-hall-of-fame-recognition-694a9c18684a?gi=b18ac2f90bb3) by [Henry N. Caga](https://twitter.com/hncaga)
