@@ -221,3 +221,11 @@ date,bounty,title,url,author,author-url,type,tweeted,archive-url
 2024-07-26,?,Leaking All Users Google Drive Files,https://secreltyhiddenwriteups.blogspot.com/2024/07/leaking-all-users-google-drive-files.html,Cameron Vincent,https://twitter.com/secretlyhidden1,blog,true,?
 2024-08-16,1337,Kicking Off the Apigee Security Series: Discovering Rhino’s Blind Spot,https://codesent.io/r/XvI,Nikita Markevich,https://www.linkedin.com/in/nikita-markevich-45a56a13a/,blog,true,?
 2024-08-24,1337,Exploiting Sandbox Escape Vulnerability in Apigee PythonScript Policy,https://codesent.io/r/N6Q,Nikita Markevich,https://www.linkedin.com/in/nikita-markevich-45a56a13a/,blog,true,?
+2024-09-19,3133.70,Office Editing for Docs Sheets & Slides leak,https://ndevtk.github.io/writeups/2024/09/19/drive/,NDevTK,https://x.com/ndevtk,blog,false,?
+2024-08-02,1000,Chromium infra leak,https://ndevtk.github.io/writeups/2024/08/02/chromiuminfra/,NDevTK,https://x.com/ndevtk,blog,false,?
+2024-08-01,3133.70,idx.google.com XSS,https://ndevtk.github.io/writeups/2024/08/01/projectidx/,NDevTK,https://x.com/ndevtk,blog,false,?
+2024-08-01,14008.7,Android web attack surface,https://ndevtk.github.io/writeups/2024/08/01/awas/,NDevTK,https://x.com/ndevtk,blog,false,?
+2023-06-23,1337,Insecure sandbox on Colaboratory,https://ndevtk.github.io/writeups/2023/06/23/outputframes/,NDevTK,https://x.com/ndevtk,blog,false,?
+2023-03-11,1837,CCAI XSS,https://ndevtk.github.io/writeups/2023/03/11/ccai/,NDevTK,https://x.com/ndevtk,blog,false,?
+2022-07-26,8133.7,Google Play and DevSite XSS,https://ndevtk.github.io/writeups/2022/07/26/google-xss/,NDevTK,https://x.com/ndevtk,blog,false,?
+2021-12-30,5000,Email storage leaking ticket-attachment,https://ndevtk.github.io/writeups/2021/12/30/ticket-attachments/,NDevTK,https://x.com/ndevtk,blog,false,?
