@@ -229,3 +229,4 @@ date,bounty,title,url,author,author-url,type,tweeted,archive-url
 2023-03-11,1837,CCAI XSS,https://ndevtk.github.io/writeups/2023/03/11/ccai/,NDevTK,https://x.com/ndevtk,blog,false,?
 2022-07-26,8133.7,Google Play and DevSite XSS,https://ndevtk.github.io/writeups/2022/07/26/google-xss/,NDevTK,https://x.com/ndevtk,blog,false,?
 2021-12-30,5000,Email storage leaking ticket-attachment,https://ndevtk.github.io/writeups/2021/12/30/ticket-attachments/,NDevTK,https://x.com/ndevtk,blog,false,?
+2024-09-25,4837,XS-Search on Google Photos,https://ndevtk.github.io/writeups/2024/09/25/photos/,NDevTK,https://x.com/ndevtk,blog,false,?
