@@ -230,3 +230,4 @@ date,bounty,title,url,author,author-url,type,tweeted,archive-url
 2024-08-24,1337,Exploiting Sandbox Escape Vulnerability in Apigee PythonScript Policy,https://codesent.io/r/N6Q,Nikita Markevich,https://www.linkedin.com/in/nikita-markevich-45a56a13a/,blog,true,https://web.archive.org/web/20241113043639/https://codesent.io/blog/code-sentinels-1/breaking-the-sandbox-2?utm_campaign=apigee_series&utm_source=Github&utm_medium=awesome-google-vrp-writeups
 2024-09-19,3133.70,Office Editing for Docs Sheets & Slides leak,https://ndevtk.github.io/writeups/2024/09/19/drive/,NDevTK,https://x.com/ndevtk,blog,true,?
 2024-09-25,4837,XS-Search on Google Photos,https://ndevtk.github.io/writeups/2024/09/25/photos/,NDevTK,https://x.com/ndevtk,blog,true,?
+2024-09-19,4133.7,Using YouTube to steal your files,https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/,Lyra Rebane,https://twitter.com/rebane2001,blog,false,?
