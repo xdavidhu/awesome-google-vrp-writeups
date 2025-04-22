@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2025:
 
+- **[Apr 02 - $11,250]** [Client-side RCE via symlink following in Google Web Designer for macOS/Linux: CVE-2025-1079](https://balintmagyar.com/articles/google-web-designer-symlink-client-side-rce-cve-2025-1079)[*](https://web.archive.org/web/20250422044053/https://balintmagyar.com/articles/google-web-designer-symlink-client-side-rce-cve-2025-1079) by [Bálint Magyar](https://mastodon.social/@balint)
 - **[Mar 13 - $20,000]** [Disclosing YouTube Creator Emails for a $20k Bounty](https://brutecat.com/articles/youtube-creator-emails)[*](https://web.archive.org/web/20250316063717/https://brutecat.com/articles/youtube-creator-emails) by [brutecat](https://twitter.com/brutecat)
 - **[Feb 12 - $10,000]** [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails)[*](https://web.archive.org/web/20250224052246/https://brutecat.com/articles/leaking-youtube-emails) by [brutecat](https://twitter.com/brutecat)
 
