@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2025:
 
+- **[May 17 - $3,133.7]** [Hunting for Bucket Traversals in Google's Client Libraries](https://jdomeracki.github.io/2025/05/04/hunting_for_bucket_traversals/)[*](https://web.archive.org/web/20250516230902/https://jdomeracki.github.io/2025/05/04/hunting_for_bucket_traversals/) by [Jakub Domeracki](https://x.com/j_domeracki)
 - **[May 04 - $10,000]** [Two RCEs in Google Cloud products and Nike Air Max 90s](https://stazot.com/?article=dataprep-actifio-jar-swapping-rce)[*](https://web.archive.org/web/20250504152126/https://stazot.com/?article=dataprep-actifio-jar-swapping-rce) by [Sivanesh Ashok](https://twitter.com/sivaneshashok)
 - **[Apr 02 - $11,250]** [Client-side RCE via symlink following in Google Web Designer for macOS/Linux: CVE-2025-1079](https://balintmagyar.com/articles/google-web-designer-symlink-client-side-rce-cve-2025-1079)[*](https://web.archive.org/web/20250422044053/https://balintmagyar.com/articles/google-web-designer-symlink-client-side-rce-cve-2025-1079) by [Bálint Magyar](https://mastodon.social/@balint)
 - **[Mar 13 - $20,000]** [Disclosing YouTube Creator Emails for a $20k Bounty](https://brutecat.com/articles/youtube-creator-emails)[*](https://web.archive.org/web/20250316063717/https://brutecat.com/articles/youtube-creator-emails) by [brutecat](https://twitter.com/brutecat)
