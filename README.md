@@ -32,6 +32,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2024:
 
+- **[Dec 29 - $???]** [Project IDX Security Notes](https://www.aedenmurray.dev/posts/idx)[*](https://web.archive.org/web/20250603031135/https://www.aedenmurray.dev/posts/idx) by [Aeden Murray](https://twitter.com/aedenmurray)
 - **[Dec 09 - $???]** [Revealing Other Users Gender Even If Set to 'Only You' via Google Chat](https://bugreader.com/rhidayah@revealing-other-users-gender-even-if-set-to-only-you-via-google-chat-300)[*](https://web.archive.org/web/20250224052714/https://bugreader.com/rhidayah@revealing-other-users-gender-even-if-set-to-only-you-via-google-chat-300) by [Rohmad Hidayah](https://x.com/rhidayahhhh)
 - **[Dec 04 - $1,337]** [Breaking Open the Forgotten Vault: How a legacy oversight led to unrestricted code execution in Apigee](https://codesent.io/r/kRM)[*](https://web.archive.org/web/20250224053352/https://codesent.io/blog/code-sentinels-1/breaking-open-the-forgotten-vault-8?utm_campaign=apigee_series&utm_source=Github&utm_medium=awesome-google-vrp-writeups) by [Nikita Markevich](https://www.linkedin.com/in/nikita-markevich)
 - **[Nov 11 - $???]** [Release-Drafter To google/accompanist Compromise: VRP Writeup](https://adnanthekhan.com/2024/11/11/release-drafter-to-google-accompanist-compromise-vrp-writeup/)[*](https://web.archive.org/web/20241113142116/https://adnanthekhan.com/2024/11/11/release-drafter-to-google-accompanist-compromise-vrp-writeup/) by [Adnan Khan](https://twitter.com/adnanthekhan)
