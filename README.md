@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2025:
 
+- **[Jun 09 - $5,000]** [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)[*](#) by [brutecat](https://twitter.com/brutecat)
 - **[May 22 - $8,500]** [Client-side RCE via improper URL parsing in Google Web Designer for Windows: CVE-2025-4613](https://balintmagyar.com/articles/google-web-designer-path-traversal-client-side-rce-cve-2025-4613)[*](https://web.archive.org/web/20250526035103/https://balintmagyar.com/articles/google-web-designer-path-traversal-client-side-rce-cve-2025-4613) by [Bálint Magyar](https://mastodon.social/@balint)
 - **[May 17 - $3,133.7]** [Hunting for Bucket Traversals in Google's Client Libraries](https://jdomeracki.github.io/2025/05/04/hunting_for_bucket_traversals/)[*](https://web.archive.org/web/20250516230902/https://jdomeracki.github.io/2025/05/04/hunting_for_bucket_traversals/) by [Jakub Domeracki](https://x.com/j_domeracki)
 - **[May 04 - $10,000]** [Two RCEs in Google Cloud products and Nike Air Max 90s](https://stazot.com/?article=dataprep-actifio-jar-swapping-rce)[*](https://web.archive.org/web/20250504152126/https://stazot.com/?article=dataprep-actifio-jar-swapping-rce) by [Sivanesh Ashok](https://twitter.com/sivaneshashok)
