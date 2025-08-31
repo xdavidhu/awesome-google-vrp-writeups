@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2025:
 
+- **[Aug 31 - $3,133.7]** [Controlling the Google Assistant via Web Speech API (Awarded $3133.7)](https://ndevtk.github.io/writeups/2025/08/30/assistant/)[*](https://web.archive.org/web/20250831041440/https://ndevtk.github.io/writeups/2025/08/30/assistant/) by [NDevTK](https://twitter.com/ndevtk)
 - **[Aug 30 - $3,500]** [Client-side RCE via CSS Injection in Google Web Designer for Windows](https://balintmagyar.com/articles/google-web-designer-css-injection-client-rce)[*](https://web.archive.org/web/20250831035312/https://balintmagyar.com/articles/google-web-designer-css-injection-client-rce) by [Bálint Magyar](https://mastodon.social/@balint)
 - **[Jul 02 - $22,500]** [XSS in Google IDX Workstation](https://sudistark.github.io/2025/07/02/idx.html)[*](https://web.archive.org/web/20250831035245/https://sudistark.github.io/2025/07/02/idx.html) by [sudi](https://twitter.com/sudhanshur705)
 - **[Jul 01 - $3,133.7]** [My first bug in Google Cloud: Command injection in Vertex AI](https://blog.3133700.xyz/bug_vertex_ai)[*](https://web.archive.org/web/20250831035151/https://buganizer.cc/bug_vertex_ai) by [Valentino Massaro](https://twitter.com/valent1nee)
