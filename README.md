@@ -23,8 +23,9 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2025:
 
-- **[Jul 02 - $22,500]** [XSS in Google IDX Workstation](https://sudistark.github.io/2025/07/02/idx.html)[*](#) by [sudi](https://twitter.com/sudhanshur705)
-- **[Jul 01 - $3,133.7]** [My first bug in Google Cloud: Command injection in Vertex AI](https://blog.3133700.xyz/bug_vertex_ai)[*](#) by [Valentino Massaro](https://twitter.com/valent1nee)
+- **[Aug 30 - $3,500]** [Client-side RCE via CSS Injection in Google Web Designer for Windows](https://balintmagyar.com/articles/google-web-designer-css-injection-client-rce)[*](https://web.archive.org/web/20250831035312/https://balintmagyar.com/articles/google-web-designer-css-injection-client-rce) by [Bálint Magyar](https://mastodon.social/@balint)
+- **[Jul 02 - $22,500]** [XSS in Google IDX Workstation](https://sudistark.github.io/2025/07/02/idx.html)[*](https://web.archive.org/web/20250831035245/https://sudistark.github.io/2025/07/02/idx.html) by [sudi](https://twitter.com/sudhanshur705)
+- **[Jul 01 - $3,133.7]** [My first bug in Google Cloud: Command injection in Vertex AI](https://blog.3133700.xyz/bug_vertex_ai)[*](https://web.archive.org/web/20250831035151/https://buganizer.cc/bug_vertex_ai) by [Valentino Massaro](https://twitter.com/valent1nee)
 - **[Jun 09 - $5,000]** [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)[*](https://web.archive.org/web/20250706101740/https://brutecat.com/articles/leaking-google-phones) by [brutecat](https://twitter.com/brutecat)
 - **[May 22 - $8,500]** [Client-side RCE via improper URL parsing in Google Web Designer for Windows: CVE-2025-4613](https://balintmagyar.com/articles/google-web-designer-path-traversal-client-side-rce-cve-2025-4613)[*](https://web.archive.org/web/20250526035103/https://balintmagyar.com/articles/google-web-designer-path-traversal-client-side-rce-cve-2025-4613) by [Bálint Magyar](https://mastodon.social/@balint)
 - **[May 17 - $3,133.7]** [Hunting for Bucket Traversals in Google's Client Libraries](https://jdomeracki.github.io/2025/05/04/hunting_for_bucket_traversals/)[*](https://web.archive.org/web/20250516230902/https://jdomeracki.github.io/2025/05/04/hunting_for_bucket_traversals/) by [Jakub Domeracki](https://x.com/j_domeracki)
