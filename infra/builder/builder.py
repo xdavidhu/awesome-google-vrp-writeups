@@ -25,7 +25,7 @@ def parse_writeups(writeups_csv):
     return writeups
 
 def parse_twitter_user(author_url):
-    match = re.match(r"https:\/\/twitter.com\/([a-zA-Z0-9_]+)", author_url)
+    match = re.match(r"https:\/\/(?:twitter\.com|x\.com)\/([a-zA-Z0-9_]+)", author_url)
     if match != None:
         return match.group(1)
     return False
