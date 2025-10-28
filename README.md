@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2025:
 
+- **[Oct 23 - $???]** [CVE-2025-12080 — Intent Abuse in Google Messages for Wear OS for Silent Message Sending](https://towerofhanoi.it/writeups/cve-2025-12080/)[*](#) by [Gabriele Digregorio (Io_no)](https://x.com/Io_no__)
 - **[Sep 30 - $???]** [The Trifecta: How Three New Gemini Vulnerabilities in Cloud Assist, Search Model, and Browsing Allowed Private Data Exfiltration](https://www.tenable.com/blog/the-trifecta-how-three-new-gemini-vulnerabilities-in-cloud-assist-search-model-and-browsing)[*](#) by [Liv Matan](https://x.com/terminatorLM)
 - **[Aug 31 - $3,133.7]** [Controlling the Google Assistant via Web Speech API (Awarded $3133.7)](https://ndevtk.github.io/writeups/2025/08/30/assistant/)[*](https://web.archive.org/web/20250831041440/https://ndevtk.github.io/writeups/2025/08/30/assistant/) by [NDevTK](https://twitter.com/ndevtk)
 - **[Aug 30 - $3,500]** [Client-side RCE via CSS Injection in Google Web Designer for Windows](https://balintmagyar.com/articles/google-web-designer-css-injection-client-rce)[*](https://web.archive.org/web/20250831035312/https://balintmagyar.com/articles/google-web-designer-css-injection-client-rce) by [Bálint Magyar](https://mastodon.social/@balint)
