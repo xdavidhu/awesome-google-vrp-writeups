@@ -21,6 +21,10 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ## Writeups:
 
+### 2026:
+
+- **[Jan 17 - $???]** [Privilege Escalation via a Service Account Impersonation Chain](https://jdsec.cloud/posts/2026-01-17-privilege-escalation-via-a-service-account-impersonation-chain/)[*](#) by [Jakub Domeracki](https://twitter.com/j_domeracki)
+
 ### 2025:
 
 - **[Nov 10 - $20,000]** [Hacking Gemini: A Multi-Layered Approach](https://buganizer.cc/hacking-gemini-a-multi-layered-approach-md)[*](https://web.archive.org/web/20251111115835/https://buganizer.cc/hacking-gemini-a-multi-layered-approach-md) by [Valentino Massaro](https://twitter.com/valent1nee)
