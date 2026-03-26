@@ -23,6 +23,9 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2026:
 
+- **[Mar 23 - $???]** [Remote Command Execution in Google Cloud with Single Directory Deletion](https://flatt.tech/research/posts/remote-command-execution-in-google-cloud-with-single-directory-deletion/)[*](#) by [RyotaK](https://twitter.com/ryotkak)
+- **[Mar 10 - $???]** [LeakyLooker: Hacking Google Cloud’s Data via Dangerous Looker Studio Vulnerabilities](https://www.tenable.com/blog/leakylooker-google-cloud-looker-studio-vulnerabilities)[*](#) by [Liv Matan](https://twitter.com/terminatorLM)
+- **[Feb 04 - $???]** [LookOut: Discovering RCE and Internal Access on Looker (Google Cloud & On-Prem)](https://www.tenable.com/blog/google-looker-vulnerabilities-rce-internal-access-lookout)[*](#) by [Liv Matan](https://twitter.com/terminatorLM)
 - **[Jan 17 - $???]** [Privilege Escalation via a Service Account Impersonation Chain](https://jdsec.cloud/posts/2026-01-17-privilege-escalation-via-a-service-account-impersonation-chain/)[*](#) by [Jakub Domeracki](https://twitter.com/j_domeracki)
 
 ### 2025:
