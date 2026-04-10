@@ -5,6 +5,7 @@
 
 **Follow [@gvrp_writeups](https://twitter.com/gvrp_writeups) on Twitter to get new writeups straigt into your feed!**
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=xdavidhu_awesome-google-vrp-writeups) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## Contributing:
 
 If you know of any writeups/videos not listed in this repository, feel free to open a Pull Request.
