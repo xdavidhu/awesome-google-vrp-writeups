@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2026:
 
+- **[Mar 31 - $14,337]** [Hacking Google Support: Leaking millions of customer records](https://michaeldalton.au/posts/hacking-google-support)[*](#) by [Michael Dalton](https://twitter.com/michaeldaltonau)
 - **[Mar 23 - $???]** [Remote Command Execution in Google Cloud with Single Directory Deletion](https://flatt.tech/research/posts/remote-command-execution-in-google-cloud-with-single-directory-deletion/)[*](https://web.archive.org/web/20260430143614/https://flatt.tech/research/posts/remote-command-execution-in-google-cloud-with-single-directory-deletion/) by [RyotaK](https://twitter.com/ryotkak)
 - **[Mar 10 - $???]** [LeakyLooker: Hacking Google Cloud’s Data via Dangerous Looker Studio Vulnerabilities](https://www.tenable.com/blog/leakylooker-google-cloud-looker-studio-vulnerabilities)[*](https://web.archive.org/web/20260430143344/https://www.tenable.com/blog/leakylooker-google-cloud-looker-studio-vulnerabilities) by [Liv Matan](https://twitter.com/terminatorLM)
 - **[Feb 04 - $???]** [LookOut: Discovering RCE and Internal Access on Looker (Google Cloud & On-Prem)](https://www.tenable.com/blog/google-looker-vulnerabilities-rce-internal-access-lookout)[*](https://web.archive.org/web/20260430143305/https://www.tenable.com/blog/google-looker-vulnerabilities-rce-internal-access-lookout) by [Liv Matan](https://twitter.com/terminatorLM)
