@@ -64,9 +64,18 @@ def archive(url):
         r = requests.get(f"https://web.archive.org/save/{url}", headers=headers, timeout=120, allow_redirects=False)
         print(f"[+] Successfully archived '{url}', archive: '{r.headers['location']}'")
         return r.headers["location"]
-    except:
+    except requests.RequestException as e:
+        print(f"[-] Request failed for '{url}': {type(e).__name__}: {e}")
         return False
 
+    location = r.headers.get("location")
+    if r.is_redirect and location:
+        print(f"[+] Successfully archived '{url}', archive: '{location}'")
+        return location
+
+    print(f"[-] Archive failed for '{url}': HTTP {r.status_code} {r.reason}")
+    print(f"    Response headers: {dict(r.headers)}")
+    print(f"    Response body: {r.text[:500]}")
     return False
 
 def write_writeups(writeups, writeups_csv):
