@@ -62,8 +62,6 @@ def archive(url):
 
     try:
         r = requests.get(f"https://web.archive.org/save/{url}", headers=headers, timeout=120, allow_redirects=False)
-        print(f"[+] Successfully archived '{url}', archive: '{r.headers['location']}'")
-        return r.headers["location"]
     except requests.RequestException as e:
         print(f"[-] Request failed for '{url}': {type(e).__name__}: {e}")
         return False
