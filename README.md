@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2026:
 
+- **[Oct 13 - $250,000]** [Zero to Calc in Six Days: Inside XBOW’s Chrome Full Chain](https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain)[*](#) by [Brendan Dolan-Gavitt](https://x.com/xbow)
 - **[Oct 12 - $90,000]** [How I Found a $90,000 Remote Code Execution Vulnerability in Google](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce)[*](https://web.archive.org/web/20261014025035/https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce) by [Simon Köck](https://x.com/soeckly)
 - **[Sep 11 - $97,604.4]** [Breaking into Google's GFile for $100k](https://bughunters.google.com/blog/breaking-into-googles-gfile-for-100k)[*](#) by [brutecat](https://twitter.com/brutecat)
 - **[Jul 15 - $13,337]** [Confused Deputy: Google IdP Universal Account Takeover via Device Code Flow Hijacking](https://weirdmachine64.github.io/research/google-oauth-device-code-hijacking.html)[*](#) by [Mohamed Benchikh](https://www.linkedin.com/in/mohamedbenchikh/)
