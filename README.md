@@ -23,6 +23,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2026:
 
+- **[May 22 - $148,337]** [StubZero: $148,337 RCE in Google Cloud Production](https://brutecat.com/articles/google-cloud-rce/)[*](#) by [brutecat](https://twitter.com/brutecat)
 - **[Apr 02 - $0]** [Weaponizing NotebookLM: How a Harmless Intent Can Silently Brick Your System Storage](https://medium.com/@sandichrist6/weaponizing-notebooklm-how-a-harmless-intent-can-silently-brick-your-system-storage-293df02fe891)[*](#) by [Sandiyo Christan](https://www.linkedin.com/in/sandiyo-christan-bb3847198/)
 - **[Mar 31 - $14,337]** [Hacking Google Support: Leaking millions of customer records](https://michaeldalton.au/posts/hacking-google-support)[*](https://web.archive.org/web/20260504025345/https://michaeldalton.au/posts/hacking-google-support) by [Michael Dalton](https://twitter.com/michaeldaltonau)
 - **[Mar 23 - $???]** [Remote Command Execution in Google Cloud with Single Directory Deletion](https://flatt.tech/research/posts/remote-command-execution-in-google-cloud-with-single-directory-deletion/)[*](https://web.archive.org/web/20260430143614/https://flatt.tech/research/posts/remote-command-execution-in-google-cloud-with-single-directory-deletion/) by [RyotaK](https://twitter.com/ryotkak)
