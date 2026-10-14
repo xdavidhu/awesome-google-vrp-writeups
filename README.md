@@ -24,6 +24,7 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 ### 2026:
 
 - **[Oct 12 - $90,000]** [How I Found a $90,000 Remote Code Execution Vulnerability in Google](https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce)[*](https://web.archive.org/web/20261014025035/https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce) by [Simon Köck](https://x.com/soeckly)
+- **[Sep 11 - $500,000]** [Breaking into Google's GFile for $100k](https://bughunters.google.com/blog/breaking-into-googles-gfile-for-100k)[*](#) by [brutecat](https://twitter.com/brutecat)
 - **[Jul 15 - $13,337]** [Confused Deputy: Google IdP Universal Account Takeover via Device Code Flow Hijacking](https://weirdmachine64.github.io/research/google-oauth-device-code-hijacking.html)[*](#) by [Mohamed Benchikh](https://www.linkedin.com/in/mohamedbenchikh/)
 - **[Jun 11 - $500,000]** [Hacking Google with A.I. for $500,000](https://brutecat.com/articles/hacking-google-with-ai/)[*](#) by [brutecat](https://twitter.com/brutecat)
 - **[May 27 - $???]** [Android Lock Screen Bypass via Google Gemini — The Patch That Wasn’t](https://medium.com/@sandichrist6/android-lock-screen-bypass-via-google-gemini-the-patch-that-wasnt-5509c5c21630)[*](#) by [Sandiyo Christan](https://www.linkedin.com/in/sandiyo-christan-bb3847198/)
