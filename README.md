@@ -23,6 +23,8 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2026:
 
+- **[Jul 15 - $13,337]** [Confused Deputy: Google IdP Universal Account Takeover via Device Code Flow Hijacking](https://weirdmachine64.github.io/research/google-oauth-device-code-hijacking.html)[*](#) by [Mohamed Benchikh](https://www.linkedin.com/in/mohamedbenchikh/)
+- **[May 27 - $???]** [Android Lock Screen Bypass via Google Gemini — The Patch That Wasn’t](https://medium.com/@sandichrist6/android-lock-screen-bypass-via-google-gemini-the-patch-that-wasnt-5509c5c21630)[*](#) by [Sandiyo Christan](https://www.linkedin.com/in/sandiyo-christan-bb3847198/)
 - **[May 22 - $148,337]** [StubZero: $148,337 RCE in Google Cloud Production](https://brutecat.com/articles/google-cloud-rce/)[*](#) by [brutecat](https://twitter.com/brutecat)
 - **[Apr 02 - $0]** [Weaponizing NotebookLM: How a Harmless Intent Can Silently Brick Your System Storage](https://medium.com/@sandichrist6/weaponizing-notebooklm-how-a-harmless-intent-can-silently-brick-your-system-storage-293df02fe891)[*](#) by [Sandiyo Christan](https://www.linkedin.com/in/sandiyo-christan-bb3847198/)
 - **[Mar 31 - $14,337]** [Hacking Google Support: Leaking millions of customer records](https://michaeldalton.au/posts/hacking-google-support)[*](https://web.archive.org/web/20260504025345/https://michaeldalton.au/posts/hacking-google-support) by [Michael Dalton](https://twitter.com/michaeldaltonau)
