@@ -282,3 +282,4 @@ date,bounty,title,url,author,author-url,type,tweeted,archive-url
 2026-10-15,?,"Poisoning Rhino, Then Waiting for the Callback",https://bugs.exposed/posts/apigee-rhino-httpclient-callback-sandbox,Nikita Markevich,https://www.linkedin.com/in/nikita-markevich,blog,true,?
 2026-10-29,9000,The App With No Products,https://bugs.exposed/posts/apigee-oauth-skeleton-key,Nikita Markevich,https://www.linkedin.com/in/nikita-markevich,blog,true,https://web.archive.org/web/20261110164540/https://bugs.exposed/posts/apigee-oauth-skeleton-key
 2026-10-29,1337,The Debug Filter That Read Masked Apigee Secrets,https://bugs.exposed/posts/apigee-debug-filter-oracle,Nikita Markevich,https://www.linkedin.com/in/nikita-markevich,blog,true,?
+2026-01-14,?,A 0-click exploit chain for the Pixel 9 Part 1: Decoding Dolby,https://projectzero.google/2026/01/pixel-0-click-part-1.html,Natalie Silvanovich (Project Zero),https://x.com/natashenka,blog,false,?
