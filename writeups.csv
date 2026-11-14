@@ -284,3 +284,4 @@ date,bounty,title,url,author,author-url,type,tweeted,archive-url
 2026-10-15,?,"Poisoning Rhino, Then Waiting for the Callback",https://bugs.exposed/posts/apigee-rhino-httpclient-callback-sandbox,Nikita Markevich,https://www.linkedin.com/in/nikita-markevich,blog,true,?
 2026-10-29,9000,The App With No Products,https://bugs.exposed/posts/apigee-oauth-skeleton-key,Nikita Markevich,https://www.linkedin.com/in/nikita-markevich,blog,true,https://web.archive.org/web/20261110164540/https://bugs.exposed/posts/apigee-oauth-skeleton-key
 2026-10-29,1337,The Debug Filter That Read Masked Apigee Secrets,https://bugs.exposed/posts/apigee-debug-filter-oracle,Nikita Markevich,https://www.linkedin.com/in/nikita-markevich,blog,true,?
+2026-02-02,?,Google Cloud Platform (GCP) Cloud Monitoring PE to Cloud Run Using Uptime Checks Service Agent Authentication,https://www.tenable.com/security/research/tra-2026-05,Moshe Bernstein,https://www.linkedin.com/in/moshe-bernstein,blog,false,?
