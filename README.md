@@ -23,6 +23,8 @@ To add a new writeup, simply add a new line to `writeups.csv`:
 
 ### 2026:
 
+- **[Nov 15 - $5,000]** [The Callback Apigee Checked and Then Ignored](https://bugs.exposed/posts/apigee-implicit-redirect-uri-token-theft)[*](#) by [Nikita Markevich](https://www.linkedin.com/in/nikita-markevich)
+- **[Oct 30 - $0]** [The OAuth Code Apigee Let Me Choose](https://bugs.exposed/posts/apigee-external-oauth-artifact-fixation)[*](#) by [Nikita Markevich](https://www.linkedin.com/in/nikita-markevich)
 - **[Oct 29 - $9,000]** [The App With No Products](https://bugs.exposed/posts/apigee-oauth-skeleton-key)[*](https://web.archive.org/web/20261110164540/https://bugs.exposed/posts/apigee-oauth-skeleton-key) by [Nikita Markevich](https://www.linkedin.com/in/nikita-markevich)
 - **[Oct 29 - $1,337]** [The Debug Filter That Read Masked Apigee Secrets](https://bugs.exposed/posts/apigee-debug-filter-oracle)[*](https://web.archive.org/web/20261114070140/https://bugs.exposed/posts/apigee-debug-filter-oracle) by [Nikita Markevich](https://www.linkedin.com/in/nikita-markevich)
 - **[Oct 15 - $???]** [Poisoning Rhino, Then Waiting for the Callback](https://bugs.exposed/posts/apigee-rhino-httpclient-callback-sandbox)[*](https://web.archive.org/web/20261114070122/https://bugs.exposed/posts/apigee-rhino-httpclient-callback-sandbox) by [Nikita Markevich](https://www.linkedin.com/in/nikita-markevich)
